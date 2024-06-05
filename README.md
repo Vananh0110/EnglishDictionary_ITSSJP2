@@ -6,7 +6,7 @@
 Chạy lệnh sau trong terminal để cài đặt `json-server`:
 
 ```bash
-npm install json-server
+npm install -g json-server
 ```
 
 ## File db.json
