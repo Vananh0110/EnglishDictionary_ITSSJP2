@@ -1,13 +1,426 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "words": [
+    {
+      "word": "forest",
+      "definition": "A large area covered chiefly with trees and undergrowth.",
+      "usage": "Forests provide habitat for many species.",
+      "example": "The forest was dense and full of wildlife.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/forest_noun_002_14696.jpg?version=6.0.17",
+      "topic_id": 1
+    },
+    {
+      "word": "river",
+      "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+      "usage": "Rivers are important sources of fresh water.",
+      "example": "The river flowed swiftly after the heavy rains.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/river_noun_001_14206.jpg?version=6.0.17",
+      "topic_id": 1
+    },
+    {
+      "word": "mountain",
+      "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+      "usage": "Mountains can be challenging to climb.",
+      "example": "The mountain was capped with snow.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/mounta_noun_002_24052.jpg?version=6.0.17",
+      "topic_id": 1
+    },
+    {
+      "word": "rain",
+      "definition": "Water that falls from the clouds in drops.",
+      "usage": "Rain is essential for growing crops.",
+      "example": "The rain was pouring down heavily.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/rain_noun_001_13323.jpg?version=6.0.17",
+      "topic_id": 2
+    },
+    {
+      "word": "snow",
+      "definition": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes.",
+      "usage": "Snow can create beautiful landscapes.",
+      "example": "The snow covered the ground in a thick blanket.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/snow_noun_001_15826.jpg?version=6.0.17",
+      "topic_id": 2
+    },
+    {
+      "word": "storm",
+      "definition": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+      "usage": "Storms can cause significant damage.",
+      "example": "The storm knocked out power in the city.",
+      "image_link": "https://static.dw.com/image/40442224_1004.webp",
+      "topic_id": 2
+    },
+    {
+      "word": "lion",
+      "definition": "A large tawny-colored cat that lives in prides, found in Africa and northwestern India.",
+      "usage": "Lions are known as the kings of the jungle.",
+      "example": "The lion roared loudly in the savannah.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/lion_noun_002_21358.jpg?version=6.0.17",
+      "topic_id": 3
+    },
+    {
+      "word": "eagle",
+      "definition": "A large bird of prey with a massive hooked bill and long broad wings.",
+      "usage": "Eagles have excellent vision.",
+      "example": "The eagle soared high above the mountains.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/eagle_noun_002_11909.jpg?version=6.0.17",
+      "topic_id": 3
+    },
+    {
+      "word": "dolphin",
+      "definition": "A small gregarious toothed whale that typically has a beaklike snout and a curved fin on the back.",
+      "usage": "Dolphins are known for their intelligence.",
+      "example": "The dolphin jumped out of the water playfully.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/dolphi_noun_002_11224.jpg?version=6.0.17",
+      "topic_id": 3
+    },
+    {
+      "word": "red",
+      "definition": "The color at the end of the spectrum next to orange and opposite violet.",
+      "usage": "Red is often associated with passion.",
+      "example": "The apple was bright red and juicy.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/red_noun_002_30456.jpg?version=6.0.17",
+      "topic_id": 4
+    },
+    {
+      "word": "blue",
+      "definition": "The color of the clear sky and the deep sea.",
+      "usage": "Blue is often associated with calmness.",
+      "example": "The sky was a deep, clear blue.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/blue_noun_001_01604.jpg?version=6.0.17",
+      "topic_id": 4
+    },
+    {
+      "word": "green",
+      "definition": "The color between blue and yellow in the spectrum; colored like grass or emeralds.",
+      "usage": "Green is associated with nature and tranquility.",
+      "example": "The fields were a vibrant green after the rain.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/green_noun_001_07350.jpg?version=6.0.17",
+      "topic_id": 4
+    },
+    {
+      "word": "pizza",
+      "definition": "A dish of Italian origin consisting of a flat, round base of dough baked with a topping of tomatoes and cheese, typically with added meat or vegetables.",
+      "usage": "Pizza is a popular food worldwide.",
+      "example": "We ordered a large pepperoni pizza.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/pizza_noun_001_12184.jpg?version=6.0.17",
+      "topic_id": 5
+    },
+    {
+      "word": "sushi",
+      "definition": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold rice served with a garnish of vegetables, egg, or raw seafood.",
+      "usage": "Sushi is often enjoyed with soy sauce and wasabi.",
+      "example": "She loves to eat sushi with fresh fish.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/sushi_noun_002_36852.jpg?version=6.0.17",
+      "topic_id": 5
+    },
+    {
+      "word": "chocolate",
+      "definition": "A food preparation in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened.",
+      "usage": "Chocolate is a favorite treat for many people.",
+      "example": "He gave her a box of chocolates for Valentine's Day.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/chocol_noun_001_02715.jpg?version=6.0.17",
+      "topic_id": 5
+    },
+    {
+      "word": "computer",
+      "definition": "An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.",
+      "usage": "Computers have revolutionized many industries.",
+      "example": "She works on her computer all day.",
+      "image_link": "https://cdn.langeek.co/photo/28249/original/pc",
+      "topic_id": 6
+    },
+    {
+      "word": "smartphone",
+      "definition": "A mobile phone that performs many of the functions of a computer, typically having a touchscreen interface, internet access, and an operating system capable of running downloaded apps.",
+      "usage": "Smartphones are widely used for communication and entertainment.",
+      "example": "He checked his email on his smartphone.",
+      "image_link": "https://example.com/smartphone.jpg",
+      "topic_id": 6
+    },
+    {
+      "word": "robot",
+      "definition": "A machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.",
+      "usage": "Robots are used in manufacturing to increase efficiency.",
+      "example": "The robot assembled the car parts quickly.",
+      "image_link": "https://example.com/robot.jpg",
+      "topic_id": 6
+    },
+    {
+      "word": "soccer",
+      "definition": "A game played by two teams of eleven players with a round ball that may not be touched with the hands or arms during play except by the goalkeepers, the object being to score goals by kicking or heading the ball into the opponents' goal.",
+      "usage": "Soccer is the most popular sport in the world.",
+      "example": "He scored the winning goal in the soccer match.",
+      "image_link": "https://example.com/soccer.jpg",
+      "topic_id": 7
+    },
+    {
+      "word": "basketball",
+      "definition": "A game played between two teams of five players each on a rectangular court, usually indoors. Each team tries to score by tossing the ball through the opponent's goal, an elevated horizontal hoop and net called a basket.",
+      "usage": "Basketball is known for its fast pace and high scoring.",
+      "example": "She made an impressive three-point shot in basketball.",
+      "image_link": "https://example.com/basketball.jpg",
+      "topic_id": 7
+    },
+    {
+      "word": "tennis",
+      "definition": "A game in which two or four players strike a ball with rackets over a net stretched across a court.",
+      "usage": "Tennis requires agility and precision.",
+      "example": "They played a match of tennis at the local courts.",
+      "image_link": "https://example.com/tennis.jpg",
+      "topic_id": 7
+    },
+    {
+      "word": "beach",
+      "definition": "A pebbly or sandy shore, especially by the sea between high- and low-water marks.",
+      "usage": "Beaches are popular destinations for vacations.",
+      "example": "They spent the day relaxing on the beach.",
+      "image_link": "https://example.com/beach.jpg",
+      "topic_id": 8
+    },
+    {
+      "word": "mountain",
+      "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+      "usage": "Mountains can be challenging to climb.",
+      "example": "The mountain was capped with snow.",
+      "image_link": "https://example.com/mountain.jpg",
+      "topic_id": 8
+    },
+    {
+      "word": "city",
+      "definition": "A large town.",
+      "usage": "Cities are known for their bustling activity.",
+      "example": "They explored the historic city center.",
+      "image_link": "https://example.com/city.jpg",
+      "topic_id": 8
+    },
+    {
+      "word": "school",
+      "definition": "An institution for educating children.",
+      "usage": "Schools are essential for childhood education.",
+      "example": "The school has a great science program.",
+      "image_link": "https://example.com/school.jpg",
+      "topic_id": 9
+    },
+    {
+      "word": "university",
+      "definition": "An institution of higher education and research which awards academic degrees in various academic disciplines.",
+      "usage": "Universities offer undergraduate and graduate programs.",
+      "example": "She is studying engineering at the university.",
+      "image_link": "https://example.com/university.jpg",
+      "topic_id": 9
+    },
+    {
+      "word": "library",
+      "definition": "A building or room containing collections of books, periodicals, and sometimes films and recorded music for use or borrowing by the public or the members of an institution.",
+      "usage": "Libraries provide access to a vast amount of knowledge.",
+      "example": "He spent the afternoon reading in the library.",
+      "image_link": "https://example.com/library.jpg",
+      "topic_id": 9
+    },
+    {
+      "word": "exercise",
+      "definition": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+      "usage": "Regular exercise is important for maintaining good health.",
+      "example": "She goes for a run every morning for exercise.",
+      "image_link": "https://example.com/exercise.jpg",
+      "topic_id": 10
+    },
+    {
+      "word": "diet",
+      "definition": "The kinds of food that a person, animal, or community habitually eats.",
+      "usage": "A balanced diet is essential for good health.",
+      "example": "He follows a vegetarian diet.",
+      "image_link": "https://example.com/diet.jpg",
+      "topic_id": 10
+    },
+    {
+      "word": "sleep",
+      "definition": "A condition of body and mind which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended.",
+      "usage": "Adequate sleep is crucial for overall well-being.",
+      "example": "She felt refreshed after a good night's sleep.",
+      "image_link": "https://example.com/sleep.jpg",
+      "topic_id": 10
+    },
+    {
+      "word": "guitar",
+      "definition": "A stringed musical instrument, usually played with fingers or a pick.",
+      "usage": "The guitar is popular in many music genres.",
+      "example": "He played a song on his acoustic guitar.",
+      "image_link": "https://example.com/guitar.jpg",
+      "topic_id": 11
+    },
+    {
+      "word": "piano",
+      "definition": "A large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings, which are struck by hammers when the keys are pressed.",
+      "usage": "The piano is used in both classical and contemporary music.",
+      "example": "She practiced playing the piano every day.",
+      "image_link": "https://example.com/piano.jpg",
+      "topic_id": 11
+    },
+    {
+      "word": "drums",
+      "definition": "A percussion instrument sounded by being struck with sticks or the hands, typically cylindrical, barrel-shaped, or bowl-shaped, with a taut membrane over one or both ends.",
+      "usage": "Drums are fundamental to many types of music.",
+      "example": "The drummer kept a steady beat throughout the song.",
+      "image_link": "https://example.com/drums.jpg",
+      "topic_id": 11
+    },
+    {
+      "word": "painting",
+      "definition": "The process or art of using paint, in a picture, as a protective coating, or as decoration.",
+      "usage": "Painting can be a way to express creativity.",
+      "example": "The museum has a beautiful painting collection.",
+      "image_link": "https://example.com/painting.jpg",
+      "topic_id": 12
+    },
+    {
+      "word": "sculpture",
+      "definition": "The art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster.",
+      "usage": "Sculpture requires a lot of skill and precision.",
+      "example": "The sculpture in the park was made of bronze.",
+      "image_link": "https://example.com/sculpture.jpg",
+      "topic_id": 12
+    },
+    {
+      "word": "photography",
+      "definition": "The art or practice of taking and processing photographs.",
+      "usage": "Photography can capture moments and scenes beautifully.",
+      "example": "She took up photography as a hobby.",
+      "image_link": "https://cdn.langeek.co/photo/22191/original/photography",
+      "topic_id": 12
+    },
+    {
+      "word": "novel",
+      "definition": "A fictitious prose narrative of book length, typically representing character and action with some degree of realism.",
+      "usage": "Novels can provide deep insights into human experiences.",
+      "example": "She is reading a novel by her favorite author.",
+      "image_link": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/j/f/q/-original-imagnhh9gsj5hkkt.jpeg?q=90&crop=false",
+      "topic_id": 13
+    },
+    {
+      "word": "poem",
+      "definition": "A piece of writing that partakes of the nature of both speech and song that is nearly always rhythmical, usually metaphorical, and often exhibits such formal elements as meter, rhyme, and stanzaic structure.",
+      "usage": "Poems often express emotions and ideas in a condensed form.",
+      "example": "He wrote a beautiful poem about love.",
+      "image_link": "data:image/jpeg;base64,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",
+      "topic_id": 13
+    },
+    {
+      "word": "short story",
+      "definition": "A story with a fully developed theme but significantly shorter and less elaborate than a novel.",
+      "usage": "Short stories can be powerful and impactful despite their length.",
+      "example": "The magazine published a collection of short stories.",
+      "image_link": "data:image/jpeg;base64,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",
+      "topic_id": 13
+    },
+    {
+      "word": "world war",
+      "definition": "A war involving many large nations in all different parts of the world.",
+      "usage": "The two world wars had profound impacts on global history.",
+      "example": "World War II lasted from 1939 to 1945.",
+      "image_link": "data:image/jpeg;base64,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",
+      "topic_id": 14
+    },
+    {
+      "word": "revolution",
+      "definition": "A forcible overthrow of a government or social order, in favor of a new system.",
+      "usage": "Revolutions can bring about significant political and social changes.",
+      "example": "The revolution led to the establishment of a republic.",
+      "image_link": "https://springfieldmuseums.org/collections/item/the-burning-of-the-throne-paris-25th-february-1848-nathaniel-currier/",
+      "topic_id": 14
+    },
+    {
+      "word": "empire",
+      "definition": "An extensive group of states or countries under a single supreme authority, formerly especially an emperor or empress.",
+      "usage": "Empires have risen and fallen throughout history.",
+      "example": "The Roman Empire was one of the greatest in history.",
+      "image_link": "https://en.wikipedia.org/wiki/File:Roman_Empire_Trajan_117AD.png",
+      "topic_id": 14
+    },
+    {
+      "word": "gravity",
+      "definition": "The force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+      "usage": "Gravity keeps us grounded on the earth.",
+      "example": "Sir Isaac Newton discovered the laws of gravity.",
+      "image_link": "https://cdn.langeek.co/photo/49441/original/fall",
+      "topic_id": 15
+    },
+    {
+      "word": "atom",
+      "definition": "The basic unit of a chemical element.",
+      "usage": "Atoms combine to form molecules.",
+      "example": "Everything is made up of atoms.",
+      "image_link": "https://cdn.langeek.co/photo/22696/original/",
+      "topic_id": 15
+    },
+    {
+      "word": "evolution",
+      "definition": "The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.",
+      "usage": "Evolution explains the diversity of life on Earth.",
+      "example": "Charles Darwin proposed the theory of evolution by natural selection.",
+      "image_link": "https://cdn.langeek.co/photo/23299/original/",
+      "topic_id": 15
     }
-  }
+  ],
+  "topic": [
+    {
+      "id": 1,
+      "topic_name": "Nature"
+    },
+    {
+      "id": 2,
+      "topic_name": "Weather"
+    },
+    {
+      "id": 3,
+      "topic_name": "Animals"
+    },
+    {
+      "id": 4,
+      "topic_name": "Colors"
+    },
+    {
+      "id": 5,
+      "topic_name": "Food"
+    },
+    {
+      "id": 6,
+      "topic_name": "Technology"
+    },
+    {
+      "id": 7,
+      "topic_name": "Sports"
+    },
+    {
+      "id": 8,
+      "topic_name": "Travel"
+    },
+    {
+      "id": 9,
+      "topic_name": "Education"
+    },
+    {
+      "id": 10,
+      "topic_name": "Health"
+    },
+    {
+      "id": 11,
+      "topic_name": "Music"
+    },
+    {
+      "id": 12,
+      "topic_name": "Art"
+    },
+    {
+      "id": 13,
+      "topic_name": "Literature"
+    },
+    {
+      "id": 14,
+      "topic_name": "History"
+    },
+    {
+      "id": 15,
+      "topic_name": "Science"
+    }
+  ]
+}
