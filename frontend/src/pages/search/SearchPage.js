@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import SearchComponent from '../../components/SearchComponent';
 
+import Layout from '../../components/Layout'
+
 const SearchPage = () => {
   const [searchResults, setSearchResults] = useState([]);
 
