@@ -1,13 +1,426 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "words": [
+    {
+      "word": "forest",
+      "definition": "A large area covered chiefly with trees and undergrowth.",
+      "usage": "Forests provide habitat for many species.",
+      "example": "The forest was dense and full of wildlife.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/forest_noun_002_14696.jpg?version=6.0.17",
+      "topic_id": 1
+    },
+    {
+      "word": "river",
+      "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+      "usage": "Rivers are important sources of fresh water.",
+      "example": "The river flowed swiftly after the heavy rains.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/river_noun_001_14206.jpg?version=6.0.17",
+      "topic_id": 1
+    },
+    {
+      "word": "mountain",
+      "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+      "usage": "Mountains can be challenging to climb.",
+      "example": "The mountain was capped with snow.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/mounta_noun_002_24052.jpg?version=6.0.17",
+      "topic_id": 1
+    },
+    {
+      "word": "rain",
+      "definition": "Water that falls from the clouds in drops.",
+      "usage": "Rain is essential for growing crops.",
+      "example": "The rain was pouring down heavily.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/rain_noun_001_13323.jpg?version=6.0.17",
+      "topic_id": 2
+    },
+    {
+      "word": "snow",
+      "definition": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes.",
+      "usage": "Snow can create beautiful landscapes.",
+      "example": "The snow covered the ground in a thick blanket.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/snow_noun_001_15826.jpg?version=6.0.17",
+      "topic_id": 2
+    },
+    {
+      "word": "storm",
+      "definition": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+      "usage": "Storms can cause significant damage.",
+      "example": "The storm knocked out power in the city.",
+      "image_link": "https://static.dw.com/image/40442224_1004.webp",
+      "topic_id": 2
+    },
+    {
+      "word": "lion",
+      "definition": "A large tawny-colored cat that lives in prides, found in Africa and northwestern India.",
+      "usage": "Lions are known as the kings of the jungle.",
+      "example": "The lion roared loudly in the savannah.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/lion_noun_002_21358.jpg?version=6.0.17",
+      "topic_id": 3
+    },
+    {
+      "word": "eagle",
+      "definition": "A large bird of prey with a massive hooked bill and long broad wings.",
+      "usage": "Eagles have excellent vision.",
+      "example": "The eagle soared high above the mountains.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/eagle_noun_002_11909.jpg?version=6.0.17",
+      "topic_id": 3
+    },
+    {
+      "word": "dolphin",
+      "definition": "A small gregarious toothed whale that typically has a beaklike snout and a curved fin on the back.",
+      "usage": "Dolphins are known for their intelligence.",
+      "example": "The dolphin jumped out of the water playfully.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/dolphi_noun_002_11224.jpg?version=6.0.17",
+      "topic_id": 3
+    },
+    {
+      "word": "red",
+      "definition": "The color at the end of the spectrum next to orange and opposite violet.",
+      "usage": "Red is often associated with passion.",
+      "example": "The apple was bright red and juicy.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/red_noun_002_30456.jpg?version=6.0.17",
+      "topic_id": 4
+    },
+    {
+      "word": "blue",
+      "definition": "The color of the clear sky and the deep sea.",
+      "usage": "Blue is often associated with calmness.",
+      "example": "The sky was a deep, clear blue.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/blue_noun_001_01604.jpg?version=6.0.17",
+      "topic_id": 4
+    },
+    {
+      "word": "green",
+      "definition": "The color between blue and yellow in the spectrum; colored like grass or emeralds.",
+      "usage": "Green is associated with nature and tranquility.",
+      "example": "The fields were a vibrant green after the rain.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/green_noun_001_07350.jpg?version=6.0.17",
+      "topic_id": 4
+    },
+    {
+      "word": "pizza",
+      "definition": "A dish of Italian origin consisting of a flat, round base of dough baked with a topping of tomatoes and cheese, typically with added meat or vegetables.",
+      "usage": "Pizza is a popular food worldwide.",
+      "example": "We ordered a large pepperoni pizza.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/pizza_noun_001_12184.jpg?version=6.0.17",
+      "topic_id": 5
+    },
+    {
+      "word": "sushi",
+      "definition": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold rice served with a garnish of vegetables, egg, or raw seafood.",
+      "usage": "Sushi is often enjoyed with soy sauce and wasabi.",
+      "example": "She loves to eat sushi with fresh fish.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/sushi_noun_002_36852.jpg?version=6.0.17",
+      "topic_id": 5
+    },
+    {
+      "word": "chocolate",
+      "definition": "A food preparation in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened.",
+      "usage": "Chocolate is a favorite treat for many people.",
+      "example": "He gave her a box of chocolates for Valentine's Day.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/chocol_noun_001_02715.jpg?version=6.0.17",
+      "topic_id": 5
+    },
+    {
+      "word": "computer",
+      "definition": "An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.",
+      "usage": "Computers have revolutionized many industries.",
+      "example": "She works on her computer all day.",
+      "image_link": "https://example.com/computer.jpg",
+      "topic_id": 6
+    },
+    {
+      "word": "smartphone",
+      "definition": "A mobile phone that performs many of the functions of a computer, typically having a touchscreen interface, internet access, and an operating system capable of running downloaded apps.",
+      "usage": "Smartphones are widely used for communication and entertainment.",
+      "example": "He checked his email on his smartphone.",
+      "image_link": "https://example.com/smartphone.jpg",
+      "topic_id": 6
+    },
+    {
+      "word": "robot",
+      "definition": "A machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.",
+      "usage": "Robots are used in manufacturing to increase efficiency.",
+      "example": "The robot assembled the car parts quickly.",
+      "image_link": "https://example.com/robot.jpg",
+      "topic_id": 6
+    },
+    {
+      "word": "soccer",
+      "definition": "A game played by two teams of eleven players with a round ball that may not be touched with the hands or arms during play except by the goalkeepers, the object being to score goals by kicking or heading the ball into the opponents' goal.",
+      "usage": "Soccer is the most popular sport in the world.",
+      "example": "He scored the winning goal in the soccer match.",
+      "image_link": "https://example.com/soccer.jpg",
+      "topic_id": 7
+    },
+    {
+      "word": "basketball",
+      "definition": "A game played between two teams of five players each on a rectangular court, usually indoors. Each team tries to score by tossing the ball through the opponent's goal, an elevated horizontal hoop and net called a basket.",
+      "usage": "Basketball is known for its fast pace and high scoring.",
+      "example": "She made an impressive three-point shot in basketball.",
+      "image_link": "https://example.com/basketball.jpg",
+      "topic_id": 7
+    },
+    {
+      "word": "tennis",
+      "definition": "A game in which two or four players strike a ball with rackets over a net stretched across a court.",
+      "usage": "Tennis requires agility and precision.",
+      "example": "They played a match of tennis at the local courts.",
+      "image_link": "https://example.com/tennis.jpg",
+      "topic_id": 7
+    },
+    {
+      "word": "beach",
+      "definition": "A pebbly or sandy shore, especially by the sea between high- and low-water marks.",
+      "usage": "Beaches are popular destinations for vacations.",
+      "example": "They spent the day relaxing on the beach.",
+      "image_link": "https://example.com/beach.jpg",
+      "topic_id": 8
+    },
+    {
+      "word": "mountain",
+      "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+      "usage": "Mountains can be challenging to climb.",
+      "example": "The mountain was capped with snow.",
+      "image_link": "https://example.com/mountain.jpg",
+      "topic_id": 8
+    },
+    {
+      "word": "city",
+      "definition": "A large town.",
+      "usage": "Cities are known for their bustling activity.",
+      "example": "They explored the historic city center.",
+      "image_link": "https://example.com/city.jpg",
+      "topic_id": 8
+    },
+    {
+      "word": "school",
+      "definition": "An institution for educating children.",
+      "usage": "Schools are essential for childhood education.",
+      "example": "The school has a great science program.",
+      "image_link": "https://example.com/school.jpg",
+      "topic_id": 9
+    },
+    {
+      "word": "university",
+      "definition": "An institution of higher education and research which awards academic degrees in various academic disciplines.",
+      "usage": "Universities offer undergraduate and graduate programs.",
+      "example": "She is studying engineering at the university.",
+      "image_link": "https://example.com/university.jpg",
+      "topic_id": 9
+    },
+    {
+      "word": "library",
+      "definition": "A building or room containing collections of books, periodicals, and sometimes films and recorded music for use or borrowing by the public or the members of an institution.",
+      "usage": "Libraries provide access to a vast amount of knowledge.",
+      "example": "He spent the afternoon reading in the library.",
+      "image_link": "https://example.com/library.jpg",
+      "topic_id": 9
+    },
+    {
+      "word": "exercise",
+      "definition": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+      "usage": "Regular exercise is important for maintaining good health.",
+      "example": "She goes for a run every morning for exercise.",
+      "image_link": "https://example.com/exercise.jpg",
+      "topic_id": 10
+    },
+    {
+      "word": "diet",
+      "definition": "The kinds of food that a person, animal, or community habitually eats.",
+      "usage": "A balanced diet is essential for good health.",
+      "example": "He follows a vegetarian diet.",
+      "image_link": "https://example.com/diet.jpg",
+      "topic_id": 10
+    },
+    {
+      "word": "sleep",
+      "definition": "A condition of body and mind which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended.",
+      "usage": "Adequate sleep is crucial for overall well-being.",
+      "example": "She felt refreshed after a good night's sleep.",
+      "image_link": "https://example.com/sleep.jpg",
+      "topic_id": 10
+    },
+    {
+      "word": "guitar",
+      "definition": "A stringed musical instrument, usually played with fingers or a pick.",
+      "usage": "The guitar is popular in many music genres.",
+      "example": "He played a song on his acoustic guitar.",
+      "image_link": "https://example.com/guitar.jpg",
+      "topic_id": 11
+    },
+    {
+      "word": "piano",
+      "definition": "A large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings, which are struck by hammers when the keys are pressed.",
+      "usage": "The piano is used in both classical and contemporary music.",
+      "example": "She practiced playing the piano every day.",
+      "image_link": "https://example.com/piano.jpg",
+      "topic_id": 11
+    },
+    {
+      "word": "drums",
+      "definition": "A percussion instrument sounded by being struck with sticks or the hands, typically cylindrical, barrel-shaped, or bowl-shaped, with a taut membrane over one or both ends.",
+      "usage": "Drums are fundamental to many types of music.",
+      "example": "The drummer kept a steady beat throughout the song.",
+      "image_link": "https://example.com/drums.jpg",
+      "topic_id": 11
+    },
+    {
+      "word": "painting",
+      "definition": "The process or art of using paint, in a picture, as a protective coating, or as decoration.",
+      "usage": "Painting can be a way to express creativity.",
+      "example": "The museum has a beautiful painting collection.",
+      "image_link": "https://example.com/painting.jpg",
+      "topic_id": 12
+    },
+    {
+      "word": "sculpture",
+      "definition": "The art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster.",
+      "usage": "Sculpture requires a lot of skill and precision.",
+      "example": "The sculpture in the park was made of bronze.",
+      "image_link": "https://example.com/sculpture.jpg",
+      "topic_id": 12
+    },
+    {
+      "word": "photography",
+      "definition": "The art or practice of taking and processing photographs.",
+      "usage": "Photography can capture moments and scenes beautifully.",
+      "example": "She took up photography as a hobby.",
+      "image_link": "https://example.com/photography.jpg",
+      "topic_id": 12
+    },
+    {
+      "word": "novel",
+      "definition": "A fictitious prose narrative of book length, typically representing character and action with some degree of realism.",
+      "usage": "Novels can provide deep insights into human experiences.",
+      "example": "She is reading a novel by her favorite author.",
+      "image_link": "https://example.com/novel.jpg",
+      "topic_id": 13
+    },
+    {
+      "word": "poem",
+      "definition": "A piece of writing that partakes of the nature of both speech and song that is nearly always rhythmical, usually metaphorical, and often exhibits such formal elements as meter, rhyme, and stanzaic structure.",
+      "usage": "Poems often express emotions and ideas in a condensed form.",
+      "example": "He wrote a beautiful poem about love.",
+      "image_link": "https://example.com/poem.jpg",
+      "topic_id": 13
+    },
+    {
+      "word": "short story",
+      "definition": "A story with a fully developed theme but significantly shorter and less elaborate than a novel.",
+      "usage": "Short stories can be powerful and impactful despite their length.",
+      "example": "The magazine published a collection of short stories.",
+      "image_link": "https://example.com/short_story.jpg",
+      "topic_id": 13
+    },
+    {
+      "word": "world war",
+      "definition": "A war involving many large nations in all different parts of the world.",
+      "usage": "The two world wars had profound impacts on global history.",
+      "example": "World War II lasted from 1939 to 1945.",
+      "image_link": "https://example.com/world_war.jpg",
+      "topic_id": 14
+    },
+    {
+      "word": "revolution",
+      "definition": "A forcible overthrow of a government or social order, in favor of a new system.",
+      "usage": "Revolutions can bring about significant political and social changes.",
+      "example": "The revolution led to the establishment of a republic.",
+      "image_link": "https://example.com/revolution.jpg",
+      "topic_id": 14
+    },
+    {
+      "word": "empire",
+      "definition": "An extensive group of states or countries under a single supreme authority, formerly especially an emperor or empress.",
+      "usage": "Empires have risen and fallen throughout history.",
+      "example": "The Roman Empire was one of the greatest in history.",
+      "image_link": "https://example.com/empire.jpg",
+      "topic_id": 14
+    },
+    {
+      "word": "gravity",
+      "definition": "The force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+      "usage": "Gravity keeps us grounded on the earth.",
+      "example": "Sir Isaac Newton discovered the laws of gravity.",
+      "image_link": "https://example.com/gravity.jpg",
+      "topic_id": 15
+    },
+    {
+      "word": "atom",
+      "definition": "The basic unit of a chemical element.",
+      "usage": "Atoms combine to form molecules.",
+      "example": "Everything is made up of atoms.",
+      "image_link": "https://example.com/atom.jpg",
+      "topic_id": 15
+    },
+    {
+      "word": "evolution",
+      "definition": "The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.",
+      "usage": "Evolution explains the diversity of life on Earth.",
+      "example": "Charles Darwin proposed the theory of evolution by natural selection.",
+      "image_link": "https://example.com/evolution.jpg",
+      "topic_id": 15
     }
-  }
+  ],
+  "topic": [
+    {
+      "id": 1,
+      "topic_name": "Nature"
+    },
+    {
+      "id": 2,
+      "topic_name": "Weather"
+    },
+    {
+      "id": 3,
+      "topic_name": "Animals"
+    },
+    {
+      "id": 4,
+      "topic_name": "Colors"
+    },
+    {
+      "id": 5,
+      "topic_name": "Food"
+    },
+    {
+      "id": 6,
+      "topic_name": "Technology"
+    },
+    {
+      "id": 7,
+      "topic_name": "Sports"
+    },
+    {
+      "id": 8,
+      "topic_name": "Travel"
+    },
+    {
+      "id": 9,
+      "topic_name": "Education"
+    },
+    {
+      "id": 10,
+      "topic_name": "Health"
+    },
+    {
+      "id": 11,
+      "topic_name": "Music"
+    },
+    {
+      "id": 12,
+      "topic_name": "Art"
+    },
+    {
+      "id": 13,
+      "topic_name": "Literature"
+    },
+    {
+      "id": 14,
+      "topic_name": "History"
+    },
+    {
+      "id": 15,
+      "topic_name": "Science"
+    }
+  ]
+}
