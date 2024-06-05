@@ -6,7 +6,8 @@
       "usage": "Forests provide habitat for many species.",
       "example": "The forest was dense and full of wildlife.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/forest_noun_002_14696.jpg?version=6.0.17",
-      "topic_id": 1
+      "topic_id": 1,
+      "id": 1
     },
     {
       "word": "river",
@@ -14,7 +15,8 @@
       "usage": "Rivers are important sources of fresh water.",
       "example": "The river flowed swiftly after the heavy rains.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/river_noun_001_14206.jpg?version=6.0.17",
-      "topic_id": 1
+      "topic_id": 1,
+      "id": 2
     },
     {
       "word": "mountain",
@@ -22,7 +24,8 @@
       "usage": "Mountains can be challenging to climb.",
       "example": "The mountain was capped with snow.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/mounta_noun_002_24052.jpg?version=6.0.17",
-      "topic_id": 1
+      "topic_id": 1,
+      "id": 3
     },
     {
       "word": "rain",
@@ -30,7 +33,8 @@
       "usage": "Rain is essential for growing crops.",
       "example": "The rain was pouring down heavily.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/rain_noun_001_13323.jpg?version=6.0.17",
-      "topic_id": 2
+      "topic_id": 2,
+      "id": 4
     },
     {
       "word": "snow",
@@ -38,7 +42,8 @@
       "usage": "Snow can create beautiful landscapes.",
       "example": "The snow covered the ground in a thick blanket.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/snow_noun_001_15826.jpg?version=6.0.17",
-      "topic_id": 2
+      "topic_id": 2,
+      "id": 5
     },
     {
       "word": "storm",
@@ -46,7 +51,8 @@
       "usage": "Storms can cause significant damage.",
       "example": "The storm knocked out power in the city.",
       "image_link": "https://static.dw.com/image/40442224_1004.webp",
-      "topic_id": 2
+      "topic_id": 2,
+      "id": 6
     },
     {
       "word": "lion",
@@ -54,7 +60,8 @@
       "usage": "Lions are known as the kings of the jungle.",
       "example": "The lion roared loudly in the savannah.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/lion_noun_002_21358.jpg?version=6.0.17",
-      "topic_id": 3
+      "topic_id": 3,
+      "id": 7
     },
     {
       "word": "eagle",
@@ -62,7 +69,8 @@
       "usage": "Eagles have excellent vision.",
       "example": "The eagle soared high above the mountains.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/eagle_noun_002_11909.jpg?version=6.0.17",
-      "topic_id": 3
+      "topic_id": 3,
+      "id": 8
     },
     {
       "word": "dolphin",
@@ -70,7 +78,8 @@
       "usage": "Dolphins are known for their intelligence.",
       "example": "The dolphin jumped out of the water playfully.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/dolphi_noun_002_11224.jpg?version=6.0.17",
-      "topic_id": 3
+      "topic_id": 3,
+      "id": 9
     },
     {
       "word": "red",
@@ -78,7 +87,8 @@
       "usage": "Red is often associated with passion.",
       "example": "The apple was bright red and juicy.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/red_noun_002_30456.jpg?version=6.0.17",
-      "topic_id": 4
+      "topic_id": 4,
+      "id": 10
     },
     {
       "word": "blue",
@@ -86,7 +96,8 @@
       "usage": "Blue is often associated with calmness.",
       "example": "The sky was a deep, clear blue.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/blue_noun_001_01604.jpg?version=6.0.17",
-      "topic_id": 4
+      "topic_id": 4,
+      "id": 11
     },
     {
       "word": "green",
@@ -94,7 +105,8 @@
       "usage": "Green is associated with nature and tranquility.",
       "example": "The fields were a vibrant green after the rain.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/green_noun_001_07350.jpg?version=6.0.17",
-      "topic_id": 4
+      "topic_id": 4,
+      "id": 12
     },
     {
       "word": "pizza",
@@ -102,7 +114,8 @@
       "usage": "Pizza is a popular food worldwide.",
       "example": "We ordered a large pepperoni pizza.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/pizza_noun_001_12184.jpg?version=6.0.17",
-      "topic_id": 5
+      "topic_id": 5,
+      "id": 13
     },
     {
       "word": "sushi",
@@ -110,7 +123,8 @@
       "usage": "Sushi is often enjoyed with soy sauce and wasabi.",
       "example": "She loves to eat sushi with fresh fish.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/sushi_noun_002_36852.jpg?version=6.0.17",
-      "topic_id": 5
+      "topic_id": 5,
+      "id": 14
     },
     {
       "word": "chocolate",
@@ -118,7 +132,8 @@
       "usage": "Chocolate is a favorite treat for many people.",
       "example": "He gave her a box of chocolates for Valentine's Day.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/chocol_noun_001_02715.jpg?version=6.0.17",
-      "topic_id": 5
+      "topic_id": 5,
+      "id": 15
     },
     {
       "word": "computer",
@@ -126,7 +141,8 @@
       "usage": "Computers have revolutionized many industries.",
       "example": "She works on her computer all day.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/comput_noun_002_07978.jpg?version=6.0.17",
-      "topic_id": 6
+      "topic_id": 6,
+      "id": 16
     },
     {
       "word": "smartphone",
@@ -134,7 +150,8 @@
       "usage": "Smartphones are widely used for communication and entertainment.",
       "example": "He checked his email on his smartphone.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/smartp_noun_002_34391.jpg?version=6.0.17",
-      "topic_id": 6
+      "topic_id": 6,
+      "id": 17
     },
     {
       "word": "robot",
@@ -142,7 +159,8 @@
       "usage": "Robots are used in manufacturing to increase efficiency.",
       "example": "The robot assembled the car parts quickly.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/robot_noun_002_31351.jpg?version=6.0.17",
-      "topic_id": 6
+      "topic_id": 6,
+      "id": 18
     },
     {
       "word": "soccer",
@@ -150,7 +168,8 @@
       "usage": "Soccer is the most popular sport in the world.",
       "example": "He scored the winning goal in the soccer match.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/footba_noun_002_14596_2.jpg?version=6.0.17",
-      "topic_id": 7
+      "topic_id": 7,
+      "id": 19
     },
     {
       "word": "basketball",
@@ -158,7 +177,8 @@
       "usage": "Basketball is known for its fast pace and high scoring.",
       "example": "She made an impressive three-point shot in basketball.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/basket_noun_002_02720.jpg?version=6.0.17",
-      "topic_id": 7
+      "topic_id": 7,
+      "id": 20
     },
     {
       "word": "tennis",
@@ -166,15 +186,18 @@
       "usage": "Tennis requires agility and precision.",
       "example": "They played a match of tennis at the local courts.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/tennis_noun_002_37658.jpg?version=6.0.17",
-      "topic_id": 7
+      "topic_id": 7,
+      "id": 21
     },
     {
       "word": "beach",
       "definition": "an area of sand or small stones near the sea or another area of water such as a lake.",
+      "definition": "an area of sand or small stones near the sea or another area of water such as a lake.",
       "usage": "Beaches are popular destinations for vacations.",
       "example": "They spent the day relaxing on the beach.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/beach_noun_002_02852.jpg?version=6.0.17",
-      "topic_id": 8
+      "topic_id": 8,
+      "id": 22
     },
     {
       "word": "mountain",
@@ -182,7 +205,8 @@
       "usage": "Mountains can be challenging to climb.",
       "example": "The mountain was capped with snow.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/mounta_noun_002_24052.jpg?version=6.0.17",
-      "topic_id": 8
+      "topic_id": 8,
+      "id": 23
     },
     {
       "word": "city",
@@ -190,7 +214,8 @@
       "usage": "Cities are known for their bustling activity.",
       "example": "They explored the historic city center.",
       "image_link": "https://image.itmedia.co.jp/business/articles/2009/04/dk_kyoto_0.jpg",
-      "topic_id": 8
+      "topic_id": 8,
+      "id": 24
     },
     {
       "word": "school",
@@ -198,7 +223,8 @@
       "usage": "Schools are essential for childhood education.",
       "example": "The school has a great science program.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/school_noun_002_32354.jpg?version=6.0.17",
-      "topic_id": 9
+      "topic_id": 9,
+      "id": 25
     },
     {
       "word": "university",
@@ -206,7 +232,8 @@
       "usage": "Universities offer undergraduate and graduate programs.",
       "example": "She is studying engineering at the university.",
       "image_link": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ph%C3%ADa_Tr%C6%B0%E1%BB%9Bc_to%C3%A0_B1.jpg",
-      "topic_id": 9
+      "topic_id": 9,
+      "id": 26
     },
     {
       "word": "library",
@@ -214,7 +241,8 @@
       "usage": "Libraries provide access to a vast amount of knowledge.",
       "example": "He spent the afternoon reading in the library.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/librar_noun_002_21111.jpg?version=6.0.17",
-      "topic_id": 9
+      "topic_id": 9,
+      "id": 27
     },
     {
       "word": "triangle",
@@ -222,7 +250,8 @@
       "usage": "The cloth was decorated with triangles of different colours.",
       "example": "We cut some triangles of cheese.",
       "image_link": "https://dictionary.cambridge.org/images/full/triang_noun_001_18172.jpg?version=6.0.17",
-      "topic_id": 10
+      "topic_id": 10,
+      "id": 28
     },
     {
       "word": "circle",
@@ -230,7 +259,8 @@
       "usage": "We sat in a circle.",
       "example": "Aim at the yellow circle in the centre of the board.",
       "image_link": "https://dictionary.cambridge.org/images/full/circle_noun_001_02738.jpg?version=6.0.17",
-      "topic_id": 10
+      "topic_id": 10,
+      "id": 29
     },
     {
       "word": "rectangle",
@@ -238,7 +268,8 @@
       "usage": "The rectangle is 5 cm long and 1.9 cm wide.",
       "example": "The area of a rectangle is its height times its width.",
       "image_link": "https://dictionary.cambridge.org/images/full/oblong_noun_002_25303.jpg?version=6.0.17",
-      "topic_id": 10
+      "topic_id": 10,
+      "id": 30
     },
     {
       "word": "guitar",
@@ -246,7 +277,8 @@
       "usage": "The guitar is popular in many music genres.",
       "example": "He played a song on his acoustic guitar.",
       "image_link": "https://dictionary.cambridge.org/images/full/guitar_noun_002_16792.jpg?version=6.0.17",
-      "topic_id": 11
+      "topic_id": 11,
+      "id": 31
     },
     {
       "word": "piano",
@@ -254,7 +286,8 @@
       "usage": "The piano is used in both classical and contemporary music.",
       "example": "She practiced playing the piano every day.",
       "image_link": "https://dictionary.cambridge.org/images/full/piano_noun_004_2036.jpg?version=6.0.17",
-      "topic_id": 11
+      "topic_id": 11,
+      "id": 32
     },
     {
       "word": "drums",
@@ -262,7 +295,8 @@
       "usage": "Drums are fundamental to many types of music.",
       "example": "The drummer kept a steady beat throughout the song.",
       "image_link": "https://dictionary.cambridge.org/images/full/drum_noun_002_11668.jpg?version=6.0.17",
-      "topic_id": 11
+      "topic_id": 11,
+      "id": 33
     },
     {
       "word": "painting",
@@ -270,7 +304,8 @@
       "usage": "Painting can be a way to express creativity.",
       "example": "The museum has a beautiful painting collection.",
       "image_link": "https://dictionary.cambridge.org/images/full/painti_noun_002_26235.jpg?version=6.0.17",
-      "topic_id": 12
+      "topic_id": 12,
+      "id": 34
     },
     {
       "word": "sculpture",
@@ -278,7 +313,8 @@
       "usage": "Sculpture requires a lot of skill and precision.",
       "example": "The sculpture in the park was made of bronze.",
       "image_link": "https://example.com/sculpture.jpg",
-      "topic_id": 12
+      "topic_id": 12,
+      "id": 35
     },
     {
       "word": "photography",
@@ -286,7 +322,8 @@
       "usage": "Photography can capture moments and scenes beautifully.",
       "example": "She took up photography as a hobby.",
       "image_link": "https://example.com/photography.jpg",
-      "topic_id": 12
+      "topic_id": 12,
+      "id": 36
     },
     {
       "word": "novel",
@@ -294,7 +331,8 @@
       "usage": "Novels can provide deep insights into human experiences.",
       "example": "She is reading a novel by her favorite author.",
       "image_link": "https://example.com/novel.jpg",
-      "topic_id": 13
+      "topic_id": 13,
+      "id": 37
     },
     {
       "word": "poem",
@@ -302,7 +340,8 @@
       "usage": "Poems often express emotions and ideas in a condensed form.",
       "example": "He wrote a beautiful poem about love.",
       "image_link": "https://example.com/poem.jpg",
-      "topic_id": 13
+      "topic_id": 13,
+      "id": 38
     },
     {
       "word": "short story",
@@ -310,7 +349,8 @@
       "usage": "Short stories can be powerful and impactful despite their length.",
       "example": "The magazine published a collection of short stories.",
       "image_link": "https://example.com/short_story.jpg",
-      "topic_id": 13
+      "topic_id": 13,
+      "id": 39
     },
     {
       "word": "world war",
@@ -318,7 +358,8 @@
       "usage": "The two world wars had profound impacts on global history.",
       "example": "World War II lasted from 1939 to 1945.",
       "image_link": "https://example.com/world_war.jpg",
-      "topic_id": 14
+      "topic_id": 14,
+      "id": 40
     },
     {
       "word": "revolution",
@@ -326,7 +367,8 @@
       "usage": "Revolutions can bring about significant political and social changes.",
       "example": "The revolution led to the establishment of a republic.",
       "image_link": "https://example.com/revolution.jpg",
-      "topic_id": 14
+      "topic_id": 14,
+      "id": 41
     },
     {
       "word": "empire",
@@ -334,7 +376,8 @@
       "usage": "Empires have risen and fallen throughout history.",
       "example": "The Roman Empire was one of the greatest in history.",
       "image_link": "https://example.com/empire.jpg",
-      "topic_id": 14
+      "topic_id": 14,
+      "id": 42
     },
     {
       "word": "gravity",
@@ -342,7 +385,8 @@
       "usage": "Gravity keeps us grounded on the earth.",
       "example": "Sir Isaac Newton discovered the laws of gravity.",
       "image_link": "https://example.com/gravity.jpg",
-      "topic_id": 15
+      "topic_id": 15,
+      "id": 43
     },
     {
       "word": "atom",
@@ -350,7 +394,8 @@
       "usage": "Atoms combine to form molecules.",
       "example": "Everything is made up of atoms.",
       "image_link": "https://example.com/atom.jpg",
-      "topic_id": 15
+      "topic_id": 15,
+      "id": 44
     },
     {
       "word": "evolution",
@@ -358,7 +403,8 @@
       "usage": "Evolution explains the diversity of life on Earth.",
       "example": "Charles Darwin proposed the theory of evolution by natural selection.",
       "image_link": "https://example.com/evolution.jpg",
-      "topic_id": 15
+      "topic_id": 15,
+      "id": 45
     }
   ],
   "topic": [
