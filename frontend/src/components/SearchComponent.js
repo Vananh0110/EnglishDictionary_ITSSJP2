@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Input } from 'antd';
 import { SearchOutlined } from '@ant-design/icons';
-import axios from 'axios';
+import axios from '../api/axios';
 
 const SearchComponent = () => {
   const [data, setData] = useState([]);
@@ -10,7 +10,7 @@ const SearchComponent = () => {
 
   // Lấy dữ liệu một lần khi component được tải
   useEffect(() => {
-    axios.get('http://localhost:3000/words')
+    axios.get('/words')
       .then(response => {
         setData(response.data);  // Lưu trữ dữ liệu toàn bộ từ server
       })
