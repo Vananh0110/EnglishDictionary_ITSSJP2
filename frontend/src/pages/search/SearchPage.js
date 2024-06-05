@@ -13,7 +13,8 @@ const SearchPage = () => {
   };
 
   return (
-    <div className="App">
+    <Layout page='1'>
+    <div className="container mx-auto">
       <SearchComponent onSearch={handleSearch} />
       <div className="search-results">
         {/* Hiển thị kết quả tìm kiếm ở đây */}
@@ -22,6 +23,7 @@ const SearchPage = () => {
         ))}
       </div>
     </div>
+    </Layout>
   );
 };
 
