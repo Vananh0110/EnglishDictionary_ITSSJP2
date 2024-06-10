@@ -26,7 +26,6 @@ const AppLayout = ({ children, page = "1" }) => {
         console.log("chuc nang chua kha dung");
         break;
     }
-    console.log(value);
   };
   return (
     <Layout className='h-[100vh]'>
