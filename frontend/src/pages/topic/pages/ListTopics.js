@@ -27,7 +27,7 @@ const ListTopics = () => {
     <Layout page={"2"}>
       <div className='container mx-auto'>
         <div className='w-full text-center text-5xl font-bold'>List Topics</div>
-        <Row gutter={[16, 16]}>
+        <Row gutter={[16, 16]} className='min-h-80'>
           {data &&
             data?.map(
               (topic, index) =>
