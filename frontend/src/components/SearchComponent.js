@@ -16,8 +16,6 @@ const SearchComponent = ({
   const [open, setOpen] = useState(false);
 
   const navigate = useNavigate();
-
-  // Lấy dữ liệu một lần khi component được tải
   useEffect(() => {
     axios
       .get("/words")
@@ -28,8 +26,6 @@ const SearchComponent = ({
         console.error("Error fetching data: ", error);
       });
   }, []);
-
-  // Lọc dữ liệu dựa trên từ khoá tìm kiếm chỉ trong trường 'word'
   useEffect(() => {
     if (searchTerm) {
       const results = data
