@@ -2,34 +2,44 @@ import React, { useState, useEffect } from 'react';
 import { Input } from 'antd';
 import { SearchOutlined } from '@ant-design/icons';
 import axios from '../api/axios';
+import { useNavigate } from 'react-router-dom';
 
 const SearchComponent = () => {
   const [data, setData] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
+  const [enterTerm, setEnterTerm] = useState('');
   const [searchResults, setSearchResults] = useState([]);
+  const [enterResults, setEnterResults] = useState([]);
 
-  // Lấy dữ liệu một lần khi component được tải
+  const navigate = useNavigate();
   useEffect(() => {
-    axios.get('/words')
-      .then(response => {
-        setData(response.data);  // Lưu trữ dữ liệu toàn bộ từ server
+    axios
+      .get('/words')
+      .then((response) => {
+        setData(response.data);
       })
-      .catch(error => {
+      .catch((error) => {
         console.error('Error fetching data: ', error);
       });
   }, []);
-
-  // Lọc dữ liệu dựa trên từ khoá tìm kiếm chỉ trong trường 'word'
   useEffect(() => {
     if (searchTerm) {
-      const results = data.filter(wordEntry =>
-        wordEntry.word.toLowerCase().includes(searchTerm.toLowerCase())
-      ).slice(0, 10);  // Chỉ lấy 10 kết quả đầu tiên
+      const results = data
+        .filter((wordEntry) =>
+          wordEntry.word.toLowerCase().includes(searchTerm.toLowerCase())
+        )
+        .slice(0, 10);
       setSearchResults(results);
+      setEnterResults([]);
     } else {
       setSearchResults([]);
     }
   }, [searchTerm, data]);
+
+  const handleResultClick = (id) => {
+    navigate(`/words/${id}/detail`);
+    setSearchTerm('');
+  };
 
   return (
     <div className="mt-10 mx-auto w-full max-w-3xl p-4">
@@ -43,13 +53,17 @@ const SearchComponent = () => {
       />
       <div className="mt-4">
         {searchResults.map((item) => (
-          <div key={item.id} className="p-2 border-b border-gray-300">
+          <div
+            key={item.id}
+            className="p-2 border-b border-gray-300 cursor-pointer hover:bg-gray-100"
+            onClick={() => handleResultClick(item.id)}
+          >
             <p className="font-bold">{item.word}</p>
             <p>{item.definition}</p>
           </div>
         ))}
       </div>
-    </div>
+    </div>    
   );
 };
 

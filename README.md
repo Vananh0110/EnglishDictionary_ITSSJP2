@@ -20,7 +20,7 @@ Sử dụng câu lệnh:
 ```bash
 json-server --watch db.json
 ```
-Khi chạy thì JSON Server sẽ mặc định khởi động server ở cổng https://localhost:3000
+Khi chạy thì JSON Server sẽ mặc định khởi động server ở cổng localhost:3000
 
 Nếu muốn chạy ở cổng khác thì có thể thêm ```--port``` vào sau câu lệnh.
 

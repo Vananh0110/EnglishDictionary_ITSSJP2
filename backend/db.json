@@ -414,8 +414,8 @@
       "image_link": "https://i.pinimg.com/236x/75/96/61/759661a0c2eb97d6784c12fbdb8b0924.jpg",
       "topicId": 1,
       "id": 46
-  },
-  {
+    },
+    {
       "word": "mountain",
       "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
       "usage": "Mountains can form as a result of volcanic activity or the earth's tectonic movements.",
@@ -423,8 +423,8 @@
       "image_link": "https://i.pinimg.com/236x/3f/6c/89/3f6c89b7e2123f425cd28f0d3bfb6703.jpg",
       "topicId": 1,
       "id": 47
-  },
-  {
+    },
+    {
       "word": "ocean",
       "definition": "A very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically.",
       "usage": "Oceans are major bodies of saline water, and are crucial to global ecosystems.",
@@ -432,8 +432,8 @@
       "image_link": "https://i.pinimg.com/236x/18/b4/4b/18b44b05223ec048edbfcc3cd567aee1.jpg",
       "topicId": 1,
       "id": 48
-  },
-  {
+    },
+    {
       "word": "valley",
       "definition": "A low area of land between hills or mountains, typically with a river or stream flowing through it.",
       "usage": "Valleys are often fertile areas and are used for agriculture.",
@@ -441,8 +441,8 @@
       "image_link": "https://i.pinimg.com/236x/e5/ad/ab/e5adab4ba970a4e5954dd4f25e279df9.jpg",
       "topicId": 1,
       "id": 49
-  },
-  {
+    },
+    {
       "word": "island",
       "definition": "A piece of land surrounded by water.",
       "usage": "Islands can be formed by volcanic activity or can be coral islands.",
@@ -450,8 +450,8 @@
       "image_link": "https://i.pinimg.com/236x/d8/84/79/d884790b788d70785b2cb33c0caa0278.jpg",
       "topicId": 1,
       "id": 50
-  },
-  {
+    },
+    {
       "word": "desert",
       "definition": "A barren area of landscape where little precipitation occurs and consequently living conditions are hostile for plant and animal life.",
       "usage": "The most famous desert in the world, the Sahara, is a hot desert.",
@@ -459,8 +459,8 @@
       "image_link": "https://i.pinimg.com/236x/e4/90/dd/e490ddb8eb734bff18986abaab754baa.jpg",
       "topicId": 1,
       "id": 51
-  },
-  {
+    },
+    {
       "word": "lake",
       "definition": "A large body of water surrounded by land.",
       "usage": "Lakes are often freshwater and landlocked.",
@@ -468,8 +468,8 @@
       "image_link": "https://i.pinimg.com/236x/e4/0f/c1/e40fc1f5ba3d5be9e14776747dd3233b.jpg",
       "topicId": 1,
       "id": 52
-  },
-  {
+    },
+    {
       "word": "volcano",
       "definition": "A mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapor, and gas are being or have been erupted from the earth's crust.",
       "usage": "Volcanoes are found both on land and under the oceans.",
@@ -477,8 +477,8 @@
       "image_link": "https://i.pinimg.com/236x/1c/69/95/1c699537e0de84ee6db92e8bf1db714f.jpg",
       "topicId": 1,
       "id": 53
-  },
-  {
+    },
+    {
       "word": "glacier",
       "definition": "A slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.",
       "usage": "Glaciers are important sources of freshwater.",
@@ -486,8 +486,8 @@
       "image_link": "https://i.pinimg.com/236x/27/6b/58/276b583be1e618131b583a07bce8cad3.jpg",
       "topicId": 1,
       "id": 54
-  },
-  {
+    },
+    {
       "word": "rainforest",
       "definition": "A dense forest rich in biodiversity, found typically in tropical areas with consistently heavy rainfall.",
       "usage": "Rainforests are vital for the Earth's ecosystem as they are home to many species of plants and animals.",
@@ -495,8 +495,8 @@
       "image_link": "https://i.pinimg.com/236x/c1/3e/63/c13e63c0d86989d5d1e220e4362b0b0e.jpg",
       "topicId": 1,
       "id": 55
-  },
-  {
+    },
+    {
       "word": "prairie",
       "definition": "A large open area of grassland, especially in the Mississippi River valley.",
       "usage": "Prairies are known for their role in supporting agriculture.",
@@ -504,8 +504,8 @@
       "image_link": "https://i.pinimg.com/236x/dc/c2/21/dcc221851180e8f436133a433be78c40.jpg",
       "topicId": 1,
       "id": 56
-  },
-  {
+    },
+    {
       "word": "canyon",
       "definition": "A deep gorge, typically one with a river flowing through it.",
       "usage": "Canyons are often formed by river erosion over a long period.",
@@ -513,8 +513,8 @@
       "image_link": "https://i.pinimg.com/236x/34/1e/dc/341edc9cbdd6315033155cb65fd15bd7.jpg",
       "topicId": 1,
       "id": 57
-  },
-  {
+    },
+    {
       "word": "cliff",
       "definition": "A steep rock face, especially at the edge of the sea.",
       "usage": "Cliffs are formed as a result of erosion and weathering.",
@@ -522,8 +522,8 @@
       "image_link": "https://i.pinimg.com/236x/69/0e/c1/690ec110b0974526594010e9d7c98a82.jpg",
       "topicId": 1,
       "id": 58
-  },
-  {
+    },
+    {
       "word": "reef",
       "definition": "A ridge of jagged rock, coral, or sand just above or below the surface of the sea.",
       "usage": "Reefs are important for marine life as they provide habitat and protection.",
@@ -531,8 +531,8 @@
       "image_link": "https://i.pinimg.com/236x/54/b3/9c/54b39c725dfb0893bbf0ce9c3b84cdd1.jpg",
       "topicId": 1,
       "id": 59
-  },
-  {
+    },
+    {
       "word": "stream",
       "definition": "A small, narrow river.",
       "usage": "Streams contribute to the river systems and support diverse ecosystems.",
@@ -540,8 +540,8 @@
       "image_link": "https://i.pinimg.com/236x/86/82/4b/86824b9813ca7dd0944f45a128752acd.jpg",
       "topicId": 1,
       "id": 60
-  },
-  {
+    },
+    {
       "word": "pond",
       "definition": "A small body of water, usually smaller than a lake.",
       "usage": "Ponds are often man-made or occur naturally in floodplains.",
@@ -549,8 +549,8 @@
       "image_link": "https://i.pinimg.com/236x/68/ad/87/68ad873dc8925a07b4a54e85675a52bf.jpg",
       "topicId": 1,
       "id": 61
-  },
-  {
+    },
+    {
       "word": "tundra",
       "definition": "A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.",
       "usage": "Tundras are characterized by low temperatures, short vegetation periods, and minimal tree growth.",
@@ -558,8 +558,8 @@
       "image_link": "https://i.pinimg.com/236x/30/63/99/306399ea90acd2ba08e5a8a8880e5929.jpg",
       "topicId": 1,
       "id": 62
-  },
-  {
+    },
+    {
       "word": "savanna",
       "definition": "A mixed woodland grassland ecosystem characterized by the trees being sufficiently widely spaced so that the canopy does not close.",
       "usage": "Savannas are often found in regions with a seasonal rainfall pattern.",
@@ -567,8 +567,8 @@
       "image_link": "https://i.pinimg.com/236x/2d/aa/c2/2daac28e3c7e3dc782b928f4fc030b39.jpg",
       "topicId": 1,
       "id": 63
-  },
-  {
+    },
+    {
       "word": "archipelago",
       "definition": "A group of islands.",
       "usage": "Archipelagos can be formed by volcanic activity or rising sea levels.",
@@ -576,8 +576,8 @@
       "image_link": "https://i.pinimg.com/236x/cf/bb/9b/cfbb9bda9f01f8cbf2c34dcc8921c9f9.jpg",
       "topicId": 1,
       "id": 64
-  },
-  {
+    },
+    {
       "word": "moor",
       "definition": "A tract of open uncultivated upland, typically covered with heather.",
       "usage": "Moors are often associated with highland areas of the British Isles.",
@@ -585,8 +585,8 @@
       "image_link": "https://i.pinimg.com/236x/54/55/92/545592b2b35427aa8693d381de36e1c4.jpg",
       "topicId": 1,
       "id": 65
-  },
-  {
+    },
+    {
       "word": "wetland",
       "definition": "Land consisting of marshes or swamps; saturated land.",
       "usage": "Wetlands are important for water purification, flood protection, and biodiversity.",
@@ -594,807 +594,1303 @@
       "image_link": "https://i.pinimg.com/236x/68/a0/55/68a055ba61288a8cba7b8858d2711f27.jpg",
       "topicId": 1,
       "id": 66
-  },
-  {
-    "word": "sunshine",
-    "definition": "Sunlight, especially when considered pleasant.",
-    "usage": "Sunshine is vital for the production of Vitamin D.",
-    "example": "We enjoyed a lovely day filled with warm sunshine.",
-    "image_link": "https://i.pinimg.com/236x/43/d3/fd/43d3fda6e52ac7c68cc775cf08c81b36.jpg",
-    "topicId": 2,
-    "id": 67
-},
-{
-    "word": "cloud",
-    "definition": "A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.",
-    "usage": "Clouds can form various shapes and sizes, affecting the weather.",
-    "example": "The sky was covered with dark clouds.",
-    "image_link": "https://i.pinimg.com/236x/bd/a2/67/bda2671c3b78f9ba9f0264f59782e1cc.jpg",
-    "topicId": 2,
-    "id": 68
-},
-{
-    "word": "wind",
-    "definition": "Air in natural motion, as that moving horizontally at any velocity along the earth's surface.",
-    "usage": "Wind can be used as a renewable energy source.",
-    "example": "The wind was strong enough to bend trees.",
-    "image_link": "https://i.pinimg.com/236x/6c/73/52/6c7352172779dcf2a34b991554af7260.jpg",
-    "topicId": 2,
-    "id": 69
-},
-{
-    "word": "snow",
-    "definition": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.",
-    "usage": "Snow is common in colder climates during the winter months.",
-    "example": "We woke up to a thick layer of snow.",
-    "image_link": "https://i.pinimg.com/236x/47/77/ef/4777effd7383fb2782e845750784b93a.jpg",
-    "topicId": 2,
-    "id": 70
-},
-{
-    "word": "thunder",
-    "definition": "A loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.",
-    "usage": "Thunder is often accompanied by lightning.",
-    "example": "The sound of thunder could be heard in the distance.",
-    "image_link": "https://i.pinimg.com/236x/68/75/c3/6875c383c3ba22d28281c154e959304e.jpg",
-    "topicId": 2,
-    "id": 71
-},
-{
-    "word": "lightning",
-    "definition": "The occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder.",
-    "usage": "Lightning strikes can cause significant damage.",
-    "example": "Lightning lit up the night sky.",
-    "image_link": "https://i.pinimg.com/236x/e5/32/b1/e532b13df5bbde01730930d41467c01c.jpg",
-    "topicId": 2,
-    "id": 72
-},
-{
-    "word": "fog",
-    "definition": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that obscures or restricts visibility.",
-    "usage": "Fog can greatly reduce visibility, making driving conditions dangerous.",
-    "example": "The bridge was barely visible through the thick fog.",
-    "image_link": "https://i.pinimg.com/236x/3d/16/03/3d160329981acf0f68dfa8e0cd4f1c46.jpg",
-    "topicId": 2,
-    "id": 73
-},
-{
-    "word": "hail",
-    "definition": "Pellets of frozen rain which fall in showers from cumulonimbus clouds.",
-    "usage": "Hail can damage crops and property.",
-    "example": "The storm brought strong winds and hail.",
-    "image_link": "https://i.pinimg.com/236x/06/a9/e5/06a9e51b256b43381f3607b28d32b09d.jpg",
-    "topicId": 2,
-    "id": 74
-},
-{
-    "word": "drizzle",
-    "definition": "Light rain falling in very fine drops.",
-    "usage": "Drizzle often occurs during overcast days.",
-    "example": "The morning was cool and drizzly.",
-    "image_link": "https://i.pinimg.com/236x/f7/52/40/f752404e8036da1263901293e057cce1.jpg",
-    "topicId": 2,
-    "id": 75
-},
-{
-    "word": "humidity",
-    "definition": "The amount of water vapor in the atmosphere.",
-    "usage": "High humidity can make temperatures feel hotter than they are.",
-    "example": "The humidity was so high that it felt like walking through water.",
-    "image_link": "https://i.pinimg.com/236x/8c/29/94/8c2994fbdcbcb3928e725d07d28a2de5.jpg",
-    "topicId": 2,
-    "id": 76
-},
-{
-    "word": "cyclone",
-    "definition": "A system of winds rotating inward to an area of low atmospheric pressure, with a counterclockwise (northern hemisphere) or clockwise (southern hemisphere) circulation; a depression.",
-    "usage": "Cyclones are powerful and can lead to widespread devastation.",
-    "example": "The coast was hit hard by the cyclone last year.",
-    "image_link": "https://i.pinimg.com/236x/35/9e/bf/359ebfb07ec847d5d3709370250042f1.jpg",
-    "topicId": 2,
-    "id": 77
-},
-{
-    "word": "tornado",
-    "definition": "A mobile, destructive vortex of violently rotating winds having the appearance of a funnel-shaped cloud and advancing beneath a large storm system.",
-    "usage": "Tornadoes can destroy buildings, flip cars, and create deadly flying debris.",
-    "example": "The tornado swept through the town without warning.",
-    "image_link": "https://i.pinimg.com/236x/29/a5/2f/29a52f928a85e3e54da258005299a4d8.jpg",
-    "topicId": 2,
-    "id": 78
-},
-{
-    "word": "dew",
-    "definition": "Tiny drops of water that form on cool surfaces at night, when atmospheric vapor condenses.",
-    "usage": "Dew is most noticeable in the morning on grass and leaves.",
-    "example": "The grass was wet with morning dew.",
-    "image_link": "https://i.pinimg.com/236x/15/9e/9f/159e9f81f8cde45ecc35afb8ac40ca6e.jpg",
-    "topicId": 2,
-    "id": 79
-},
-{
-    "word": "blizzard",
-    "definition": "A severe snowstorm with high winds and low visibility.",
-    "usage": "Blizzards can cause complete whiteout conditions, making travel impossible.",
-    "example": "The blizzard shut down the city for days.",
-    "image_link": "https://i.pinimg.com/236x/59/1d/1e/591d1e0334a10371f218e4ec5d14c3b3.jpg",
-    "topicId": 2,
-    "id": 80
-},
-{
-    "word": "mist",
-    "definition": "A cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that limits visibility (but to a lesser extent than fog).",
-    "usage": "Mist typically forms in valleys and hollows.",
-    "example": "The mountain was shrouded in a light mist.",
-    "image_link": "https://i.pinimg.com/236x/3d/16/03/3d160329981acf0f68dfa8e0cd4f1c46.jpg",
-    "topicId": 2,
-    "id": 81
-},
-{
-    "word": "gale",
-    "definition": "A very strong wind.",
-    "usage": "Gales are common in coastal areas and can lead to high waves.",
-    "example": "The ship battled against the gale.",
-    "image_link": "https://i.pinimg.com/236x/83/cd/3f/83cd3f03963c7508fde8f63bf72f10f9.jpg",
-    "topicId": 2,
-    "id": 82
-},
-{
-    "word": "overcast",
-    "definition": "Covered with clouds; not sunny.",
-    "usage": "Overcast skies can persist for days in some climates.",
-    "example": "The day was gray and overcast.",
-    "image_link": "https://i.pinimg.com/236x/5c/65/54/5c65549a2ff33e35fd75a5c9cc4c359e.jpg",
-    "topicId": 2,
-    "id": 83
-},
-{
-    "word": "heatwave",
-    "definition": "A prolonged period of abnormally hot weather.",
-    "usage": "Heatwaves can pose health risks, especially to the elderly and sick.",
-    "example": "The city experienced a heatwave with temperatures soaring above 40 degrees Celsius.",
-    "image_link": "https://i.pinimg.com/236x/9c/9c/0e/9c9c0ecb1fada362ba849dba136b31fd.jpg",
-    "topicId": 2,
-    "id": 84
-},
-{
-    "word": "frost",
-    "definition": "A thin layer of ice on a solid surface, which forms from the condensation and freezing of moisture in the air.",
-    "usage": "Frost can damage crops and plants.",
-    "example": "A heavy frost had settled overnight.",
-    "image_link": "https://i.pinimg.com/236x/25/1d/71/251d71a7bff1e78e44418f56d79330e5.jpg",
-    "topicId": 2,
-    "id": 85
-},
-{
-    "word": "monsoon",
-    "definition": "A seasonal prevailing wind in the region of South and Southeast Asia, blowing from the southwest between May and September and bringing rain (the wet monsoon), or from the northeast between October and April (the dry monsoon).",
-    "usage": "The monsoon season is crucial for agriculture in India.",
-    "example": "The monsoon rains arrived later than usual this year.",
-    "image_link": "https://i.pinimg.com/236x/d7/56/c4/d756c4ddcbf7290585e87dfe70a58bf4.jpg",
-    "topicId": 2,
-    "id": 86
-},
-{
-    "word": "sleet",
-    "definition": "A form of precipitation consisting of ice pellets, often mixed with rain or snow.",
-    "usage": "Sleet can make driving conditions hazardous.",
-    "example": "The storm brought snow and sleet to the region.",
-    "image_link": "https://i.pinimg.com/236x/39/5b/21/395b2196e9c7c0ef3490aae2111df53a.jpg",
-    "topicId": 2,
-    "id": 87
-},
-{
-  "word": "elephant",
-  "definition": "A large herbivorous mammal with a trunk, long ears, and tusks.",
-  "usage": "Elephants are the largest land animals on Earth.",
-  "example": "The elephant used its trunk to pick up food.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/elephant_noun_001_11010.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 88
-},
-{
-  "word": "tiger",
-  "definition": "A large predatory feline mammal, native to Asia, with a coat of reddish-orange with dark stripes.",
-  "usage": "Tigers are powerful predators and are known for their roar.",
-  "example": "The tiger stalked its prey through the underbrush.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/tiger_noun_001_35805.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 89
-},
-{
-  "word": "penguin",
-  "definition": "A flightless bird, native to the colder regions of the southern hemisphere, with black upper parts and white underparts.",
-  "usage": "Penguins are adapted to life in the water.",
-  "example": "The penguin slid across the ice on its belly.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/penguin_noun_001_26450.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 90
-},
-{
-  "word": "giraffe",
-  "definition": "A tall African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines.",
-  "usage": "The giraffe is the tallest living terrestrial animal.",
-  "example": "The giraffe reached up high into the trees to eat leaves.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/giraffe_noun_001_15212.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 91
-},
-{
-  "word": "zebra",
-  "definition": "An African wild horse with black-and-white stripes and an erect mane.",
-  "usage": "Zebras are best known for their distinctive black and white stripes.",
-  "example": "The zebra grazed on the savannah.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/zebra_noun_001_39858.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 92
-},
-{
-  "word": "kangaroo",
-  "definition": "A large plant-eating marsupial with powerful hind legs for leaping, native to Australia.",
-  "usage": "Kangaroos are known for carrying their young in a pouch.",
-  "example": "The kangaroo hopped across the field with ease.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/kangaroo_noun_001_19403.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 93
-},
-{
-  "word": "rhinoceros",
-  "definition": "A large, thick-skinned mammal with one or two upright horns on the snout, native to Africa and southern Asia.",
-  "usage": "The rhinoceros is often poached for its horn.",
-  "example": "The rhinoceros charged at the approaching vehicle.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/rhinoceros_noun_001_30658.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 94
-},
-{
-  "word": "lion",
-  "definition": "A large tawny-colored cat that lives in prides, found in Africa and northwestern India.",
-  "usage": "The lion is known as the 'king of the jungle'.",
-  "example": "The lion roared loudly, asserting its dominance.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/lion_noun_001_21640.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 95
-},
-{
-  "word": "leopard",
-  "definition": "A large solitary cat that has a fawn or brown coat with black spots, native to the forests of Africa and southern Asia.",
-  "usage": "Leopards are known for their ability to climb trees.",
-  "example": "The leopard was spotted resting in a tree.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/leopard_noun_001_21256.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 96
-},
-{
-  "word": "wolf",
-  "definition": "A wild carnivorous mammal which is the largest member of the dog family, living and hunting in packs.",
-  "usage": "Wolves communicate by howling.",
-  "example": "The pack of wolves moved silently through the forest.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/wolf_noun_001_39521.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 97
-},
-{
-  "word": "bear",
-  "definition": "A large heavy mammal with thick fur and a very short tail, found chiefly in the forests of the Northern Hemisphere.",
-  "usage": "Bears hibernate during the winter months.",
-  "example": "The bear caught fish in the river.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/bear_noun_001_01718.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 98
-},
-{
-  "word": "fox",
-  "definition": "A carnivorous mammal of the dog family with a pointed muzzle and bushy tail, proverbially noted for its cunning.",
-  "usage": "The fox is often featured in folklore and stories as a trickster.",
-  "example": "The fox slipped into the henhouse undetected.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/fox_noun_001_13845.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 99
-},
-{
-  "word": "owl",
-  "definition": "A nocturnal bird of prey with large forward-facing eyes surrounded by facial disks, a hooked beak, and typically a loud call.",
-  "usage": "Owls are known for their distinctive hooting.",
-  "example": "The owl hooted from its perch in the old oak tree.",
-  "image_link": "https://dictionary.cambridge.org/vi/images/full/owl_noun_001_26018.jpg?version=6.0.17",
-  "topicId": 3,
-  "id": 100
-},{
-  "word": "white",
-  "definition": "Is a color that is the result of the reflection or emission of all colors.",
-  "usage": "Describe something that is of the color white.",
-  "example": "She wore a beautiful white dress.",
-  "image_link": "https://i.pinimg.com/236x/00/77/80/00778091f156323e85e4506bcc6b2cf2.jpg",
-  "topicId": 4,
-  "id": 101
-},
-{
-  "word": "red",
-  "definition": "Is a color at the end of the visible spectrum of light, next to orange and opposite violet.",
-  "usage": "Describe something that is of the color red.",
-  "example": "The apple is red.",
-  "image_link": "https://i.pinimg.com/236x/b1/73/ea/b173ea07791af67f28f91fbf2a30bf6b.jpg",
-  "topicId": 4,
-  "id": 102
-},
-{
-  "word": "blue",
-  "definition": "Is a color that is seen as part of the visible spectrum, between green and violet.",
-  "usage": "Describe something that is of the color blue.",
-  "example": "The sky is blue.",
-  "image_link": "https://i.pinimg.com/236x/b8/61/17/b861178a4659a283675882041931fc30.jpg",
-  "topicId": 4,
-  "id": 103
-},
-{
-  "word": "green",
-  "definition": "Is a color between blue and yellow in the spectrum.",
-  "usage": "Describe something that is of the color green.",
-  "example": "The grass is green.",
-  "image_link": "https://i.pinimg.com/236x/b8/04/81/b80481838c5608682b14d405d2ab12be.jpg",
-  "topicId": 4,
-  "id": 104
-},
-{
-  "word": "yellow",
-  "definition": "Is a color between green and orange in the spectrum.",
-  "usage": "Describe something that is of the color yellow.",
-  "example": "The sun is yellow.",
-  "image_link": "https://i.pinimg.com/236x/d6/f5/11/d6f5118b769faff48836573139ceaaa4.jpg",
-  "topicId": 4,
-  "id": 105
-},
-{
-  "word": "orange",
-  "definition": "Is a color between red and yellow in the spectrum.",
-  "usage": "Describe something that is of the color orange.",
-  "example": "The pumpkin is orange.",
-  "image_link": "https://i.pinimg.com/236x/3b/4e/7e/3b4e7ef2c9a8a19dc1c55d563ed6b19c.jpg",
-  "topicId": 4,
-  "id": 106
-},
-{
-  "word": "purple",
-  "definition": "Is a color intermediate between red and blue.",
-  "usage": "Describe something that is of the color purple.",
-  "example": "The flower is purple.",
-  "image_link": "https://i.pinimg.com/236x/3f/c7/21/3fc7215a989943d3c5ec2bc7b205ccb1.jpg",
-  "topicId": 4,
-  "id": 107
-},
-{
-  "word": "pink",
-  "definition": "Is a pale red color.",
-  "usage": "Describe something that is of the color pink.",
-  "example": "She wore a pink shirt.",
-  "image_link": "https://i.pinimg.com/236x/8e/a1/f7/8ea1f7bf7f4dd7a727c41fdbbc1083c1.jpg",
-  "topicId": 4,
-  "id": 108
-},
-{
-  "word": "black",
-  "definition": "Is the darkest color, resulting from the absence or complete absorption of visible light.",
-  "usage": "Describe something that is of the color black.",
-  "example": "The night is black.",
-  "image_link": "https://i.pinimg.com/236x/4f/c3/a4/4fc3a4db6c4f400b49f353e045f3f8c9.jpg",
-  "topicId": 4,
-  "id": 109
-},
-{
-  "word": "brown",
-  "definition": "Is a color produced by combining red, yellow, and black.",
-  "usage": "Describe something that is of the color brown.",
-  "example": "The chocolate is brown.",
-  "image_link": "https://i.pinimg.com/236x/5c/dd/b9/5cddb9722ce973583f816c2b76d6cff1.jpg",
-  "topicId": 4,
-  "id": 110
-},
-{
-  "word": "gray",
-  "definition": "Is a color between black and white.",
-  "usage": "Describe something that is of the color gray.",
-  "example": "The sky is gray.",
-  "image_link": "https://i.pinimg.com/236x/f3/3d/52/f33d52baeb8aae4b8cc7031d42663a0d.jpg",
-  "topicId": 4,
-  "id": 111
-},
-{
-  "word": "magenta",
-  "definition": "Is a color that is a combination of red and blue.",
-  "usage": "Describe something that is of the color magenta.",
-  "example": "The ink is magenta.",
-  "image_link": "https://i.pinimg.com/236x/1f/82/9a/1f829abaf58bdc602b2e3ff1db620941.jpg",
-  "topicId": 4,
-  "id": 112
-},
-{
-  "word": "cyan",
-  "definition": "Is a color between blue and green in the spectrum.",
-  "usage": "Describe something that is of the color cyan.",
-  "example": "The water is cyan.",
-  "image_link": "https://i.pinimg.com/236x/62/77/b8/6277b8a9eea67f8dbb935feea045fec0.jpg",
-  "topicId": 4,
-  "id": 113
-},
-{
-  "word": "turquoise",
-  "definition": "Is a blue-green color.",
-  "usage": "Describe something that is of the color turquoise.",
-  "example": "The jewelry is turquoise.",
-  "image_link": "https://i.pinimg.com/236x/46/51/9d/46519d4f3b3ba83399cda20540be5bc7.jpg",
-  "topicId": 4,
-  "id": 114
-},
-{
-  "word": "indigo",
-  "definition": "Is a deep and rich color close to the color wheel blue.",
-  "usage": "Describe something that is of the color indigo.",
-  "example": "The fabric is indigo.",
-  "image_link": "https://i.pinimg.com/236x/81/fc/b9/81fcb9ef06dd4ca13c4c1ab370caed91.jpg",
-  "topicId": 4,
-  "id": 115
-},
-{
-  "word": "violet",
-  "definition": "Is a color at the end of the visible spectrum of light, next to blue and opposite red.",
-  "usage": "Describe something that is of the color violet.",
-  "example": "The flower is violet.",
-  "image_link": "https://i.pinimg.com/236x/b2/b3/80/b2b380cd6fd36a0cdce6afea3460f423.jpg",
-  "topicId": 4,
-  "id": 116
-},
-{
-  "word": "lime",
-  "definition": "Is a color that is a shade of green.",
-  "usage": "Describe something that is of the color lime.",
-  "example": "The lollipop is lime green.",
-  "image_link": "https://i.pinimg.com/236x/9c/0b/f9/9c0bf91c82bc3b378c39a623b06f32ef.jpg",
-  "topicId": 4,
-  "id": 117
-},
-{
-  "word": "gold",
-  "definition": "Is a metallic yellow color.",
-  "usage": "Describe something that is of the color gold.",
-  "example": "The ring is gold.",
-  "image_link": "https://i.pinimg.com/236x/b0/86/23/b08623ef311fce264ecf8640cbd4164b.jpg",
-  "topicId": 4,
-  "id": 118
-},
-{
-  "word": "silver",
-  "definition": "Is a metallic gray color.",
-  "usage": "Describe something that is of the color silver.",
-  "example": "The necklace is silver.",
-  "image_link": "https://i.pinimg.com/236x/38/79/76/38797659d08e52caaef5b8ac697ff5a6.jpg",
-  "topicId": 4,
-  "id": 119
-},
-{
-  "word": "apple",
-  "definition": "Is a fruit with red, yellow, or green skin and a sweet, crisp flesh.",
-  "usage": "Describe the fruit apple.",
-  "example": "She ate a juicy apple.",
-  "image_link": "https://i.pinimg.com/236x/3f/a2/87/3fa287c717ff7a7102e6d872c68b5bda.jpg",
-  "topicId": 5,
-  "id": 120
-},
-{
-  "word": "banana",
-  "definition": "Is a long, curved fruit with a thick peel and soft, sweet flesh inside.",
-  "usage": "Describe the fruit banana.",
-  "example": "He had a banana for breakfast.",
-  "image_link": "https://i.pinimg.com/236x/a3/37/0b/a3370bfbc03bc8de595f417f08f7fa5e.jpg",
-  "topicId": 5,
-  "id": 121
-},
-{
-  "word": "grape",
-  "definition": "Is a small, round fruit that grows in clusters on a vine.",
-  "usage": "Describe the fruit grape.",
-  "example": "The grapes were fresh and juicy.",
-  "image_link": "https://i.pinimg.com/236x/b8/8b/d7/b88bd72ec9038f6354c12e6462eb1dca.jpg",
-  "topicId": 5,
-  "id": 122
-},
-{
-  "word": "orange",
-  "definition": "Is a round, orange-colored citrus fruit with a sweet-tart flavor.",
-  "usage": "Describe the fruit orange.",
-  "example": "She drank a glass of orange juice.",
-  "image_link": "https://i.pinimg.com/236x/3b/4e/7e/3b4e7ef2c9a8a19dc1c55d563ed6b19c.jpg",
-  "topicId": 5,
-  "id": 123
-},
-{
-  "word": "strawberry",
-  "definition": "Is a small, red fruit with tiny seeds on its surface.",
-  "usage": "Describe the fruit strawberry.",
-  "example": "We picked fresh strawberries.",
-  "image_link": "https://i.pinimg.com/236x/1c/ac/37/1cac37c5520085aba52654b18beb225a.jpg",
-  "topicId": 5,
-  "id": 124
-},
-{
-  "word": "watermelon",
-  "definition": "Is a large, green fruit with a sweet, juicy, red or pink flesh.",
-  "usage": "Describe the fruit watermelon.",
-  "example": "They enjoyed a slice of watermelon.",
-  "image_link": "https://i.pinimg.com/236x/6d/22/80/6d22800bfb9a0012716fcf47b491d1d0.jpg",
-  "topicId": 5,
-  "id": 125
-},
-{
-    "word": "pear",
-    "definition": "Is a sweet fruit with a rounded base and an elongated top.",
-    "usage": "Describe the fruit pear.",
-    "example": "The pear was ripe and juicy.",
-    "image_link": "https://i.pinimg.com/236x/c1/54/93/c154938ec0dd865b3d06a380b11e4ff5.jpg",
-    "topicId": 5,
-    "id": 126
-},
-{
-    "word": "pineapple",
-    "definition": "Is a tropical fruit with a tough, spiky exterior and sweet, juicy, yellow flesh.",
-    "usage": "Describe the fruit pineapple.",
-    "example": "Pineapple is delicious in smoothies.",
-    "image_link": "https://i.pinimg.com/236x/a0/77/c8/a077c84037cd1e27b87d81ad8ca88209.jpg",
-    "topicId": 5,
-    "id": 127
-},
-{
-    "word": "cherry",
-    "definition": "Is a small, round fruit that is typically red or black.",
-    "usage": "Describe the fruit cherry.",
-    "example": "She ate a bowl of cherries.",
-    "image_link": "https://i.pinimg.com/236x/20/68/d2/2068d220432a0bf052c713b3587943a6.jpg",
-    "topicId": 5,
-    "id": 128
-},
-{
-    "word": "mango",
-    "definition": "Is a tropical fruit with a smooth skin and sweet, orange flesh.",
-    "usage": "Describe the fruit mango.",
-    "example": "Mangoes are my favorite fruit.",
-    "image_link": "https://i.pinimg.com/236x/c4/41/60/c44160336851753abc03b27896af17b4.jpg",
-    "topicId": 5,
-    "id": 129
-},
-{
-    "word": "blueberry",
-    "definition": "Is a small, blue-black fruit that grows in clusters.",
-    "usage": "Describe the fruit blueberry.",
-    "example": "Blueberries are good in muffins.",
-    "image_link": "https://i.pinimg.com/236x/71/1a/c9/711ac927c461541d4c934fe4ca93357f.jpg",
-    "topicId": 5,
-    "id": 130
-},
-{
-    "word": "kiwi",
-    "definition": "Is a small, brown fruit with green flesh and tiny black seeds.",
-    "usage": "Describe the fruit kiwi.",
-    "example": "Kiwi is rich in vitamin C.",
-    "image_link": "https://i.pinimg.com/236x/d6/6b/25/d66b257fa3fb12c27b3b0e5f9ebf3885.jpg",
-    "topicId": 5,
-    "id": 131
-},
-{
-    "word": "avocado",
-    "definition": "Is a pear-shaped fruit with a rough skin and creamy green flesh.",
-    "usage": "Describe the fruit avocado.",
-    "example": "Avocado is great in salads.",
-    "image_link": "https://i.pinimg.com/236x/43/ba/16/43ba16af32df1697c77530e84dd56afd.jpg",
-    "topicId": 5,
-    "id": 132
-},
-{
-    "word": "coconut",
-    "definition": "Is a large, hard-shelled fruit with a fibrous husk and white flesh inside.",
-    "usage": "Describe the fruit coconut.",
-    "example": "Coconut can be used in cooking.",
-    "image_link": "https://i.pinimg.com/236x/2b/35/3f/2b353f1778e3b9d96c00eed15c395ff2.jpg",
-    "topicId": 5,
-    "id": 133
-},
-{
-    "word": "lemon",
-    "definition": "Is a yellow, oval citrus fruit with a tart flavor.",
-    "usage": "Describe the fruit lemon.",
-    "example": "Lemon adds a fresh taste to dishes.",
-    "image_link": "https://i.pinimg.com/236x/f2/0b/16/f20b16883386bc8ec55f9f751e3ef454.jpg",
-    "topicId": 5,
-    "id": 134
-},
-{
-    "word": "lime",
-    "definition": "Is a small, green citrus fruit with a tart flavor.",
-    "usage": "Describe the fruit lime.",
-    "example": "Lime is used in many drinks.",
-    "image_link": "https://i.pinimg.com/236x/9c/0b/f9/9c0bf91c82bc3b378c39a623b06f32ef.jpg",
-    "topicId": 5,
-    "id": 135
-},
-{
-    "word": "peach",
-    "definition": "Is a soft, round fruit with fuzzy skin and sweet yellow or white flesh.",
-    "usage": "Describe the fruit peach.",
-    "example": "Peaches are in season in summer.",
-    "image_link": "https://i.pinimg.com/236x/bb/be/92/bbbe92420d0c882d1bdb801dc1011f5e.jpg",
-    "topicId": 5,
-    "id": 136
-},
-{
-    "word": "plum",
-    "definition": "Is a small, round fruit with smooth skin and a sweet or tart flesh.",
-    "usage": "Describe the fruit plum.",
-    "example": "She made a plum pie.",
-    "image_link": "https://i.pinimg.com/236x/8c/64/b7/8c64b7147e20822115f5583d2c77a566.jpg",
-    "topicId": 5,
-    "id": 137
-},
-{
-    "word": "raspberry",
-    "definition": "Is a small, red or black fruit with many tiny seeds.",
-    "usage": "Describe the fruit raspberry.",
-    "example": "Raspberries are great in desserts.",
-    "image_link": "https://i.pinimg.com/236x/91/fa/2a/91fa2a87736740be6b6e5c6bf280f0b7.jpg",
-    "topicId": 5,
-    "id": 138
-},
-{
-    "word": "smartphone",
-    "definition": "Is a mobile phone that performs many functions of a computer.",
-    "usage": "Describe the device smartphone.",
-    "example": "He bought a new smartphone.",
-    "image_link": "https://i.pinimg.com/236x/3a/8a/6c/3a8a6cc532e966db07c76f0041fe7a7b.jpg",
-    "topicId": 6,
-    "id": 139
-},
-{
-    "word": "laptop",
-    "definition": "Is a small, portable personal computer.",
-    "usage": "Describe the device laptop.",
-    "example": "She uses her laptop for work.",
-    "image_link": "https://dictionary.cambridge.org/vi/images/full/laptop_noun_001_19234.jpg?version=6.0.21",
-    "topicId": 6,
-    "id": 140
-},
-{
-    "word": "tablet",
-    "definition": "Is a wireless, portable personal computer with a touchscreen interface.",
-    "usage": "Describe the device tablet.",
-    "example": "Tablets are great for reading.",
-    "image_link": "https://i.pinimg.com/236x/b0/69/e6/b069e6c613ce32a462e570bf76326130.jpg",
-    "topicId": 6,
-    "id": 141
-},
-{
-    "word": "desktop",
-    "definition": "Is a personal computer designed to fit on a desk.",
-    "usage": "Describe the device desktop.",
-    "example": "The office is equipped with desktop computers.",
-    "image_link": "https://i.pinimg.com/236x/8c/0a/b1/8c0ab142b57cc14476c9f2cf987de4e0.jpg",
-    "topicId": 6,
-    "id": 142
-},
-{
-    "word": "printer",
-    "definition": "Is a device that prints text or illustrations on paper.",
-    "usage": "Describe the device printer.",
-    "example": "The printer is out of ink.",
-    "image_link": "https://i.pinimg.com/236x/91/c3/82/91c382be2031c07666296ed9e5db4eeb.jpg",
-    "topicId": 6,
-    "id": 143
-},
-{
-    "word": "router",
-    "definition": "Is a device that forwards data packets between computer networks.",
-    "usage": "Describe the device router.",
-    "example": "The router needs to be reset.",
-    "image_link": "https://i.pinimg.com/236x/8e/ee/cc/8eeecc164cf45e741b74409f0cab1eda.jpg",
-    "topicId": 6,
-    "id": 144
-},
-{
-    "word": "monitor",
-    "definition": "Is an output device that displays information in pictorial form.",
-    "usage": "Describe the device monitor.",
-    "example": "She bought a new monitor for her computer.",
-    "image_link": "https://i.pinimg.com/236x/32/53/b6/3253b657b173887057d956a73846b71e.jpg",
-    "topicId": 6,
-    "id": 145
-},
-{
-    "word": "keyboard",
-    "definition": "Is an input device consisting of a set of keys used to input data into a computer.",
-    "usage": "Describe the device keyboard.",
-    "example": "He spilled coffee on the keyboard.",
-    "image_link": "https://i.pinimg.com/236x/4a/77/2f/4a772f7b4df1435642192c33cb8c9cc9.jpg",
-    "topicId": 6,
-    "id": 146
-},
-{
-    "word": "mouse",
-    "definition": "Is a handheld input device used to control a cursor in a graphical user interface.",
-    "usage": "Describe the device mouse.",
-    "example": "The mouse is not working properly.",
-    "image_link": "https://i.pinimg.com/236x/f7/9f/8a/f79f8a888bfb7b7bd1d2383f0ad3c1c0.jpg",
-    "topicId": 6,
-    "id": 147
-},
-{
-    "word": "camera",
-    "definition": "Is a device used to capture photographs or videos.",
-    "usage": "Describe the device camera.",
-    "example": "She bought a new digital camera.",
-    "image_link": "https://i.pinimg.com/236x/53/29/35/532935f03007bff37cf6c232827ccb2c.jpg",
-    "topicId": 6,
-    "id": 148
-},
-{
-    "word": "scanner",
-    "definition": "Is a device that captures images from photographic prints, posters, magazine pages, and similar sources for computer editing and display.",
-    "usage": "Describe the device scanner.",
-    "example": "The scanner is used to digitize documents.",
-    "image_link": "https://i.pinimg.com/236x/2a/ce/62/2ace62f519d9dc1306e8ecad1023a07d.jpg",
-    "topicId": 6,
-    "id": 149
-},
-{
-    "word": "headphones",
-    "definition": "Are a pair of small loudspeaker drivers worn on or around the head over a user's ears.",
-    "usage": "Describe the device headphones.",
-    "example": "He listened to music using his headphones.",
-    "image_link": "https://i.pinimg.com/236x/85/bc/9f/85bc9fe18d4faa6f76538485caad784b.jpg",
-    "topicId": 6,
-    "id": 150
-},
-{
-    "word": "microphone",
-    "definition": "Is a device that converts sound into an electrical signal.",
-    "usage": "Describe the device microphone.",
-    "example": "The singer used a microphone during the concert.",
-    "image_link": "https://i.pinimg.com/236x/0d/01/2b/0d012b4469ed89df29ac9953ba4cf06b.jpg",
-    "topicId": 6,
-    "id": 151
-},
-{
-    "word": "speaker",
-    "definition": "Is an output device that produces sound.",
-    "usage": "Describe the device speaker.",
-    "example": "The speaker delivers clear sound.",
-    "image_link": "https://i.pinimg.com/236x/27/b1/67/27b167733854144881ace1c42b4ee4a7.jpg",
-    "topicId": 6,
-    "id": 152
-},
-{
-    "word": "USB drive",
-    "definition": "Is a small, portable device used for data storage that includes a flash memory and an integrated USB interface.",
-    "usage": "Describe the device USB drive.",
-    "example": "She stored her files on a USB drive.",
-    "image_link": "https://i.pinimg.com/236x/f4/b1/c1/f4b1c13de37c59c6aa8b622c0865110e.jpg",
-    "topicId": 6,
-    "id": 153
-},
-{
-    "word": "external hard drive",
-    "definition": "Is a portable storage device that can be attached to a computer through a USB or other interface.",
-    "usage": "Describe the device external hard drive.",
-    "example": "He backed up his data on an external hard drive.",
-    "image_link": "https://i.pinimg.com/236x/78/2d/4d/782d4d9cea6b1dd588d3f504c7e93cf3.jpg",
-    "topicId": 6,
-    "id": 154
-},
-{
-    "word": "drone",
-    "definition": "Is an unmanned aircraft that can be remotely controlled or fly autonomously.",
-    "usage": "Describe the device drone.",
-    "example": "The drone captured aerial footage.",
-    "image_link": "https://i.pinimg.com/236x/9f/86/ea/9f86eaa291893d81bbb29affa533f64d.jpg",
-    "topicId": 6,
-    "id": 155
-}
+    },
+    {
+      "word": "sunshine",
+      "definition": "Sunlight, especially when considered pleasant.",
+      "usage": "Sunshine is vital for the production of Vitamin D.",
+      "example": "We enjoyed a lovely day filled with warm sunshine.",
+      "image_link": "https://i.pinimg.com/236x/43/d3/fd/43d3fda6e52ac7c68cc775cf08c81b36.jpg",
+      "topicId": 2,
+      "id": 67
+    },
+    {
+      "word": "cloud",
+      "definition": "A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.",
+      "usage": "Clouds can form various shapes and sizes, affecting the weather.",
+      "example": "The sky was covered with dark clouds.",
+      "image_link": "https://i.pinimg.com/236x/bd/a2/67/bda2671c3b78f9ba9f0264f59782e1cc.jpg",
+      "topicId": 2,
+      "id": 68
+    },
+    {
+      "word": "wind",
+      "definition": "Air in natural motion, as that moving horizontally at any velocity along the earth's surface.",
+      "usage": "Wind can be used as a renewable energy source.",
+      "example": "The wind was strong enough to bend trees.",
+      "image_link": "https://i.pinimg.com/236x/6c/73/52/6c7352172779dcf2a34b991554af7260.jpg",
+      "topicId": 2,
+      "id": 69
+    },
+    {
+      "word": "snow",
+      "definition": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.",
+      "usage": "Snow is common in colder climates during the winter months.",
+      "example": "We woke up to a thick layer of snow.",
+      "image_link": "https://i.pinimg.com/236x/47/77/ef/4777effd7383fb2782e845750784b93a.jpg",
+      "topicId": 2,
+      "id": 70
+    },
+    {
+      "word": "thunder",
+      "definition": "A loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.",
+      "usage": "Thunder is often accompanied by lightning.",
+      "example": "The sound of thunder could be heard in the distance.",
+      "image_link": "https://i.pinimg.com/236x/68/75/c3/6875c383c3ba22d28281c154e959304e.jpg",
+      "topicId": 2,
+      "id": 71
+    },
+    {
+      "word": "lightning",
+      "definition": "The occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder.",
+      "usage": "Lightning strikes can cause significant damage.",
+      "example": "Lightning lit up the night sky.",
+      "image_link": "https://i.pinimg.com/236x/e5/32/b1/e532b13df5bbde01730930d41467c01c.jpg",
+      "topicId": 2,
+      "id": 72
+    },
+    {
+      "word": "fog",
+      "definition": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that obscures or restricts visibility.",
+      "usage": "Fog can greatly reduce visibility, making driving conditions dangerous.",
+      "example": "The bridge was barely visible through the thick fog.",
+      "image_link": "https://i.pinimg.com/236x/3d/16/03/3d160329981acf0f68dfa8e0cd4f1c46.jpg",
+      "topicId": 2,
+      "id": 73
+    },
+    {
+      "word": "hail",
+      "definition": "Pellets of frozen rain which fall in showers from cumulonimbus clouds.",
+      "usage": "Hail can damage crops and property.",
+      "example": "The storm brought strong winds and hail.",
+      "image_link": "https://i.pinimg.com/236x/06/a9/e5/06a9e51b256b43381f3607b28d32b09d.jpg",
+      "topicId": 2,
+      "id": 74
+    },
+    {
+      "word": "drizzle",
+      "definition": "Light rain falling in very fine drops.",
+      "usage": "Drizzle often occurs during overcast days.",
+      "example": "The morning was cool and drizzly.",
+      "image_link": "https://i.pinimg.com/236x/f7/52/40/f752404e8036da1263901293e057cce1.jpg",
+      "topicId": 2,
+      "id": 75
+    },
+    {
+      "word": "humidity",
+      "definition": "The amount of water vapor in the atmosphere.",
+      "usage": "High humidity can make temperatures feel hotter than they are.",
+      "example": "The humidity was so high that it felt like walking through water.",
+      "image_link": "https://i.pinimg.com/236x/8c/29/94/8c2994fbdcbcb3928e725d07d28a2de5.jpg",
+      "topicId": 2,
+      "id": 76
+    },
+    {
+      "word": "cyclone",
+      "definition": "A system of winds rotating inward to an area of low atmospheric pressure, with a counterclockwise (northern hemisphere) or clockwise (southern hemisphere) circulation; a depression.",
+      "usage": "Cyclones are powerful and can lead to widespread devastation.",
+      "example": "The coast was hit hard by the cyclone last year.",
+      "image_link": "https://i.pinimg.com/236x/35/9e/bf/359ebfb07ec847d5d3709370250042f1.jpg",
+      "topicId": 2,
+      "id": 77
+    },
+    {
+      "word": "tornado",
+      "definition": "A mobile, destructive vortex of violently rotating winds having the appearance of a funnel-shaped cloud and advancing beneath a large storm system.",
+      "usage": "Tornadoes can destroy buildings, flip cars, and create deadly flying debris.",
+      "example": "The tornado swept through the town without warning.",
+      "image_link": "https://i.pinimg.com/236x/29/a5/2f/29a52f928a85e3e54da258005299a4d8.jpg",
+      "topicId": 2,
+      "id": 78
+    },
+    {
+      "word": "dew",
+      "definition": "Tiny drops of water that form on cool surfaces at night, when atmospheric vapor condenses.",
+      "usage": "Dew is most noticeable in the morning on grass and leaves.",
+      "example": "The grass was wet with morning dew.",
+      "image_link": "https://i.pinimg.com/236x/15/9e/9f/159e9f81f8cde45ecc35afb8ac40ca6e.jpg",
+      "topicId": 2,
+      "id": 79
+    },
+    {
+      "word": "blizzard",
+      "definition": "A severe snowstorm with high winds and low visibility.",
+      "usage": "Blizzards can cause complete whiteout conditions, making travel impossible.",
+      "example": "The blizzard shut down the city for days.",
+      "image_link": "https://i.pinimg.com/236x/59/1d/1e/591d1e0334a10371f218e4ec5d14c3b3.jpg",
+      "topicId": 2,
+      "id": 80
+    },
+    {
+      "word": "mist",
+      "definition": "A cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that limits visibility (but to a lesser extent than fog).",
+      "usage": "Mist typically forms in valleys and hollows.",
+      "example": "The mountain was shrouded in a light mist.",
+      "image_link": "https://i.pinimg.com/236x/3d/16/03/3d160329981acf0f68dfa8e0cd4f1c46.jpg",
+      "topicId": 2,
+      "id": 81
+    },
+    {
+      "word": "gale",
+      "definition": "A very strong wind.",
+      "usage": "Gales are common in coastal areas and can lead to high waves.",
+      "example": "The ship battled against the gale.",
+      "image_link": "https://i.pinimg.com/236x/83/cd/3f/83cd3f03963c7508fde8f63bf72f10f9.jpg",
+      "topicId": 2,
+      "id": 82
+    },
+    {
+      "word": "overcast",
+      "definition": "Covered with clouds; not sunny.",
+      "usage": "Overcast skies can persist for days in some climates.",
+      "example": "The day was gray and overcast.",
+      "image_link": "https://i.pinimg.com/236x/5c/65/54/5c65549a2ff33e35fd75a5c9cc4c359e.jpg",
+      "topicId": 2,
+      "id": 83
+    },
+    {
+      "word": "heatwave",
+      "definition": "A prolonged period of abnormally hot weather.",
+      "usage": "Heatwaves can pose health risks, especially to the elderly and sick.",
+      "example": "The city experienced a heatwave with temperatures soaring above 40 degrees Celsius.",
+      "image_link": "https://i.pinimg.com/236x/9c/9c/0e/9c9c0ecb1fada362ba849dba136b31fd.jpg",
+      "topicId": 2,
+      "id": 84
+    },
+    {
+      "word": "frost",
+      "definition": "A thin layer of ice on a solid surface, which forms from the condensation and freezing of moisture in the air.",
+      "usage": "Frost can damage crops and plants.",
+      "example": "A heavy frost had settled overnight.",
+      "image_link": "https://i.pinimg.com/236x/25/1d/71/251d71a7bff1e78e44418f56d79330e5.jpg",
+      "topicId": 2,
+      "id": 85
+    },
+    {
+      "word": "monsoon",
+      "definition": "A seasonal prevailing wind in the region of South and Southeast Asia, blowing from the southwest between May and September and bringing rain (the wet monsoon), or from the northeast between October and April (the dry monsoon).",
+      "usage": "The monsoon season is crucial for agriculture in India.",
+      "example": "The monsoon rains arrived later than usual this year.",
+      "image_link": "https://i.pinimg.com/236x/d7/56/c4/d756c4ddcbf7290585e87dfe70a58bf4.jpg",
+      "topicId": 2,
+      "id": 86
+    },
+    {
+      "word": "sleet",
+      "definition": "A form of precipitation consisting of ice pellets, often mixed with rain or snow.",
+      "usage": "Sleet can make driving conditions hazardous.",
+      "example": "The storm brought snow and sleet to the region.",
+      "image_link": "https://i.pinimg.com/236x/39/5b/21/395b2196e9c7c0ef3490aae2111df53a.jpg",
+      "topicId": 2,
+      "id": 87
+    },
+    {
+      "word": "elephant",
+      "definition": "A large herbivorous mammal with a trunk, long ears, and tusks.",
+      "usage": "Elephants are the largest land animals on Earth.",
+      "example": "The elephant used its trunk to pick up food.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/elephant_noun_001_11010.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 88
+    },
+    {
+      "word": "tiger",
+      "definition": "A large predatory feline mammal, native to Asia, with a coat of reddish-orange with dark stripes.",
+      "usage": "Tigers are powerful predators and are known for their roar.",
+      "example": "The tiger stalked its prey through the underbrush.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/tiger_noun_001_35805.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 89
+    },
+    {
+      "word": "penguin",
+      "definition": "A flightless bird, native to the colder regions of the southern hemisphere, with black upper parts and white underparts.",
+      "usage": "Penguins are adapted to life in the water.",
+      "example": "The penguin slid across the ice on its belly.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/penguin_noun_001_26450.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 90
+    },
+    {
+      "word": "giraffe",
+      "definition": "A tall African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines.",
+      "usage": "The giraffe is the tallest living terrestrial animal.",
+      "example": "The giraffe reached up high into the trees to eat leaves.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/giraffe_noun_001_15212.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 91
+    },
+    {
+      "word": "zebra",
+      "definition": "An African wild horse with black-and-white stripes and an erect mane.",
+      "usage": "Zebras are best known for their distinctive black and white stripes.",
+      "example": "The zebra grazed on the savannah.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/zebra_noun_001_39858.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 92
+    },
+    {
+      "word": "kangaroo",
+      "definition": "A large plant-eating marsupial with powerful hind legs for leaping, native to Australia.",
+      "usage": "Kangaroos are known for carrying their young in a pouch.",
+      "example": "The kangaroo hopped across the field with ease.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/kangaroo_noun_001_19403.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 93
+    },
+    {
+      "word": "rhinoceros",
+      "definition": "A large, thick-skinned mammal with one or two upright horns on the snout, native to Africa and southern Asia.",
+      "usage": "The rhinoceros is often poached for its horn.",
+      "example": "The rhinoceros charged at the approaching vehicle.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/rhinoceros_noun_001_30658.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 94
+    },
+    {
+      "word": "lion",
+      "definition": "A large tawny-colored cat that lives in prides, found in Africa and northwestern India.",
+      "usage": "The lion is known as the 'king of the jungle'.",
+      "example": "The lion roared loudly, asserting its dominance.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/lion_noun_001_21640.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 95
+    },
+    {
+      "word": "leopard",
+      "definition": "A large solitary cat that has a fawn or brown coat with black spots, native to the forests of Africa and southern Asia.",
+      "usage": "Leopards are known for their ability to climb trees.",
+      "example": "The leopard was spotted resting in a tree.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/leopard_noun_001_21256.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 96
+    },
+    {
+      "word": "wolf",
+      "definition": "A wild carnivorous mammal which is the largest member of the dog family, living and hunting in packs.",
+      "usage": "Wolves communicate by howling.",
+      "example": "The pack of wolves moved silently through the forest.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/wolf_noun_001_39521.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 97
+    },
+    {
+      "word": "bear",
+      "definition": "A large heavy mammal with thick fur and a very short tail, found chiefly in the forests of the Northern Hemisphere.",
+      "usage": "Bears hibernate during the winter months.",
+      "example": "The bear caught fish in the river.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/bear_noun_001_01718.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 98
+    },
+    {
+      "word": "fox",
+      "definition": "A carnivorous mammal of the dog family with a pointed muzzle and bushy tail, proverbially noted for its cunning.",
+      "usage": "The fox is often featured in folklore and stories as a trickster.",
+      "example": "The fox slipped into the henhouse undetected.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/fox_noun_001_13845.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 99
+    },
+    {
+      "word": "owl",
+      "definition": "A nocturnal bird of prey with large forward-facing eyes surrounded by facial disks, a hooked beak, and typically a loud call.",
+      "usage": "Owls are known for their distinctive hooting.",
+      "example": "The owl hooted from its perch in the old oak tree.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/owl_noun_001_26018.jpg?version=6.0.17",
+      "topicId": 3,
+      "id": 100
+    },
+    {
+      "word": "white",
+      "definition": "Is a color that is the result of the reflection or emission of all colors.",
+      "usage": "Describe something that is of the color white.",
+      "example": "She wore a beautiful white dress.",
+      "image_link": "https://i.pinimg.com/236x/00/77/80/00778091f156323e85e4506bcc6b2cf2.jpg",
+      "topicId": 4,
+      "id": 101
+    },
+    {
+      "word": "red",
+      "definition": "Is a color at the end of the visible spectrum of light, next to orange and opposite violet.",
+      "usage": "Describe something that is of the color red.",
+      "example": "The apple is red.",
+      "image_link": "https://i.pinimg.com/236x/b1/73/ea/b173ea07791af67f28f91fbf2a30bf6b.jpg",
+      "topicId": 4,
+      "id": 102
+    },
+    {
+      "word": "blue",
+      "definition": "Is a color that is seen as part of the visible spectrum, between green and violet.",
+      "usage": "Describe something that is of the color blue.",
+      "example": "The sky is blue.",
+      "image_link": "https://i.pinimg.com/236x/b8/61/17/b861178a4659a283675882041931fc30.jpg",
+      "topicId": 4,
+      "id": 103
+    },
+    {
+      "word": "green",
+      "definition": "Is a color between blue and yellow in the spectrum.",
+      "usage": "Describe something that is of the color green.",
+      "example": "The grass is green.",
+      "image_link": "https://i.pinimg.com/236x/b8/04/81/b80481838c5608682b14d405d2ab12be.jpg",
+      "topicId": 4,
+      "id": 104
+    },
+    {
+      "word": "yellow",
+      "definition": "Is a color between green and orange in the spectrum.",
+      "usage": "Describe something that is of the color yellow.",
+      "example": "The sun is yellow.",
+      "image_link": "https://i.pinimg.com/236x/d6/f5/11/d6f5118b769faff48836573139ceaaa4.jpg",
+      "topicId": 4,
+      "id": 105
+    },
+    {
+      "word": "orange",
+      "definition": "Is a color between red and yellow in the spectrum.",
+      "usage": "Describe something that is of the color orange.",
+      "example": "The pumpkin is orange.",
+      "image_link": "https://i.pinimg.com/236x/3b/4e/7e/3b4e7ef2c9a8a19dc1c55d563ed6b19c.jpg",
+      "topicId": 4,
+      "id": 106
+    },
+    {
+      "word": "purple",
+      "definition": "Is a color intermediate between red and blue.",
+      "usage": "Describe something that is of the color purple.",
+      "example": "The flower is purple.",
+      "image_link": "https://i.pinimg.com/236x/3f/c7/21/3fc7215a989943d3c5ec2bc7b205ccb1.jpg",
+      "topicId": 4,
+      "id": 107
+    },
+    {
+      "word": "pink",
+      "definition": "Is a pale red color.",
+      "usage": "Describe something that is of the color pink.",
+      "example": "She wore a pink shirt.",
+      "image_link": "https://i.pinimg.com/236x/8e/a1/f7/8ea1f7bf7f4dd7a727c41fdbbc1083c1.jpg",
+      "topicId": 4,
+      "id": 108
+    },
+    {
+      "word": "black",
+      "definition": "Is the darkest color, resulting from the absence or complete absorption of visible light.",
+      "usage": "Describe something that is of the color black.",
+      "example": "The night is black.",
+      "image_link": "https://i.pinimg.com/236x/4f/c3/a4/4fc3a4db6c4f400b49f353e045f3f8c9.jpg",
+      "topicId": 4,
+      "id": 109
+    },
+    {
+      "word": "brown",
+      "definition": "Is a color produced by combining red, yellow, and black.",
+      "usage": "Describe something that is of the color brown.",
+      "example": "The chocolate is brown.",
+      "image_link": "https://i.pinimg.com/236x/5c/dd/b9/5cddb9722ce973583f816c2b76d6cff1.jpg",
+      "topicId": 4,
+      "id": 110
+    },
+    {
+      "word": "gray",
+      "definition": "Is a color between black and white.",
+      "usage": "Describe something that is of the color gray.",
+      "example": "The sky is gray.",
+      "image_link": "https://i.pinimg.com/236x/f3/3d/52/f33d52baeb8aae4b8cc7031d42663a0d.jpg",
+      "topicId": 4,
+      "id": 111
+    },
+    {
+      "word": "magenta",
+      "definition": "Is a color that is a combination of red and blue.",
+      "usage": "Describe something that is of the color magenta.",
+      "example": "The ink is magenta.",
+      "image_link": "https://i.pinimg.com/236x/1f/82/9a/1f829abaf58bdc602b2e3ff1db620941.jpg",
+      "topicId": 4,
+      "id": 112
+    },
+    {
+      "word": "cyan",
+      "definition": "Is a color between blue and green in the spectrum.",
+      "usage": "Describe something that is of the color cyan.",
+      "example": "The water is cyan.",
+      "image_link": "https://i.pinimg.com/236x/62/77/b8/6277b8a9eea67f8dbb935feea045fec0.jpg",
+      "topicId": 4,
+      "id": 113
+    },
+    {
+      "word": "turquoise",
+      "definition": "Is a blue-green color.",
+      "usage": "Describe something that is of the color turquoise.",
+      "example": "The jewelry is turquoise.",
+      "image_link": "https://i.pinimg.com/236x/46/51/9d/46519d4f3b3ba83399cda20540be5bc7.jpg",
+      "topicId": 4,
+      "id": 114
+    },
+    {
+      "word": "indigo",
+      "definition": "Is a deep and rich color close to the color wheel blue.",
+      "usage": "Describe something that is of the color indigo.",
+      "example": "The fabric is indigo.",
+      "image_link": "https://i.pinimg.com/236x/81/fc/b9/81fcb9ef06dd4ca13c4c1ab370caed91.jpg",
+      "topicId": 4,
+      "id": 115
+    },
+    {
+      "word": "violet",
+      "definition": "Is a color at the end of the visible spectrum of light, next to blue and opposite red.",
+      "usage": "Describe something that is of the color violet.",
+      "example": "The flower is violet.",
+      "image_link": "https://i.pinimg.com/236x/b2/b3/80/b2b380cd6fd36a0cdce6afea3460f423.jpg",
+      "topicId": 4,
+      "id": 116
+    },
+    {
+      "word": "lime",
+      "definition": "Is a color that is a shade of green.",
+      "usage": "Describe something that is of the color lime.",
+      "example": "The lollipop is lime green.",
+      "image_link": "https://i.pinimg.com/236x/9c/0b/f9/9c0bf91c82bc3b378c39a623b06f32ef.jpg",
+      "topicId": 4,
+      "id": 117
+    },
+    {
+      "word": "gold",
+      "definition": "Is a metallic yellow color.",
+      "usage": "Describe something that is of the color gold.",
+      "example": "The ring is gold.",
+      "image_link": "https://i.pinimg.com/236x/b0/86/23/b08623ef311fce264ecf8640cbd4164b.jpg",
+      "topicId": 4,
+      "id": 118
+    },
+    {
+      "word": "silver",
+      "definition": "Is a metallic gray color.",
+      "usage": "Describe something that is of the color silver.",
+      "example": "The necklace is silver.",
+      "image_link": "https://i.pinimg.com/236x/38/79/76/38797659d08e52caaef5b8ac697ff5a6.jpg",
+      "topicId": 4,
+      "id": 119
+    },
+    {
+      "word": "apple",
+      "definition": "Is a fruit with red, yellow, or green skin and a sweet, crisp flesh.",
+      "usage": "Describe the fruit apple.",
+      "example": "She ate a juicy apple.",
+      "image_link": "https://i.pinimg.com/236x/3f/a2/87/3fa287c717ff7a7102e6d872c68b5bda.jpg",
+      "topicId": 5,
+      "id": 120
+    },
+    {
+      "word": "banana",
+      "definition": "Is a long, curved fruit with a thick peel and soft, sweet flesh inside.",
+      "usage": "Describe the fruit banana.",
+      "example": "He had a banana for breakfast.",
+      "image_link": "https://i.pinimg.com/236x/a3/37/0b/a3370bfbc03bc8de595f417f08f7fa5e.jpg",
+      "topicId": 5,
+      "id": 121
+    },
+    {
+      "word": "grape",
+      "definition": "Is a small, round fruit that grows in clusters on a vine.",
+      "usage": "Describe the fruit grape.",
+      "example": "The grapes were fresh and juicy.",
+      "image_link": "https://i.pinimg.com/236x/b8/8b/d7/b88bd72ec9038f6354c12e6462eb1dca.jpg",
+      "topicId": 5,
+      "id": 122
+    },
+    {
+      "word": "orange",
+      "definition": "Is a round, orange-colored citrus fruit with a sweet-tart flavor.",
+      "usage": "Describe the fruit orange.",
+      "example": "She drank a glass of orange juice.",
+      "image_link": "https://i.pinimg.com/236x/3b/4e/7e/3b4e7ef2c9a8a19dc1c55d563ed6b19c.jpg",
+      "topicId": 5,
+      "id": 123
+    },
+    {
+      "word": "strawberry",
+      "definition": "Is a small, red fruit with tiny seeds on its surface.",
+      "usage": "Describe the fruit strawberry.",
+      "example": "We picked fresh strawberries.",
+      "image_link": "https://i.pinimg.com/236x/1c/ac/37/1cac37c5520085aba52654b18beb225a.jpg",
+      "topicId": 5,
+      "id": 124
+    },
+    {
+      "word": "watermelon",
+      "definition": "Is a large, green fruit with a sweet, juicy, red or pink flesh.",
+      "usage": "Describe the fruit watermelon.",
+      "example": "They enjoyed a slice of watermelon.",
+      "image_link": "https://i.pinimg.com/236x/6d/22/80/6d22800bfb9a0012716fcf47b491d1d0.jpg",
+      "topicId": 5,
+      "id": 125
+    },
+    {
+      "word": "pear",
+      "definition": "Is a sweet fruit with a rounded base and an elongated top.",
+      "usage": "Describe the fruit pear.",
+      "example": "The pear was ripe and juicy.",
+      "image_link": "https://i.pinimg.com/236x/c1/54/93/c154938ec0dd865b3d06a380b11e4ff5.jpg",
+      "topicId": 5,
+      "id": 126
+    },
+    {
+      "word": "pineapple",
+      "definition": "Is a tropical fruit with a tough, spiky exterior and sweet, juicy, yellow flesh.",
+      "usage": "Describe the fruit pineapple.",
+      "example": "Pineapple is delicious in smoothies.",
+      "image_link": "https://i.pinimg.com/236x/a0/77/c8/a077c84037cd1e27b87d81ad8ca88209.jpg",
+      "topicId": 5,
+      "id": 127
+    },
+    {
+      "word": "cherry",
+      "definition": "Is a small, round fruit that is typically red or black.",
+      "usage": "Describe the fruit cherry.",
+      "example": "She ate a bowl of cherries.",
+      "image_link": "https://i.pinimg.com/236x/20/68/d2/2068d220432a0bf052c713b3587943a6.jpg",
+      "topicId": 5,
+      "id": 128
+    },
+    {
+      "word": "mango",
+      "definition": "Is a tropical fruit with a smooth skin and sweet, orange flesh.",
+      "usage": "Describe the fruit mango.",
+      "example": "Mangoes are my favorite fruit.",
+      "image_link": "https://i.pinimg.com/236x/c4/41/60/c44160336851753abc03b27896af17b4.jpg",
+      "topicId": 5,
+      "id": 129
+    },
+    {
+      "word": "blueberry",
+      "definition": "Is a small, blue-black fruit that grows in clusters.",
+      "usage": "Describe the fruit blueberry.",
+      "example": "Blueberries are good in muffins.",
+      "image_link": "https://i.pinimg.com/236x/71/1a/c9/711ac927c461541d4c934fe4ca93357f.jpg",
+      "topicId": 5,
+      "id": 130
+    },
+    {
+      "word": "kiwi",
+      "definition": "Is a small, brown fruit with green flesh and tiny black seeds.",
+      "usage": "Describe the fruit kiwi.",
+      "example": "Kiwi is rich in vitamin C.",
+      "image_link": "https://i.pinimg.com/236x/d6/6b/25/d66b257fa3fb12c27b3b0e5f9ebf3885.jpg",
+      "topicId": 5,
+      "id": 131
+    },
+    {
+      "word": "avocado",
+      "definition": "Is a pear-shaped fruit with a rough skin and creamy green flesh.",
+      "usage": "Describe the fruit avocado.",
+      "example": "Avocado is great in salads.",
+      "image_link": "https://i.pinimg.com/236x/43/ba/16/43ba16af32df1697c77530e84dd56afd.jpg",
+      "topicId": 5,
+      "id": 132
+    },
+    {
+      "word": "coconut",
+      "definition": "Is a large, hard-shelled fruit with a fibrous husk and white flesh inside.",
+      "usage": "Describe the fruit coconut.",
+      "example": "Coconut can be used in cooking.",
+      "image_link": "https://i.pinimg.com/236x/2b/35/3f/2b353f1778e3b9d96c00eed15c395ff2.jpg",
+      "topicId": 5,
+      "id": 133
+    },
+    {
+      "word": "lemon",
+      "definition": "Is a yellow, oval citrus fruit with a tart flavor.",
+      "usage": "Describe the fruit lemon.",
+      "example": "Lemon adds a fresh taste to dishes.",
+      "image_link": "https://i.pinimg.com/236x/f2/0b/16/f20b16883386bc8ec55f9f751e3ef454.jpg",
+      "topicId": 5,
+      "id": 134
+    },
+    {
+      "word": "lime",
+      "definition": "Is a small, green citrus fruit with a tart flavor.",
+      "usage": "Describe the fruit lime.",
+      "example": "Lime is used in many drinks.",
+      "image_link": "https://i.pinimg.com/236x/9c/0b/f9/9c0bf91c82bc3b378c39a623b06f32ef.jpg",
+      "topicId": 5,
+      "id": 135
+    },
+    {
+      "word": "peach",
+      "definition": "Is a soft, round fruit with fuzzy skin and sweet yellow or white flesh.",
+      "usage": "Describe the fruit peach.",
+      "example": "Peaches are in season in summer.",
+      "image_link": "https://i.pinimg.com/236x/bb/be/92/bbbe92420d0c882d1bdb801dc1011f5e.jpg",
+      "topicId": 5,
+      "id": 136
+    },
+    {
+      "word": "plum",
+      "definition": "Is a small, round fruit with smooth skin and a sweet or tart flesh.",
+      "usage": "Describe the fruit plum.",
+      "example": "She made a plum pie.",
+      "image_link": "https://i.pinimg.com/236x/8c/64/b7/8c64b7147e20822115f5583d2c77a566.jpg",
+      "topicId": 5,
+      "id": 137
+    },
+    {
+      "word": "raspberry",
+      "definition": "Is a small, red or black fruit with many tiny seeds.",
+      "usage": "Describe the fruit raspberry.",
+      "example": "Raspberries are great in desserts.",
+      "image_link": "https://i.pinimg.com/236x/91/fa/2a/91fa2a87736740be6b6e5c6bf280f0b7.jpg",
+      "topicId": 5,
+      "id": 138
+    },
+    {
+      "word": "smartphone",
+      "definition": "Is a mobile phone that performs many functions of a computer.",
+      "usage": "Describe the device smartphone.",
+      "example": "He bought a new smartphone.",
+      "image_link": "https://i.pinimg.com/236x/3a/8a/6c/3a8a6cc532e966db07c76f0041fe7a7b.jpg",
+      "topicId": 6,
+      "id": 139
+    },
+    {
+      "word": "laptop",
+      "definition": "Is a small, portable personal computer.",
+      "usage": "Describe the device laptop.",
+      "example": "She uses her laptop for work.",
+      "image_link": "https://dictionary.cambridge.org/vi/images/full/laptop_noun_001_19234.jpg?version=6.0.21",
+      "topicId": 6,
+      "id": 140
+    },
+    {
+      "word": "tablet",
+      "definition": "Is a wireless, portable personal computer with a touchscreen interface.",
+      "usage": "Describe the device tablet.",
+      "example": "Tablets are great for reading.",
+      "image_link": "https://i.pinimg.com/236x/b0/69/e6/b069e6c613ce32a462e570bf76326130.jpg",
+      "topicId": 6,
+      "id": 141
+    },
+    {
+      "word": "desktop",
+      "definition": "Is a personal computer designed to fit on a desk.",
+      "usage": "Describe the device desktop.",
+      "example": "The office is equipped with desktop computers.",
+      "image_link": "https://i.pinimg.com/236x/8c/0a/b1/8c0ab142b57cc14476c9f2cf987de4e0.jpg",
+      "topicId": 6,
+      "id": 142
+    },
+    {
+      "word": "printer",
+      "definition": "Is a device that prints text or illustrations on paper.",
+      "usage": "Describe the device printer.",
+      "example": "The printer is out of ink.",
+      "image_link": "https://i.pinimg.com/236x/91/c3/82/91c382be2031c07666296ed9e5db4eeb.jpg",
+      "topicId": 6,
+      "id": 143
+    },
+    {
+      "word": "router",
+      "definition": "Is a device that forwards data packets between computer networks.",
+      "usage": "Describe the device router.",
+      "example": "The router needs to be reset.",
+      "image_link": "https://i.pinimg.com/236x/8e/ee/cc/8eeecc164cf45e741b74409f0cab1eda.jpg",
+      "topicId": 6,
+      "id": 144
+    },
+    {
+      "word": "monitor",
+      "definition": "Is an output device that displays information in pictorial form.",
+      "usage": "Describe the device monitor.",
+      "example": "She bought a new monitor for her computer.",
+      "image_link": "https://i.pinimg.com/236x/32/53/b6/3253b657b173887057d956a73846b71e.jpg",
+      "topicId": 6,
+      "id": 145
+    },
+    {
+      "word": "keyboard",
+      "definition": "Is an input device consisting of a set of keys used to input data into a computer.",
+      "usage": "Describe the device keyboard.",
+      "example": "He spilled coffee on the keyboard.",
+      "image_link": "https://i.pinimg.com/236x/4a/77/2f/4a772f7b4df1435642192c33cb8c9cc9.jpg",
+      "topicId": 6,
+      "id": 146
+    },
+    {
+      "word": "mouse",
+      "definition": "Is a handheld input device used to control a cursor in a graphical user interface.",
+      "usage": "Describe the device mouse.",
+      "example": "The mouse is not working properly.",
+      "image_link": "https://i.pinimg.com/236x/f7/9f/8a/f79f8a888bfb7b7bd1d2383f0ad3c1c0.jpg",
+      "topicId": 6,
+      "id": 147
+    },
+    {
+      "word": "camera",
+      "definition": "Is a device used to capture photographs or videos.",
+      "usage": "Describe the device camera.",
+      "example": "She bought a new digital camera.",
+      "image_link": "https://i.pinimg.com/236x/53/29/35/532935f03007bff37cf6c232827ccb2c.jpg",
+      "topicId": 6,
+      "id": 148
+    },
+    {
+      "word": "scanner",
+      "definition": "Is a device that captures images from photographic prints, posters, magazine pages, and similar sources for computer editing and display.",
+      "usage": "Describe the device scanner.",
+      "example": "The scanner is used to digitize documents.",
+      "image_link": "https://i.pinimg.com/236x/2a/ce/62/2ace62f519d9dc1306e8ecad1023a07d.jpg",
+      "topicId": 6,
+      "id": 149
+    },
+    {
+      "word": "headphones",
+      "definition": "Are a pair of small loudspeaker drivers worn on or around the head over a user's ears.",
+      "usage": "Describe the device headphones.",
+      "example": "He listened to music using his headphones.",
+      "image_link": "https://i.pinimg.com/236x/85/bc/9f/85bc9fe18d4faa6f76538485caad784b.jpg",
+      "topicId": 6,
+      "id": 150
+    },
+    {
+      "word": "microphone",
+      "definition": "Is a device that converts sound into an electrical signal.",
+      "usage": "Describe the device microphone.",
+      "example": "The singer used a microphone during the concert.",
+      "image_link": "https://i.pinimg.com/236x/0d/01/2b/0d012b4469ed89df29ac9953ba4cf06b.jpg",
+      "topicId": 6,
+      "id": 151
+    },
+    {
+      "word": "speaker",
+      "definition": "Is an output device that produces sound.",
+      "usage": "Describe the device speaker.",
+      "example": "The speaker delivers clear sound.",
+      "image_link": "https://i.pinimg.com/236x/27/b1/67/27b167733854144881ace1c42b4ee4a7.jpg",
+      "topicId": 6,
+      "id": 152
+    },
+    {
+      "word": "USB drive",
+      "definition": "Is a small, portable device used for data storage that includes a flash memory and an integrated USB interface.",
+      "usage": "Describe the device USB drive.",
+      "example": "She stored her files on a USB drive.",
+      "image_link": "https://i.pinimg.com/236x/f4/b1/c1/f4b1c13de37c59c6aa8b622c0865110e.jpg",
+      "topicId": 6,
+      "id": 153
+    },
+    {
+      "word": "external hard drive",
+      "definition": "Is a portable storage device that can be attached to a computer through a USB or other interface.",
+      "usage": "Describe the device external hard drive.",
+      "example": "He backed up his data on an external hard drive.",
+      "image_link": "https://i.pinimg.com/236x/78/2d/4d/782d4d9cea6b1dd588d3f504c7e93cf3.jpg",
+      "topicId": 6,
+      "id": 154
+    },
+    {
+      "word": "drone",
+      "definition": "Is an unmanned aircraft that can be remotely controlled or fly autonomously.",
+      "usage": "Describe the device drone.",
+      "example": "The drone captured aerial footage.",
+      "image_link": "https://i.pinimg.com/236x/9f/86/ea/9f86eaa291893d81bbb29affa533f64d.jpg",
+      "topicId": 6,
+      "id": 155
+    },
+    {
+      "word": "ball",
+      "definition": "Any object in the shape of a sphere, especially one used as a toy by children or in various sports such as tennis and football.",
+      "usage": "Ball is one of the most favorite children's toy.",
+      "example": "They enjoy kicking a ball around the park.",
+      "image_link": "https://i.pinimg.com/236x/1b/ca/e2/1bcae2230d784d878127366dc9cee332.jpg",
+      "topicId": 7,
+      "id": 156
+    },
+    {
+      "word": "baseball",
+      "definition": "A bat-and-ball game played between two teams of nine players each who take turns batting and fielding.",
+      "usage": "Baseball is popular in North America and Japan.",
+      "example": "He hit a home run during the baseball game.",
+      "image_link": "https://i.pinimg.com/236x/82/ae/6d/82ae6d1c305822e7f37499661dc42f22.jpg",
+      "topicId": 7,
+      "id": 157
+    },
+    {
+      "word": "golf",
+      "definition": "A sport in which players use clubs to hit a small ball into a series of holes on a course in as few strokes as possible.",
+      "usage": "Golf is often played on a course with 18 holes.",
+      "example": "She enjoys playing golf on weekends.",
+      "image_link": "https://i.pinimg.com/236x/55/ac/0e/55ac0ef959078df310388ccbcfbdc4ba.jpg",
+      "topicId": 7,
+      "id": 158
+    },
+    {
+      "word": "swimming",
+      "definition": "The sport or activity of moving through water by using the arms, legs, and body in motions called strokes.",
+      "usage": "Swimming is a good way to stay fit.",
+      "example": "He goes swimming every morning.",
+      "image_link": "https://dictionary.cambridge.org/images/thumb/swim_noun_002_36983.jpg?version=6.0.21",
+      "topicId": 7,
+      "id": 159
+    },
+    {
+      "word": "cricket",
+      "definition": "A bat-and-ball game played between two teams of eleven players on a field at the center of which is a 22-yard pitch.",
+      "usage": "Cricket is a very popular sport in countries like India and Australia.",
+      "example": "They watched a cricket match on TV.",
+      "image_link": "https://i.pinimg.com/236x/f3/3c/40/f33c40bc2645d97343b917a18ef6cd23.jpg",
+      "topicId": 7,
+      "id": 160
+    },
+    {
+      "word": "rugby",
+      "definition": "A team sport played with an oval ball that may be kicked, carried, and passed from hand to hand.",
+      "usage": "Rugby is known for its physical nature.",
+      "example": "He plays rugby every weekend.",
+      "image_link": "https://i.pinimg.com/236x/64/7d/6b/647d6b5da36a71e68d022c1f1a367b03.jpg",
+      "topicId": 7,
+      "id": 161
+    },
+    {
+      "word": "volleyball",
+      "definition": "A game in which two teams hit an inflated ball over a high net using their hands.",
+      "usage": "Volleyball is played on a beach or indoor court.",
+      "example": "She joined the school's volleyball team.",
+      "image_link": "https://dictionary.cambridge.org/images/thumb/volley_noun_002_40333.jpg?version=6.0.21",
+      "topicId": 7,
+      "id": 162
+    },
+    {
+      "word": "badminton",
+      "definition": "A racquet sport played using racquets to hit a shuttlecock across a net.",
+      "usage": "Badminton is a popular sport in many countries.",
+      "example": "They play badminton in the backyard.",
+      "image_link": "https://i.pinimg.com/236x/e6/ee/1e/e6ee1e5a56e5f5dc7dd32fef9a9eb1c1.jpg",
+      "topicId": 7,
+      "id": 163
+    },
+    {
+      "word": "cycling",
+      "definition": "The sport or activity of riding a bicycle.",
+      "usage": "Cycling can be a competitive sport or a recreational activity.",
+      "example": "He enjoys cycling through the countryside.",
+      "image_link": "https://i.pinimg.com/236x/26/7a/27/267a278885008cf24c9f3e6f4cdd38cc.jpg",
+      "topicId": 7,
+      "id": 164
+    },
+    {
+      "word": "hockey",
+      "definition": "A sport in which two teams play against each other by trying to maneuver a ball or a puck into the opponent's goal using a hockey stick.",
+      "usage": "Hockey is a fast-paced and physical game.",
+      "example": "They went to watch a hockey match.",
+      "image_link": "https://i.pinimg.com/236x/28/c1/44/28c1447c83b6ee8c8d15a55ab2893aab.jpg",
+      "topicId": 7,
+      "id": 165
+    },
+    {
+      "word": "surfing",
+      "definition": "The sport or activity of riding a wave toward the shore while standing or lying on a surfboard.",
+      "usage": "Surfing is popular in coastal regions.",
+      "example": "She loves surfing in the ocean.",
+      "image_link": "https://i.pinimg.com/236x/e1/26/84/e1268429511a4bb5b2c0567e8fe1a002.jpg",
+      "topicId": 7,
+      "id": 166
+    },
+    {
+      "word": "skating",
+      "definition": "The activity or sport of moving on skates.",
+      "usage": "Skating can be done on ice or on a hard surface.",
+      "example": "He enjoys ice skating in the winter.",
+      "image_link": "https://dictionary.cambridge.org/images/thumb/skatin_noun_004_2365.jpg?version=6.0.21",
+      "topicId": 7,
+      "id": 167
+    },
+    {
+      "word": "skiing",
+      "definition": "The sport or activity of moving over snow on skis.",
+      "usage": "Skiing is a popular winter sport.",
+      "example": "They went skiing in the mountains.",
+      "image_link": "https://i.pinimg.com/236x/eb/ef/27/ebef274e527bab0274b9cb03058ea9b8.jpg",
+      "topicId": 7,
+      "id": 168
+    },
+    {
+      "word": "table tennis",
+      "definition": "A sport in which two or four players hit a lightweight ball back and forth across a table using small rackets.",
+      "usage": "Table tennis is also known as ping pong.",
+      "example": "They enjoy playing table tennis.",
+      "image_link": "https://i.pinimg.com/236x/07/cf/7b/07cf7b58d6034ea69503fdee952faff0.jpg",
+      "topicId": 7,
+      "id": 169
+    },
+    {
+      "word": "gymnastics",
+      "definition": "A sport involving exercises requiring balance, strength, flexibility, agility, coordination, and endurance.",
+      "usage": "Gymnastics is often performed on apparatuses like the balance beam and rings.",
+      "example": "She practices gymnastics every day.",
+      "image_link": "https://i.pinimg.com/236x/39/00/e0/3900e040f2bb2718391567ed048c66d6.jpg",
+      "topicId": 7,
+      "id": 170
+    },
+    {
+      "word": "fencing",
+      "definition": "A sport in which two competitors fight using rapier-style swords, winning points by making contact with their opponent.",
+      "usage": "Fencing is an Olympic sport.",
+      "example": "He joined the fencing club at school.",
+      "image_link": "https://i.pinimg.com/236x/f3/66/78/f36678a75ccddae385e7b563ceb7a774.jpg",
+      "topicId": 7,
+      "id": 171
+    },
+    {
+      "word": "rowing",
+      "definition": "The sport or activity of moving a boat by using oars.",
+      "usage": "Rowing is often done in teams.",
+      "example": "She enjoys rowing on the lake.",
+      "image_link": "https://i.pinimg.com/236x/b5/5a/58/b55a58f032fc4b2c0c0c61dcb3161b33.jpg",
+      "topicId": 7,
+      "id": 172
+    },
+    {
+      "word": "archery",
+      "definition": "The sport or skill of shooting arrows with a bow.",
+      "usage": "Archery requires precision and focus.",
+      "example": "He practices archery in the backyard.",
+      "image_link": "https://i.pinimg.com/236x/a6/75/ff/a675fff46b722ff49532529bebd9ecd0.jpg",
+      "topicId": 7,
+      "id": 173
+    },
+    {
+      "word": "boxing",
+      "definition": "A sport in which two people fight by hitting each other with their fists, usually while wearing boxing gloves in a boxing ring.",
+      "usage": "Boxing is a physically demanding sport.",
+      "example": "He won his first boxing match.",
+      "image_link": "https://i.pinimg.com/236x/67/27/8f/67278f16933ba1e7260f740e123c47db.jpg",
+      "topicId": 7,
+      "id": 174
+    },
+    {
+      "word": "adventure",
+      "definition": "An exciting or unusual experience, often involving travel or exploration.",
+      "usage": "She craved adventure and decided to travel around the world.",
+      "example": "They embarked on an adventure in the Amazon rainforest.",
+      "image_link": "https://i.pinimg.com/236x/34/9d/45/349d45d4bb3e76c72a4475b9163de5cc.jpg",
+      "topicId": 8,
+      "id": 175
+    },
+    {
+      "word": "exploration",
+      "definition": "The action of traveling in or through an unfamiliar area in order to learn about it.",
+      "usage": "Their exploration of ancient ruins revealed new insights into history.",
+      "example": "They set out on an exploration of the Arctic region.",
+      "image_link": "https://i.pinimg.com/236x/9a/94/c6/9a94c6c0285e8a92b70ccdbb4d2766d9.jpg",
+      "topicId": 8,
+      "id": 176
+    },
+    {
+      "word": "journey",
+      "definition": "An act of traveling from one place to another, especially over a long distance.",
+      "usage": "Their journey across Europe was filled with memorable experiences.",
+      "example": "She embarked on a spiritual journey to India.",
+      "image_link": "https://i.pinimg.com/236x/ed/65/02/ed65027a80e9751a36aa504460ba7694.jpg",
+      "topicId": 8,
+      "id": 177
+    },
+    {
+      "word": "tour",
+      "definition": "A journey during which several places are visited, especially for pleasure or education.",
+      "usage": "They went on a guided tour of ancient ruins in Rome.",
+      "example": "She organized a tour of famous landmarks in Paris.",
+      "image_link": "https://i.pinimg.com/236x/55/07/da/5507dac495713459405a1dd6dc891d61.jpg",
+      "topicId": 8,
+      "id": 178
+    },
+    {
+      "word": "excursion",
+      "definition": "A short journey or trip, especially one taken as a leisure activity.",
+      "usage": "They enjoyed an excursion to the countryside during their vacation.",
+      "example": "She planned an excursion to explore local markets.",
+      "image_link": "https://i.pinimg.com/236x/11/17/8c/11178c53c672dbba0d2481bf84bdb3ec.jpg",
+      "topicId": 8,
+      "id": 179
+    },
+    {
+      "word": "voyage",
+      "definition": "A long journey involving travel by sea or in space.",
+      "usage": "Their voyage across the Atlantic Ocean took several weeks.",
+      "example": "He dreamed of embarking on a voyage to distant galaxies.",
+      "image_link": "https://static.toiimg.com/photo/64079575.cms",
+      "topicId": 8,
+      "id": 180
+    },
+    {
+      "word": "picturesque",
+      "definition": "Visually attractive, especially in a quaint or charming way.",
+      "usage": "They stayed in a picturesque village nestled in the mountains.",
+      "example": "She captured the picturesque landscape with her camera.",
+      "image_link": "https://i.pinimg.com/236x/4c/0c/17/4c0c173491302e0683821f672007fd49.jpg",
+      "topicId": 8,
+      "id": 181
+    },
+    {
+      "word": "exotic",
+      "definition": "Originating from or characteristic of a distant foreign country.",
+      "usage": "They tried exotic foods during their travels in Southeast Asia.",
+      "example": "She purchased exotic souvenirs from the local market.",
+      "image_link": "https://i.pinimg.com/236x/21/0e/88/210e883eb29a4d611722807bbdbc1775.jpg",
+      "topicId": 8,
+      "id": 182
+    },
+    {
+      "word": "scenic",
+      "definition": "Having beautiful natural scenery.",
+      "usage": "They took a scenic drive along the coast.",
+      "example": "She admired the scenic views from the mountaintop.",
+      "image_link": "https://i.pinimg.com/236x/74/57/cc/7457cc81683f06cc139551fdb8330305.jpg",
+      "topicId": 8,
+      "id": 183
+    },
+    {
+      "word": "cultural",
+      "definition": "Relating to the ideas, customs, and social behavior of a society.",
+      "usage": "They explored the cultural heritage of ancient civilizations.",
+      "example": "She attended cultural festivals during her visit to Japan.",
+      "image_link": "https://i.pinimg.com/236x/18/c9/f6/18c9f60817c8cb3fb2fec6b3ecf93d92.jpg",
+      "topicId": 8,
+      "id": 184
+    },
+    {
+      "word": "authentic",
+      "definition": "Representing something in its true or original form.",
+      "usage": "They enjoyed an authentic cultural experience in a remote village.",
+      "example": "She purchased authentic handmade crafts from local artisans.",
+      "image_link": "https://ambe.vn/wp-content/uploads/2020/08/authentic-la-gi-phan-biet-hang-authentic-real-fake-nhu-the-nao-1.jpg",
+      "topicId": 8,
+      "id": 185
+    },
+    {
+      "word": "historic",
+      "definition": "Famous or important in history, or potentially so.",
+      "usage": "They visited historic landmarks in the capital city.",
+      "example": "She learned about historic events during the guided tour.",
+      "image_link": "https://i.pinimg.com/236x/6f/de/df/6fdedfdca55dba605220ea3b49735ac5.jpg",
+      "topicId": 8,
+      "id": 186
+    },
+    {
+      "word": "explore",
+      "definition": "Travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.",
+      "usage": "They decided to explore the remote islands.",
+      "example": "She loves to explore new cultures and traditions.",
+      "image_link": "https://i.pinimg.com/236x/bd/7b/1d/bd7b1d5a5e7720a7a78db5872f0aaae0.jpg",
+      "topicId": 8,
+      "id": 187
+    },
+    {
+      "word": "discover",
+      "definition": "Find (something or someone) unexpectedly or in the course of a search.",
+      "usage": "They were eager to discover hidden treasures.",
+      "example": "She discovered a quaint cafe tucked away in the alley.",
+      "image_link": "https://miro.medium.com/v2/resize:fit:2000/1*_psdK9gihnaXzMg3KbVMwg.jpeg",
+      "topicId": 8,
+      "id": 188
+    },
+    {
+      "word": "experience",
+      "definition": "Undergo (an event or occurrence).",
+      "usage": "They wanted to experience the local culture firsthand.",
+      "example": "She experienced a sense of awe when she saw the ancient ruins.",
+      "image_link": "https://www.clockwork.com/wp-content/uploads/2022/07/human-centered-experience-design-1024x1021-1.png",
+      "topicId": 8,
+      "id": 189
+    },
+    {
+      "word": "wander",
+      "definition": "Walk or move in a leisurely, casual, or aimless way.",
+      "usage": "They loved to wander through narrow streets of old towns.",
+      "example": "She enjoyed wandering along the riverbank at sunset.",
+      "image_link": "https://assets.biola.edu/4396738754672012438/article/70175becdfdbae0bb1fb691daad11a8c/large_sam-mouat-vH8mcFXN5tM-unsplash_(1)_(1).jpg",
+      "topicId": 8,
+      "id": 190
+    },
+    {
+      "word": "immerse",
+      "definition": "Involve oneself deeply in a particular activity or interest.",
+      "usage": "They immersed themselves in the local customs and traditions.",
+      "example": "She immersed herself in the study of ancient architecture.",
+      "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyuGgXZ4GhmLzJ1t2ZlF9NVSDa48U_z94eFQ&s",
+      "topicId": 8,
+      "id": 191
+    },
+    {
+      "word": "explorer",
+      "definition": "Someone who travels to places where no one has ever been in order to find out what is there.",
+      "usage": "Explorers are courageous people and are not afraid of difficulties",
+      "example": "Magellan was a famous 16th-century explorer.",
+      "image_link": "https://i.pinimg.com/236x/bd/7b/1d/bd7b1d5a5e7720a7a78db5872f0aaae0.jpg",
+      "topicId": 8,
+      "id": 192
+    },
+    {
+      "word": "knowledge",
+      "definition": "Facts, information, and skills acquired through experience or education.",
+      "usage": "He has a thirst for knowledge and enjoys learning new things.",
+      "example": "She gained valuable knowledge from her research.",
+      "image_link": "https://i.pinimg.com/236x/86/de/25/86de25bf5b2b497bb8be816e43e60bc0.jpg",
+      "topicId": 9,
+      "id": 193
+    },
+    {
+      "word": "learning",
+      "definition": "The acquisition of knowledge or skills through study, experience, or being taught.",
+      "usage": "Continuous learning is important for personal growth.",
+      "example": "She has a passion for learning languages.",
+      "image_link": "https://i.pinimg.com/236x/d6/9a/a5/d69aa5765e7469ababad53960ba5dc38.jpg",
+      "topicId": 9,
+      "id": 194
+    },
+    {
+      "word": "study",
+      "definition": "The devotion of time and attention to acquiring knowledge on an academic subject.",
+      "usage": "She spends hours each day in study to prepare for exams.",
+      "example": "He conducted a detailed study of ancient civilizations.",
+      "image_link": "https://www.brainscape.com/academy/content/images/2022/02/Ultimate-study-guide-header.png",
+      "topicId": 9,
+      "id": 195
+    },
+    {
+      "word": "research",
+      "definition": "Systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+      "usage": "Her research on climate change contributed to scientific understanding.",
+      "example": "He presented his research findings at the conference.",
+      "image_link": "https://i.pinimg.com/236x/4f/25/8d/4f258d6928bf02a872e5e78f18309667.jpg",
+      "topicId": 9,
+      "id": 196
+    },
+    {
+      "word": "curiosity",
+      "definition": "A strong desire to know or learn something.",
+      "usage": "Her curiosity about other cultures led her to travel the world.",
+      "example": "His curiosity prompted him to explore the origins of the universe.",
+      "image_link": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/Curiosity.jpg?itok=JdS6RS8L",
+      "topicId": 9,
+      "id": 197
+    },
+    {
+      "word": "intellectual",
+      "definition": "Relating to the ability to think and understand ideas at a high level.",
+      "usage": "She has strong intellectual capabilities and excels in academic pursuits.",
+      "example": "He enjoys engaging in intellectual discussions with his peers.",
+      "image_link": "https://minutehack.com/public/images/articles/2018/04/man-followed-by-ideas-picture-id519190164.jpg",
+      "topicId": 9,
+      "id": 198
+    },
+    {
+      "word": "scholarship",
+      "definition": "Academic study or achievement; learning at a high level.",
+      "usage": "She received a scholarship to study abroad.",
+      "example": "He has a deep passion for literature and literary scholarship.",
+      "image_link": "https://i.pinimg.com/236x/1b/80/f2/1b80f2d5745bca5f4bc619c4d2a5084f.jpg",
+      "topicId": 9,
+      "id": 199
+    },
+    {
+      "word": "academic",
+      "definition": "Relating to education and scholarship.",
+      "usage": "He pursued an academic career in physics.",
+      "example": "She received recognition for her academic achievements.",
+      "image_link": "https://abroadin.com/blog/wp-content/uploads/2022/12/front-view-stacked-books-graduation-cap-open-book-education-day.jpg",
+      "topicId": 9,
+      "id": 200
+    },
+    {
+      "word": "knowledgeable",
+      "definition": "Having or showing knowledge or intelligence.",
+      "usage": "She is very knowledgeable about history.",
+      "example": "He is considered a knowledgeable expert in his field.",
+      "image_link": "https://i.pinimg.com/236x/af/8e/2e/af8e2e86a18396ca1f19cd292e85dd9a.jpg",
+      "topicId": 9,
+      "id": 201
+    },
+    {
+      "word": "educational",
+      "definition": "Relating to education; intended to educate or enlighten.",
+      "usage": "They watched an educational documentary about marine life.",
+      "example": "She found the museum's educational programs informative.",
+      "image_link": "https://i.pinimg.com/236x/d1/88/da/d188da345a1aa258f410cae6f82d4818.jpg",
+      "topicId": 9,
+      "id": 202
+    },
+    {
+      "word": "learn",
+      "definition": "Gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+      "usage": "She learns new vocabulary words every day.",
+      "example": "He learned how to play the piano at a young age.",
+      "image_link": "https://i.pinimg.com/236x/90/9b/6b/909b6b53276598fe06ac2fc0605c0824.jpg",
+      "topicId": 9,
+      "id": 203
+    },
+    {
+      "word": "teacher",
+      "definition": "A person who teaches, especially in a school.",
+      "usage": "The teacher explained the lesson clearly.",
+      "example": "She became a teacher after finishing her studies.",
+      "image_link": "https://varthana.com/school/wp-content/uploads/2022/12/B103.jpg",
+      "topicId": 9,
+      "id": 204
+    },
+    {
+      "word": "degree",
+      "definition": "An academic rank conferred by a college or university after examination or after completion of a course.",
+      "usage": "She earned a degree in biology.",
+      "example": "He pursued a master's degree in engineering.",
+      "image_link": "https://upload.wikimedia.org/wikipedia/commons/5/50/NU_Diploma_%28redacted%29.jpg",
+      "topicId": 9,
+      "id": 205
+    },
+    {
+      "word": "graduation",
+      "definition": "The receiving or conferring of an academic degree or diploma.",
+      "usage": "She felt a great sense of accomplishment at her graduation.",
+      "example": "His family attended his graduation ceremony.",
+      "image_link": "https://www.southernliving.com/thmb/osQ0-qCdyJmTELa8n7OnCE1cwz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/graduates-throwing-caps-1066324992-2000-c66181da679b46dab1f62f4b2fbe3e84.jpg",
+      "topicId": 9,
+      "id": 206
+    },
+    {
+      "word": "intelligent",
+      "definition": "Having or showing intelligence, especially of a high level.",
+      "usage": "She is an intelligent student who excels in all subjects.",
+      "example": "He is known for his intelligent solutions to problems.",
+      "image_link": "https://cdn.punchng.com/wp-content/uploads/2017/05/17155745/Intelligence.jpg",
+      "topicId": 9,
+      "id": 207
+    },
+    {
+      "word": "student",
+      "definition": "A person who is studying at a school, college, or university.",
+      "usage": "The student diligently completed all of his assignments.",
+      "example": "She is a top student in her class.",
+      "image_link": "https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/blog-20-student-engagement-strategies-captivating-classroom.png",
+      "topicId": 9,
+      "id": 208
+    },
+    {
+      "word": "instructive",
+      "definition": "Useful and informative.",
+      "usage": "The workshop was very instructive and helped her improve her skills.",
+      "example": "She found the training session highly instructive.",
+      "image_link": "https://images.ctfassets.net/p0qf7j048i0q/7pZl7toukBxwCeofgmpIVW/ea021237ddcbc552b6c4e8dc86c9cb47/G667458312.png?w=3840&q=75&h=3840&fm=webp",
+      "topicId": 9,
+      "id": 209
+    },
+    {
+      "word": "educate",
+      "definition": "Give intellectual, moral, and social instruction to someone, typically at a school or university.",
+      "usage": "Her parents believe in the importance of educating their children.",
+      "example": "He was educated at a prestigious university.",
+      "image_link": "https://www.ldatschool.ca/wp-content/uploads/2014/12/explicit-instruction-math.jpg",
+      "topicId": 9,
+      "id": 210
+    }
   ],
   "topic": [
     {
