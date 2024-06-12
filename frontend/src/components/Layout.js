@@ -28,34 +28,22 @@ const AppLayout = ({ children, page = "1" }) => {
     }
   };
   return (
-    <Layout className='h-[100vh]'>
-      <Header
-        style={{
-          display: "flex",
-          alignItems: "center",
-        }}
-        className='mb-10'
-      >
-        <div className='demo-logo' />
-        <Menu
-          theme='dark'
-          mode='horizontal'
-          defaultSelectedKeys={[page]}
-          items={items}
-          style={{
-            flex: 1,
-            minWidth: 0,
-          }}
-          onClick={handleChangePage}
-        />
+    <Layout className='h-[100vh] text-[#2E4051]'>
+      <Header className='flex items-center bg-white border-b-2'>
+        <div className='container max-w-4xl mx-auto flex items-center'>
+          <Menu
+            mode='horizontal'
+            defaultSelectedKeys={[page]}
+            items={items}
+            className='flex-1 text-lg'
+            onClick={handleChangePage}
+          />
+          <div className='text-lg'>
+            Provided by <b>たかチーム</b>
+          </div>
+        </div>
       </Header>
-      <Content
-        style={{
-          padding: "0 48px",
-        }}
-      >
-        {children}
-      </Content>
+      <Content className='p-12 bg-white'>{children}</Content>
     </Layout>
   );
 };
