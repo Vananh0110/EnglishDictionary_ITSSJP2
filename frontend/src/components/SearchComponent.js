@@ -7,7 +7,9 @@ import { useNavigate } from 'react-router-dom';
 const SearchComponent = () => {
   const [data, setData] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
+  const [enterTerm, setEnterTerm] = useState('');
   const [searchResults, setSearchResults] = useState([]);
+  const [enterResults, setEnterResults] = useState([]);
 
   const navigate = useNavigate();
   useEffect(() => {
@@ -28,6 +30,7 @@ const SearchComponent = () => {
         )
         .slice(0, 10);
       setSearchResults(results);
+      setEnterResults([]);
     } else {
       setSearchResults([]);
     }
@@ -60,7 +63,7 @@ const SearchComponent = () => {
           </div>
         ))}
       </div>
-    </div>
+    </div>    
   );
 };
 
