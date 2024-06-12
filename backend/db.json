@@ -405,6 +405,501 @@
       "image_link": "https://example.com/evolution.jpg",
       "topicId": 15,
       "id": 45
+    },
+    {
+      "word": "ball",
+      "definition": "Any object in the shape of a sphere, especially one used as a toy by children or in various sports such as tennis and football.",
+      "usage": "Ball is one of the most favorite children's toy.",
+      "example": "They enjoy kicking a ball around the park.",
+      "image_link": "https://i.pinimg.com/236x/1b/ca/e2/1bcae2230d784d878127366dc9cee332.jpg",
+      "topicId": 7,
+      "id": 156
+    },
+    {
+      "word": "baseball",
+      "definition": "A bat-and-ball game played between two teams of nine players each who take turns batting and fielding.",
+      "usage": "Baseball is popular in North America and Japan.",
+      "example": "He hit a home run during the baseball game.",
+      "image_link": "https://i.pinimg.com/236x/82/ae/6d/82ae6d1c305822e7f37499661dc42f22.jpg",
+      "topicId": 7,
+      "id": 157
+    },
+    {
+      "word": "golf",
+      "definition": "A sport in which players use clubs to hit a small ball into a series of holes on a course in as few strokes as possible.",
+      "usage": "Golf is often played on a course with 18 holes.",
+      "example": "She enjoys playing golf on weekends.",
+      "image_link": "https://i.pinimg.com/236x/55/ac/0e/55ac0ef959078df310388ccbcfbdc4ba.jpg",
+      "topicId": 7,
+      "id": 158
+    },
+    {
+      "word": "swimming",
+      "definition": "The sport or activity of moving through water by using the arms, legs, and body in motions called strokes.",
+      "usage": "Swimming is a good way to stay fit.",
+      "example": "He goes swimming every morning.",
+      "image_link": "https://dictionary.cambridge.org/images/thumb/swim_noun_002_36983.jpg?version=6.0.21",
+      "topicId": 7,
+      "id": 159
+    },
+    {
+      "word": "cricket",
+      "definition": "A bat-and-ball game played between two teams of eleven players on a field at the center of which is a 22-yard pitch.",
+      "usage": "Cricket is a very popular sport in countries like India and Australia.",
+      "example": "They watched a cricket match on TV.",
+      "image_link": "https://i.pinimg.com/236x/f3/3c/40/f33c40bc2645d97343b917a18ef6cd23.jpg",
+      "topicId": 7,
+      "id": 160
+    },
+    {
+      "word": "rugby",
+      "definition": "A team sport played with an oval ball that may be kicked, carried, and passed from hand to hand.",
+      "usage": "Rugby is known for its physical nature.",
+      "example": "He plays rugby every weekend.",
+      "image_link": "https://i.pinimg.com/236x/64/7d/6b/647d6b5da36a71e68d022c1f1a367b03.jpg",
+      "topicId": 7,
+      "id": 161
+    },
+    {
+      "word": "volleyball",
+      "definition": "A game in which two teams hit an inflated ball over a high net using their hands.",
+      "usage": "Volleyball is played on a beach or indoor court.",
+      "example": "She joined the school's volleyball team.",
+      "image_link": "https://dictionary.cambridge.org/images/thumb/volley_noun_002_40333.jpg?version=6.0.21",
+      "topicId": 7,
+      "id": 162
+    },
+    {
+      "word": "badminton",
+      "definition": "A racquet sport played using racquets to hit a shuttlecock across a net.",
+      "usage": "Badminton is a popular sport in many countries.",
+      "example": "They play badminton in the backyard.",
+      "image_link": "https://i.pinimg.com/236x/e6/ee/1e/e6ee1e5a56e5f5dc7dd32fef9a9eb1c1.jpg",
+      "topicId": 7,
+      "id": 163
+    },
+    {
+      "word": "cycling",
+      "definition": "The sport or activity of riding a bicycle.",
+      "usage": "Cycling can be a competitive sport or a recreational activity.",
+      "example": "He enjoys cycling through the countryside.",
+      "image_link": "https://i.pinimg.com/236x/26/7a/27/267a278885008cf24c9f3e6f4cdd38cc.jpg",
+      "topicId": 7,
+      "id": 164
+    },
+    {
+      "word": "hockey",
+      "definition": "A sport in which two teams play against each other by trying to maneuver a ball or a puck into the opponent's goal using a hockey stick.",
+      "usage": "Hockey is a fast-paced and physical game.",
+      "example": "They went to watch a hockey match.",
+      "image_link": "https://i.pinimg.com/236x/28/c1/44/28c1447c83b6ee8c8d15a55ab2893aab.jpg",
+      "topicId": 7,
+      "id": 165
+    },
+    {
+      "word": "surfing",
+      "definition": "The sport or activity of riding a wave toward the shore while standing or lying on a surfboard.",
+      "usage": "Surfing is popular in coastal regions.",
+      "example": "She loves surfing in the ocean.",
+      "image_link": "https://i.pinimg.com/236x/e1/26/84/e1268429511a4bb5b2c0567e8fe1a002.jpg",
+      "topicId": 7,
+      "id": 166
+    },
+    {
+      "word": "skating",
+      "definition": "The activity or sport of moving on skates.",
+      "usage": "Skating can be done on ice or on a hard surface.",
+      "example": "He enjoys ice skating in the winter.",
+      "image_link": "https://dictionary.cambridge.org/images/thumb/skatin_noun_004_2365.jpg?version=6.0.21",
+      "topicId": 7,
+      "id": 167
+    },
+    {
+      "word": "skiing",
+      "definition": "The sport or activity of moving over snow on skis.",
+      "usage": "Skiing is a popular winter sport.",
+      "example": "They went skiing in the mountains.",
+      "image_link": "https://i.pinimg.com/236x/eb/ef/27/ebef274e527bab0274b9cb03058ea9b8.jpg",
+      "topicId": 7,
+      "id": 168
+    },
+    {
+      "word": "table tennis",
+      "definition": "A sport in which two or four players hit a lightweight ball back and forth across a table using small rackets.",
+      "usage": "Table tennis is also known as ping pong.",
+      "example": "They enjoy playing table tennis.",
+      "image_link": "https://i.pinimg.com/236x/07/cf/7b/07cf7b58d6034ea69503fdee952faff0.jpg",
+      "topicId": 7,
+      "id": 169
+    },
+    {
+      "word": "gymnastics",
+      "definition": "A sport involving exercises requiring balance, strength, flexibility, agility, coordination, and endurance.",
+      "usage": "Gymnastics is often performed on apparatuses like the balance beam and rings.",
+      "example": "She practices gymnastics every day.",
+      "image_link": "https://i.pinimg.com/236x/39/00/e0/3900e040f2bb2718391567ed048c66d6.jpg",
+      "topicId": 7,
+      "id": 170
+    },
+    {
+      "word": "fencing",
+      "definition": "A sport in which two competitors fight using rapier-style swords, winning points by making contact with their opponent.",
+      "usage": "Fencing is an Olympic sport.",
+      "example": "He joined the fencing club at school.",
+      "image_link": "https://i.pinimg.com/236x/f3/66/78/f36678a75ccddae385e7b563ceb7a774.jpg",
+      "topicId": 7,
+      "id": 171
+    },
+    {
+      "word": "rowing",
+      "definition": "The sport or activity of moving a boat by using oars.",
+      "usage": "Rowing is often done in teams.",
+      "example": "She enjoys rowing on the lake.",
+      "image_link": "https://i.pinimg.com/236x/b5/5a/58/b55a58f032fc4b2c0c0c61dcb3161b33.jpg",
+      "topicId": 7,
+      "id": 172
+    },
+    {
+      "word": "archery",
+      "definition": "The sport or skill of shooting arrows with a bow.",
+      "usage": "Archery requires precision and focus.",
+      "example": "He practices archery in the backyard.",
+      "image_link": "https://i.pinimg.com/236x/a6/75/ff/a675fff46b722ff49532529bebd9ecd0.jpg",
+      "topicId": 7,
+      "id": 173
+    },
+    {
+      "word": "boxing",
+      "definition": "A sport in which two people fight by hitting each other with their fists, usually while wearing boxing gloves in a boxing ring.",
+      "usage": "Boxing is a physically demanding sport.",
+      "example": "He won his first boxing match.",
+      "image_link": "https://i.pinimg.com/236x/67/27/8f/67278f16933ba1e7260f740e123c47db.jpg",
+      "topicId": 7,
+      "id": 174
+    },
+    {
+      "word": "adventure",
+      "definition": "An exciting or unusual experience, often involving travel or exploration.",
+      "usage": "She craved adventure and decided to travel around the world.",
+      "example": "They embarked on an adventure in the Amazon rainforest.",
+      "image_link": "https://i.pinimg.com/236x/34/9d/45/349d45d4bb3e76c72a4475b9163de5cc.jpg",
+      "topicId": 8,
+      "id": 175
+    },
+    {
+      "word": "exploration",
+      "definition": "The action of traveling in or through an unfamiliar area in order to learn about it.",
+      "usage": "Their exploration of ancient ruins revealed new insights into history.",
+      "example": "They set out on an exploration of the Arctic region.",
+      "image_link": "https://i.pinimg.com/236x/9a/94/c6/9a94c6c0285e8a92b70ccdbb4d2766d9.jpg",
+      "topicId": 8,
+      "id": 176
+    },
+    {
+      "word": "journey",
+      "definition": "An act of traveling from one place to another, especially over a long distance.",
+      "usage": "Their journey across Europe was filled with memorable experiences.",
+      "example": "She embarked on a spiritual journey to India.",
+      "image_link": "https://i.pinimg.com/236x/ed/65/02/ed65027a80e9751a36aa504460ba7694.jpg",
+      "topicId": 8,
+      "id": 177
+    },
+    {
+      "word": "tour",
+      "definition": "A journey during which several places are visited, especially for pleasure or education.",
+      "usage": "They went on a guided tour of ancient ruins in Rome.",
+      "example": "She organized a tour of famous landmarks in Paris.",
+      "image_link": "https://i.pinimg.com/236x/55/07/da/5507dac495713459405a1dd6dc891d61.jpg",
+      "topicId": 8,
+      "id": 178
+    },
+    {
+      "word": "excursion",
+      "definition": "A short journey or trip, especially one taken as a leisure activity.",
+      "usage": "They enjoyed an excursion to the countryside during their vacation.",
+      "example": "She planned an excursion to explore local markets.",
+      "image_link": "https://i.pinimg.com/236x/11/17/8c/11178c53c672dbba0d2481bf84bdb3ec.jpg",
+      "topicId": 8,
+      "id": 179
+    },
+    {
+      "word": "voyage",
+      "definition": "A long journey involving travel by sea or in space.",
+      "usage": "Their voyage across the Atlantic Ocean took several weeks.",
+      "example": "He dreamed of embarking on a voyage to distant galaxies.",
+      "image_link": "https://static.toiimg.com/photo/64079575.cms",
+      "topicId": 8,
+      "id": 180
+    },
+    {
+      "word": "picturesque",
+      "definition": "Visually attractive, especially in a quaint or charming way.",
+      "usage": "They stayed in a picturesque village nestled in the mountains.",
+      "example": "She captured the picturesque landscape with her camera.",
+      "image_link": "https://i.pinimg.com/236x/4c/0c/17/4c0c173491302e0683821f672007fd49.jpg",
+      "topicId": 8,
+      "id": 181
+    },
+    {
+      "word": "exotic",
+      "definition": "Originating from or characteristic of a distant foreign country.",
+      "usage": "They tried exotic foods during their travels in Southeast Asia.",
+      "example": "She purchased exotic souvenirs from the local market.",
+      "image_link": "https://i.pinimg.com/236x/21/0e/88/210e883eb29a4d611722807bbdbc1775.jpg",
+      "topicId": 8,
+      "id": 182
+    },
+    {
+      "word": "scenic",
+      "definition": "Having beautiful natural scenery.",
+      "usage": "They took a scenic drive along the coast.",
+      "example": "She admired the scenic views from the mountaintop.",
+      "image_link": "https://i.pinimg.com/236x/74/57/cc/7457cc81683f06cc139551fdb8330305.jpg",
+      "topicId": 8,
+      "id": 183
+    },
+    {
+      "word": "cultural",
+      "definition": "Relating to the ideas, customs, and social behavior of a society.",
+      "usage": "They explored the cultural heritage of ancient civilizations.",
+      "example": "She attended cultural festivals during her visit to Japan.",
+      "image_link": "https://i.pinimg.com/236x/18/c9/f6/18c9f60817c8cb3fb2fec6b3ecf93d92.jpg",
+      "topicId": 8,
+      "id": 184
+    },
+    {
+      "word": "authentic",
+      "definition": "Representing something in its true or original form.",
+      "usage": "They enjoyed an authentic cultural experience in a remote village.",
+      "example": "She purchased authentic handmade crafts from local artisans.",
+      "image_link": "https://ambe.vn/wp-content/uploads/2020/08/authentic-la-gi-phan-biet-hang-authentic-real-fake-nhu-the-nao-1.jpg",
+      "topicId": 8,
+      "id": 185
+    },
+    {
+      "word": "historic",
+      "definition": "Famous or important in history, or potentially so.",
+      "usage": "They visited historic landmarks in the capital city.",
+      "example": "She learned about historic events during the guided tour.",
+      "image_link": "https://i.pinimg.com/236x/6f/de/df/6fdedfdca55dba605220ea3b49735ac5.jpg",
+      "topicId": 8,
+      "id": 186
+    },
+    {
+      "word": "explore",
+      "definition": "Travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.",
+      "usage": "They decided to explore the remote islands.",
+      "example": "She loves to explore new cultures and traditions.",
+      "image_link": "https://i.pinimg.com/236x/bd/7b/1d/bd7b1d5a5e7720a7a78db5872f0aaae0.jpg",
+      "topicId": 8,
+      "id": 187
+    },
+    {
+      "word": "discover",
+      "definition": "Find (something or someone) unexpectedly or in the course of a search.",
+      "usage": "They were eager to discover hidden treasures.",
+      "example": "She discovered a quaint cafe tucked away in the alley.",
+      "image_link": "https://miro.medium.com/v2/resize:fit:2000/1*_psdK9gihnaXzMg3KbVMwg.jpeg",
+      "topicId": 8,
+      "id": 188
+    },
+    {
+      "word": "experience",
+      "definition": "Undergo (an event or occurrence).",
+      "usage": "They wanted to experience the local culture firsthand.",
+      "example": "She experienced a sense of awe when she saw the ancient ruins.",
+      "image_link": "https://www.clockwork.com/wp-content/uploads/2022/07/human-centered-experience-design-1024x1021-1.png",
+      "topicId": 8,
+      "id": 189
+    },
+    {
+      "word": "wander",
+      "definition": "Walk or move in a leisurely, casual, or aimless way.",
+      "usage": "They loved to wander through narrow streets of old towns.",
+      "example": "She enjoyed wandering along the riverbank at sunset.",
+      "image_link": "https://assets.biola.edu/4396738754672012438/article/70175becdfdbae0bb1fb691daad11a8c/large_sam-mouat-vH8mcFXN5tM-unsplash_(1)_(1).jpg",
+      "topicId": 8,
+      "id": 190
+    },
+    {
+      "word": "immerse",
+      "definition": "Involve oneself deeply in a particular activity or interest.",
+      "usage": "They immersed themselves in the local customs and traditions.",
+      "example": "She immersed herself in the study of ancient architecture.",
+      "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyuGgXZ4GhmLzJ1t2ZlF9NVSDa48U_z94eFQ&s",
+      "topicId": 8,
+      "id": 191
+    },
+    {
+      "word": "explorer",
+      "definition": "Someone who travels to places where no one has ever been in order to find out what is there.",
+      "usage": "Explorers are courageous people and are not afraid of difficulties",
+      "example": "Magellan was a famous 16th-century explorer.",
+      "image_link": "https://i.pinimg.com/236x/bd/7b/1d/bd7b1d5a5e7720a7a78db5872f0aaae0.jpg",
+      "topicId": 8,
+      "id": 192
+    },
+    {
+      "word": "knowledge",
+      "definition": "Facts, information, and skills acquired through experience or education.",
+      "usage": "He has a thirst for knowledge and enjoys learning new things.",
+      "example": "She gained valuable knowledge from her research.",
+      "image_link": "https://i.pinimg.com/236x/86/de/25/86de25bf5b2b497bb8be816e43e60bc0.jpg",
+      "topicId": 9,
+      "id": 193
+    },
+    {
+      "word": "learning",
+      "definition": "The acquisition of knowledge or skills through study, experience, or being taught.",
+      "usage": "Continuous learning is important for personal growth.",
+      "example": "She has a passion for learning languages.",
+      "image_link": "https://i.pinimg.com/236x/d6/9a/a5/d69aa5765e7469ababad53960ba5dc38.jpg",
+      "topicId": 9,
+      "id": 194
+    },
+    {
+      "word": "study",
+      "definition": "The devotion of time and attention to acquiring knowledge on an academic subject.",
+      "usage": "She spends hours each day in study to prepare for exams.",
+      "example": "He conducted a detailed study of ancient civilizations.",
+      "image_link": "https://www.brainscape.com/academy/content/images/2022/02/Ultimate-study-guide-header.png",
+      "topicId": 9,
+      "id": 195
+    },
+    {
+      "word": "research",
+      "definition": "Systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+      "usage": "Her research on climate change contributed to scientific understanding.",
+      "example": "He presented his research findings at the conference.",
+      "image_link": "https://i.pinimg.com/236x/4f/25/8d/4f258d6928bf02a872e5e78f18309667.jpg",
+      "topicId": 9,
+      "id": 196
+    },
+    {
+      "word": "curiosity",
+      "definition": "A strong desire to know or learn something.",
+      "usage": "Her curiosity about other cultures led her to travel the world.",
+      "example": "His curiosity prompted him to explore the origins of the universe.",
+      "image_link": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/Curiosity.jpg?itok=JdS6RS8L",
+      "topicId": 9,
+      "id": 197
+    },
+    {
+      "word": "intellectual",
+      "definition": "Relating to the ability to think and understand ideas at a high level.",
+      "usage": "She has strong intellectual capabilities and excels in academic pursuits.",
+      "example": "He enjoys engaging in intellectual discussions with his peers.",
+      "image_link": "https://minutehack.com/public/images/articles/2018/04/man-followed-by-ideas-picture-id519190164.jpg",
+      "topicId": 9,
+      "id": 198
+    },
+    {
+      "word": "scholarship",
+      "definition": "Academic study or achievement; learning at a high level.",
+      "usage": "She received a scholarship to study abroad.",
+      "example": "He has a deep passion for literature and literary scholarship.",
+      "image_link": "https://i.pinimg.com/236x/1b/80/f2/1b80f2d5745bca5f4bc619c4d2a5084f.jpg",
+      "topicId": 9,
+      "id": 199
+    },
+    {
+      "word": "academic",
+      "definition": "Relating to education and scholarship.",
+      "usage": "He pursued an academic career in physics.",
+      "example": "She received recognition for her academic achievements.",
+      "image_link": "https://abroadin.com/blog/wp-content/uploads/2022/12/front-view-stacked-books-graduation-cap-open-book-education-day.jpg",
+      "topicId": 9,
+      "id": 200
+    },
+    {
+      "word": "knowledgeable",
+      "definition": "Having or showing knowledge or intelligence.",
+      "usage": "She is very knowledgeable about history.",
+      "example": "He is considered a knowledgeable expert in his field.",
+      "image_link": "https://i.pinimg.com/236x/af/8e/2e/af8e2e86a18396ca1f19cd292e85dd9a.jpg",
+      "topicId": 9,
+      "id": 201
+    },
+    {
+      "word": "educational",
+      "definition": "Relating to education; intended to educate or enlighten.",
+      "usage": "They watched an educational documentary about marine life.",
+      "example": "She found the museum's educational programs informative.",
+      "image_link": "https://i.pinimg.com/236x/d1/88/da/d188da345a1aa258f410cae6f82d4818.jpg",
+      "topicId": 9,
+      "id": 202
+    },
+    {
+      "word": "learn",
+      "definition": "Gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+      "usage": "She learns new vocabulary words every day.",
+      "example": "He learned how to play the piano at a young age.",
+      "image_link": "https://i.pinimg.com/236x/90/9b/6b/909b6b53276598fe06ac2fc0605c0824.jpg",
+      "topicId": 9,
+      "id": 203
+    },
+    {
+      "word": "teacher",
+      "definition": "A person who teaches, especially in a school.",
+      "usage": "The teacher explained the lesson clearly.",
+      "example": "She became a teacher after finishing her studies.",
+      "image_link": "https://varthana.com/school/wp-content/uploads/2022/12/B103.jpg",
+      "topicId": 9,
+      "id": 204
+    },
+    {
+      "word": "degree",
+      "definition": "An academic rank conferred by a college or university after examination or after completion of a course.",
+      "usage": "She earned a degree in biology.",
+      "example": "He pursued a master's degree in engineering.",
+      "image_link": "https://upload.wikimedia.org/wikipedia/commons/5/50/NU_Diploma_%28redacted%29.jpg",
+      "topicId": 9,
+      "id": 205
+    },
+    {
+      "word": "graduation",
+      "definition": "The receiving or conferring of an academic degree or diploma.",
+      "usage": "She felt a great sense of accomplishment at her graduation.",
+      "example": "His family attended his graduation ceremony.",
+      "image_link": "https://www.southernliving.com/thmb/osQ0-qCdyJmTELa8n7OnCE1cwz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/graduates-throwing-caps-1066324992-2000-c66181da679b46dab1f62f4b2fbe3e84.jpg",
+      "topicId": 9,
+      "id": 206
+    },
+    {
+      "word": "intelligent",
+      "definition": "Having or showing intelligence, especially of a high level.",
+      "usage": "She is an intelligent student who excels in all subjects.",
+      "example": "He is known for his intelligent solutions to problems.",
+      "image_link": "https://cdn.punchng.com/wp-content/uploads/2017/05/17155745/Intelligence.jpg",
+      "topicId": 9,
+      "id": 207
+    },
+    {
+      "word": "student",
+      "definition": "A person who is studying at a school, college, or university.",
+      "usage": "The student diligently completed all of his assignments.",
+      "example": "She is a top student in her class.",
+      "image_link": "https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/blog-20-student-engagement-strategies-captivating-classroom.png",
+      "topicId": 9,
+      "id": 208
+    },
+    {
+      "word": "instructive",
+      "definition": "Useful and informative.",
+      "usage": "The workshop was very instructive and helped her improve her skills.",
+      "example": "She found the training session highly instructive.",
+      "image_link": "https://images.ctfassets.net/p0qf7j048i0q/7pZl7toukBxwCeofgmpIVW/ea021237ddcbc552b6c4e8dc86c9cb47/G667458312.png?w=3840&q=75&h=3840&fm=webp",
+      "topicId": 9,
+      "id": 209
+    },
+    {
+      "word": "educate",
+      "definition": "Give intellectual, moral, and social instruction to someone, typically at a school or university.",
+      "usage": "Her parents believe in the importance of educating their children.",
+      "example": "He was educated at a prestigious university.",
+      "image_link": "https://www.ldatschool.ca/wp-content/uploads/2014/12/explicit-instruction-math.jpg",
+      "topicId": 9,
+      "id": 210
     }
   ],
   "topic": [
