@@ -1,6 +1,6 @@
-import React from "react";
-import { useNavigate } from "react-router-dom";
-import { Layout, Menu } from "antd";
+import React from 'react';
+import { useNavigate } from 'react-router-dom';
+import { Layout, Menu } from 'antd';
 const { Header, Content } = Layout;
 const items = [
   {
@@ -12,35 +12,34 @@ const items = [
     label: `Topics`,
   },
 ];
-const AppLayout = ({ children, page = "1" }) => {
+const AppLayout = ({ children, page = '1' }) => {
   const navigate = useNavigate();
   const handleChangePage = (value) => {
     switch (value.key) {
-      case "1":
-        navigate("/");
+      case '1':
+        navigate('/');
         break;
-      case "2":
-        navigate("/topics");
+      case '2':
+        navigate('/topics');
         break;
       default:
-        console.log("chuc nang chua kha dung");
+        console.log('chuc nang chua kha dung');
         break;
     }
-    console.log(value);
   };
   return (
-    <Layout className='h-[100vh]'>
+    <Layout className="h-[100vh]">
       <Header
         style={{
-          display: "flex",
-          alignItems: "center",
+          display: 'flex',
+          alignItems: 'center',
         }}
-        className='mb-10'
+        className=""
       >
-        <div className='demo-logo' />
+        <div className="demo-logo" />
         <Menu
-          theme='dark'
-          mode='horizontal'
+          theme="dark"
+          mode="horizontal"
           defaultSelectedKeys={[page]}
           items={items}
           style={{
@@ -52,7 +51,8 @@ const AppLayout = ({ children, page = "1" }) => {
       </Header>
       <Content
         style={{
-          padding: "0 48px",
+          padding: '48px',
+          backgroundColor: 'white'
         }}
       >
         {children}
