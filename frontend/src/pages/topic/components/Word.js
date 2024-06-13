@@ -1,18 +1,26 @@
 import { Card } from "antd";
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 function Word({ word }) {
+  const navigate = useNavigate();
   return (
     <Card
       title={
-        <div className='w-full text-center text-lg font-semibold text-blue-600'>
+        <div className='w-full text-center text-xl font-semibold'>
           {word.word}
         </div>
       }
-      bordered={false}
-      className='group w-3/5 mx-auto cursor-pointer hover:scale-110 transition-all '
+      bordered
+      className='w-full shadow-gray-400 shadow-md cursor-pointer hover:scale-105 transition-all '
+      onClick={() => navigate(`/words/${word.id}/detail`)}
     >
-      <p className='text-pretty text-ellipsis line-clamp-2 w-full group-hover:line-clamp-none'>
+      <img
+        src={word.image_link}
+        alt=''
+        className='w-full h-64 overflow-hidden'
+      />
+      <p className='text-pretty text-ellipsis line-clamp-2 w-full h-[44px]'>
         {word.definition}
       </p>
     </Card>
