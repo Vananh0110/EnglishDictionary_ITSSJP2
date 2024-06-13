@@ -2024,264 +2024,264 @@
       "pronunciation": "/ˈpɹɪzəm/"
     },
     {
-      "word": "melody",
-      "definition": "A sequence of single notes that is musically satisfying.",
+      "word": "sonata",
+      "definition": "A composition for an instrumental soloist.",
       "topicId": 11,
       "id": 230,
-      "pronunciation": "/ˈmel.ə.di/"
-    },
-    {
-      "word": "harmony",
-      "definition": "The combination of simultaneously sounded musical notes to produce chords.",
+      "pronunciation": "/səˈnɑːtə/"
+  },
+  {
+      "word": "tempo",
+      "definition": "The speed at which a passage of music is played.",
       "topicId": 11,
-      "id": 231,
-      "pronunciation": "/ˈhɑːməni/"
-    },
-    {
-      "word": "rhythm",
-      "definition": "A strong, regular, repeated pattern of movement or sound.",
+      "id": 230,
+      "pronunciation": "/ˈtɛmpoʊ/"
+  },
+  {
+      "word": "overture",
+      "definition": "An orchestral piece at the beginning of an opera.",
       "topicId": 11,
       "id": 232,
-      "pronunciation": "/ˈɹɪ.ð(ə)m/"
-    },
-    {
-      "word": "tempo",
-      "definition": "The speed at which a passage of music is or should be played.",
+      "pronunciation": "/ˈoʊvərtʃər/"
+  },
+  {
+      "word": "dynamics",
+      "definition": "The volume of sound, varying in intensity.",
       "topicId": 11,
       "id": 233,
-      "pronunciation": "/ˈtɛm.pəʊ/"
-    },
-    {
-      "word": "pitch",
-      "definition": "The degree of highness or lowness of a tone.",
+      "pronunciation": "/daɪˈnæmɪks/"
+  },
+  {
+      "word": "crescendo",
+      "definition": "A gradual increase in loudness in a piece of music.",
       "topicId": 11,
       "id": 234,
-      "pronunciation": "/pɪtʃ/"
-    },
-    {
-      "word": "scale",
-      "definition": "A series of musical notes ordered by fundamental frequency or pitch.",
+      "pronunciation": "/krəˈʃɛndoʊ/"
+  },
+  {
+      "word": "octave",
+      "definition": "A series of eight notes occupying the interval between two notes.",
       "topicId": 11,
       "id": 235,
-      "pronunciation": "/skeɪl/"
-    },
-    {
-      "word": "chord",
-      "definition": "A group of (typically three or more) notes sounded together, as a basis of harmony.",
+      "pronunciation": "/ˈɑːktɪv/"
+  },
+  {
+      "word": "recital",
+      "definition": "A performance of a program of music by a soloist.",
       "topicId": 11,
       "id": 236,
-      "pronunciation": "/kɔː(ɹ)d/"
-    },
-    {
-      "word": "genre",
-      "definition": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
+      "pronunciation": "/rɪˈsaɪtl/"
+  },
+  {
+      "word": "aria",
+      "definition": "A long, accompanied song for a solo voice.",
       "topicId": 11,
       "id": 237,
-      "pronunciation": "/(d)ʒɒn.ɹə/"
-    },
-    {
-      "word": "lyrics",
-      "definition": "The words of a song.",
+      "pronunciation": "/ˈɑːriə/"
+  },
+  {
+      "word": "ensemble",
+      "definition": "A group of musicians who perform together.",
       "topicId": 11,
       "id": 238,
-      "pronunciation": "/ˈlɪɹ.ɪks/"
-    },
-    {
-      "word": "beat",
-      "definition": "The basic unit of time in a piece of music.",
+      "pronunciation": "/ɑːnˈsɑːmbəl/"
+  },
+  {
+      "word": "scale",
+      "definition": "A series of notes ordered by pitch.",
       "topicId": 11,
       "id": 239,
-      "pronunciation": "/biːt/"
-    },
-    {
-      "word": "orchestra",
-      "definition": "A group of instrumentalists, especially one combining string, woodwind, brass, and percussion sections and playing classical music.",
-      "topicId": 11,
-      "id": 240,
-      "pronunciation": "/ˈɔːkəstɹə/"
-    },
-    {
-      "word": "conductor",
-      "definition": "A person who directs the performance of an orchestra or choir.",
-      "topicId": 11,
-      "id": 241,
-      "pronunciation": "/kənˈdʌktɚ/"
-    },
-    {
-      "word": "symphony",
-      "definition": "An elaborate musical composition for full orchestra, typically in four movements.",
-      "topicId": 11,
-      "id": 242,
-      "pronunciation": "/ˈsɪm.fə.ni/"
-    },
-    {
-      "word": "concerto",
-      "definition": "A musical composition for a solo instrument or instruments accompanied by an orchestra.",
-      "topicId": 11,
-      "id": 243,
-      "pronunciation": "/kənˈtʃɛɹtoʊ/"
-    },
-    {
-      "word": "sonata",
-      "definition": "A composition for one or more solo instruments, one of which is usually a keyboard instrument, usually consisting of three or four independent movements varying in key, mood, and tempo.",
-      "topicId": 11,
-      "id": 244,
-      "pronunciation": "/səˈnɑːtə/"
-    },
-    {
-      "word": "opera",
-      "definition": "A dramatic work in one or more acts, set to music for singers and instrumentalists.",
-      "topicId": 11,
-      "id": 245,
-      "pronunciation": "/ˈɒp.əɹ.ə/"
-    },
-    {
-      "word": "a cappella",
-      "definition": "Without instrumental accompaniment.",
-      "topicId": 11,
-      "id": 246,
-      "pronunciation": "/ˌæ.kæˈpɛl.ə/"
-    },
-    {
-      "word": "composer",
-      "definition": "A person who writes music, especially as a professional occupation.",
-      "topicId": 11,
-      "id": 247,
-      "pronunciation": ""
-    },
-    {
+      "pronunciation": "/skeɪl/"
+  },
+  {
       "word": "melody",
       "definition": "A sequence of single notes that is musically satisfying.",
-      "topicId": 1,
-      "id": 248,
-      "pronunciation": "/ˈmel.ə.di/"
-    },
-    {
-      "word": "harmony",
-      "definition": "The combination of simultaneously sounded musical notes to produce chords and chord progressions having a pleasing effect.",
-      "topicId": 1,
-      "id": 249,
-      "pronunciation": "/ˈhɑːməni/"
-    },
-    {
+      "topicId": 11,
+      "id": 240,
+      "pronunciation": "/ˈmɛlədi/"
+  },
+  {
+      "word": "conductor",
+      "definition": "A person who directs the performance of an orchestra.",
+      "topicId": 11,
+      "id": 241,
+      "pronunciation": "/kənˈdʌktər/"
+  },
+  {
+      "word": "symphony",
+      "definition": "An elaborate musical composition for a full orchestra.",
+      "topicId": 11,
+      "id": 242,
+      "pronunciation": "/ˈsɪmfəni/"
+  },
+  {
       "word": "rhythm",
       "definition": "A strong, regular, repeated pattern of movement or sound.",
-      "topicId": 1,
-      "id": 250,
-      "pronunciation": "/ˈɹɪ.ð(ə)m/"
-    },
-    {
-      "word": "tempo",
-      "definition": "The speed at which a passage of music is or should be played.",
-      "topicId": 1,
-      "id": 251,
-      "pronunciation": "/ˈtɛm.pəʊ/"
-    },
-    {
-      "word": "genre",
-      "definition": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
-      "topicId": 1,
-      "id": 252,
-      "pronunciation": "/(d)ʒɒn.ɹə/"
-    },
-    {
-      "word": "symphony",
-      "definition": "An elaborate musical composition for full orchestra, typically in four movements.",
-      "topicId": 1,
-      "id": 253,
-      "pronunciation": "/ˈsɪm.fə.ni/"
-    },
-    {
-      "word": "concerto",
-      "definition": "A musical composition for a solo instrument or instruments accompanied by an orchestra.",
-      "topicId": 1,
-      "id": 254,
-      "pronunciation": "/kənˈtʃɛɹtoʊ/"
-    },
-    {
-      "word": "opera",
-      "definition": "A dramatic work in one or more acts, set to music for singers and instrumentalists.",
-      "topicId": 1,
-      "id": 255,
-      "pronunciation": "/ˈɒp.əɹ.ə/"
-    },
-    {
-      "word": "overture",
-      "definition": "An orchestral piece at the beginning of an opera, suite, play, oratorio, or other extended composition.",
-      "topicId": 1,
-      "id": 256,
-      "pronunciation": "/ˈəʊvətjʊə/"
-    },
-    {
-      "word": "sonata",
-      "definition": "A composition for an instrumental soloist, often with a piano accompaniment, typically in several movements with one or more in sonata form.",
-      "topicId": 1,
-      "id": 257,
-      "pronunciation": "/səˈnɑːtə/"
-    },
-    {
-      "word": "chord",
-      "definition": "A group of (typically three or more) notes sounded together, as a basis of harmony.",
-      "topicId": 1,
-      "id": 258,
-      "pronunciation": "/kɔː(ɹ)d/"
-    },
-    {
-      "word": "scale",
-      "definition": "An ascending or descending series of notes in a particular key.",
-      "topicId": 1,
-      "id": 259,
-      "pronunciation": "/skeɪl/"
-    },
-    {
-      "word": "octave",
-      "definition": "A series of eight notes occupying the interval between (and including) two notes, one having twice or half the frequency of vibration of the other.",
-      "topicId": 1,
-      "id": 260,
-      "pronunciation": "/ˈɒkteɪv/"
-    },
-    {
-      "word": "clef",
-      "definition": "A symbol placed at the beginning of a staff to indicate the pitch of the notes written on it.",
-      "topicId": 1,
-      "id": 261,
-      "pronunciation": "/klef/"
-    },
-    {
+      "topicId": 11,
+      "id": 243,
+      "pronunciation": "/ˈrɪðəm/"
+  },
+  {
+      "word": "timbre",
+      "definition": "The character or quality of a musical sound.",
+      "topicId": 11,
+      "id": 244,
+      "pronunciation": "/ˈtæmbər/"
+  },
+  {
+      "word": "bass",
+      "definition": "Low in pitch; the lowest adult male singing voice.",
+      "topicId": 11,
+      "id": 245,
+      "pronunciation": "/beɪs/"
+  },
+  {
+      "word": "nocturne",
+      "definition": "A short composition of a romantic or dreamy character.",
+      "topicId": 11,
+      "id": 246,
+      "pronunciation": "/ˈnɒktɜːrn/"
+  },
+  {
       "word": "pitch",
-      "definition": "The quality of a sound governed by the rate of vibrations producing it; the degree of highness or lowness of a tone.",
-      "topicId": 1,
-      "id": 262,
+      "definition": "The quality of a sound governed by the rate of vibrations.",
+      "topicId": 11,
+      "id": 247,
       "pronunciation": "/pɪtʃ/"
-    },
-    {
-      "word": "tune",
-      "definition": "A melody, especially one that characterizes a certain piece of music.",
-      "topicId": 1,
+  },
+  {
+      "word": "chord",
+      "definition": "A group of notes sounded together.",
+      "topicId": 11,
+      "id": 248,
+      "pronunciation": "/kɔːrd/"
+  },
+  {
+      "word": "mural",
+      "definition": "A painting or other work of art executed directly on a wall.",
+      "topicId": 12,
+      "id": 249,
+      "pronunciation": "/ˈmjʊrəl/"
+  },
+  {
+      "word": "abstract",
+      "definition": "Art that does not attempt to represent external reality.",
+      "topicId": 12,
+      "id": 250,
+      "pronunciation": "/ˈæbstrækt/"
+  },
+  {
+      "word": "landscape",
+      "definition": "All the visible features of an area of land, often considered in terms of aesthetic appeal.",
+      "topicId": 12,
+      "id": 251,
+      "pronunciation": "/ˈlændskeɪp/"
+  },
+  {
+      "word": "medium",
+      "definition": "The material or form used by an artist.",
+      "topicId": 12,
+      "id": 252,
+      "pronunciation": "/ˈmiːdiəm/"
+  },
+  {
+      "word": "impressionism",
+      "definition": "A style or movement in painting originating in France in the 1860s.",
+      "topicId": 12,
+      "id": 253,
+      "pronunciation": "/ɪmˈprɛʃənɪzəm/"
+  },
+  {
+      "word": "mosaic",
+      "definition": "A picture or pattern produced by arranging together small colored pieces of hard material.",
+      "topicId": 12,
+      "id": 254,
+      "pronunciation": "/moʊˈzeɪɪk/"
+  },
+  {
+      "word": "collage",
+      "definition": "A piece of art made by sticking various different materials such as photographs and pieces of paper or fabric onto a backing.",
+      "topicId": 12,
+      "id": 255,
+      "pronunciation": "/kəˈlɑːʒ/"
+  },
+  {
+      "word": "portrait",
+      "definition": "A painting, drawing, photograph, or engraving of a person.",
+      "topicId": 12,
+      "id": 256,
+      "pronunciation": "/ˈpɔːrtrət/"
+  },
+  {
+      "word": "sketch",
+      "definition": "A rough or unfinished drawing or painting.",
+      "topicId": 12,
+      "id": 257,
+      "pronunciation": "/skɛtʃ/"
+  },
+  {
+      "word": "easel",
+      "definition": "A self-supporting wooden frame for holding an artist's work.",
+      "topicId": 12,
+      "id": 258,
+      "pronunciation": "/ˈiːzəl/"
+  },
+  {
+      "word": "cubism",
+      "definition": "An early-20th-century avant-garde art movement that revolutionized European painting and sculpture.",
+      "topicId": 12,
+      "id": 259,
+      "pronunciation": "/ˈkjubɪzəm/"
+  },
+  {
+      "word": "fresco",
+      "definition": "A technique of mural painting executed upon freshly laid lime plaster.",
+      "topicId": 12,
+      "id": 260,
+      "pronunciation": "/ˈfrɛskoʊ/"
+  },
+  {
+      "word": "sculpture",
+      "definition": "The art of making two- or three-dimensional representative or abstract forms.",
+      "topicId": 12,
+      "id": 261,
+      "pronunciation": "/ˈskʌlptʃər/"
+  },
+  {
+      "word": "palette",
+      "definition": "A thin board on which an artist lays and mixes colors.",
+      "topicId": 12,
+      "id": 262,
+      "pronunciation": "/ˈpælɪt/"
+  },
+  {
+      "word": "canvas",
+      "definition": "A strong, coarse unbleached cloth used by artists as a surface for painting.",
+      "topicId": 12,
       "id": 263,
-      "pronunciation": "/tjuːn/"
-    },
-    {
-      "word": "lyric",
-      "definition": "The words of a song.",
-      "topicId": 1,
+      "pronunciation": "/ˈkænvəs/"
+  },
+  {
+      "word": "realism",
+      "definition": "The attempt to represent subject matter truthfully.",
+      "topicId": 12,
       "id": 264,
-      "pronunciation": "/ˈlɪɹ.ɪk/"
-    },
-    {
-      "word": "ensemble",
-      "definition": "A group of musicians, actors, or dancers who perform together.",
-      "topicId": 1,
+      "pronunciation": "/ˈrɪəˌlɪzəm/"
+  },
+  {
+      "word": "minimalism",
+      "definition": "A style or technique characterized by extreme spareness and simplicity.",
+      "topicId": 12,
       "id": 265,
-      "pronunciation": "/ˌɒnˈsɒm.bəl/"
-    },
-    {
-      "word": "conductor",
-      "definition": "A person who directs the performance of an orchestra or choir.",
-      "topicId": 1,
+      "pronunciation": "/ˈmɪnɪməˌlɪzəm/"
+  },
+  {
+      "word": "surrealism",
+      "definition": "A 20th-century avant-garde movement in art and literature.",
+      "topicId": 12,
       "id": 266,
-      "pronunciation": "/kənˈdʌktɚ/"
-    },
+      "pronunciation": "/səˈrɪəlɪzəm/"
+  },
     {
       "word": "protagonist",
       "definition": "The main character in a literary work, often considered the hero or central figure.",
@@ -2688,7 +2688,7 @@
       "id": 323,
       "pronunciation": "/ˈkɒndʌkt/"
     }
-  ],
+],
   "topic": [
     {
       "id": 1,
