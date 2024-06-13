@@ -7,7 +7,8 @@
       "example": "The forest was dense and full of wildlife.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/forest_noun_002_14696.jpg?version=6.0.17",
       "topicId": 1,
-      "id": 1
+      "id": 1,
+      "pronunciation": "/ˈfɒɹɪst/"
     },
     {
       "word": "river",
@@ -16,7 +17,8 @@
       "example": "The river flowed swiftly after the heavy rains.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/river_noun_001_14206.jpg?version=6.0.17",
       "topicId": 1,
-      "id": 2
+      "id": 2,
+      "pronunciation": "/ˈɹɪvə/"
     },
     {
       "word": "mountain",
@@ -25,7 +27,8 @@
       "example": "The mountain was capped with snow.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/mounta_noun_002_24052.jpg?version=6.0.17",
       "topicId": 1,
-      "id": 3
+      "id": 3,
+      "pronunciation": "/ˈmaʊntɪn/"
     },
     {
       "word": "rain",
@@ -34,7 +37,8 @@
       "example": "The rain was pouring down heavily.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/rain_noun_001_13323.jpg?version=6.0.17",
       "topicId": 2,
-      "id": 4
+      "id": 4,
+      "pronunciation": "/ɹeɪn/"
     },
     {
       "word": "snow",
@@ -43,7 +47,8 @@
       "example": "The snow covered the ground in a thick blanket.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/snow_noun_001_15826.jpg?version=6.0.17",
       "topicId": 2,
-      "id": 5
+      "id": 5,
+      "pronunciation": "/snəʊ/"
     },
     {
       "word": "storm",
@@ -52,7 +57,8 @@
       "example": "The storm knocked out power in the city.",
       "image_link": "https://static.dw.com/image/40442224_1004.webp",
       "topicId": 2,
-      "id": 6
+      "id": 6,
+      "pronunciation": "/stɔːm/"
     },
     {
       "word": "lion",
@@ -61,7 +67,8 @@
       "example": "The lion roared loudly in the savannah.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/lion_noun_002_21358.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 7
+      "id": 7,
+      "pronunciation": "/ˈlaɪən/"
     },
     {
       "word": "eagle",
@@ -70,7 +77,8 @@
       "example": "The eagle soared high above the mountains.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/eagle_noun_002_11909.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 8
+      "id": 8,
+      "pronunciation": "/ˈiːɡəl/"
     },
     {
       "word": "dolphin",
@@ -79,7 +87,8 @@
       "example": "The dolphin jumped out of the water playfully.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/dolphi_noun_002_11224.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 9
+      "id": 9,
+      "pronunciation": "/ˈdɒlfɪn/"
     },
     {
       "word": "red",
@@ -88,7 +97,8 @@
       "example": "The apple was bright red and juicy.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/red_noun_002_30456.jpg?version=6.0.17",
       "topicId": 4,
-      "id": 10
+      "id": 10,
+      "pronunciation": "/ɹɛd/"
     },
     {
       "word": "blue",
@@ -97,7 +107,8 @@
       "example": "The sky was a deep, clear blue.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/blue_noun_001_01604.jpg?version=6.0.17",
       "topicId": 4,
-      "id": 11
+      "id": 11,
+      "pronunciation": "/bluː/"
     },
     {
       "word": "green",
@@ -106,7 +117,8 @@
       "example": "The fields were a vibrant green after the rain.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/green_noun_001_07350.jpg?version=6.0.17",
       "topicId": 4,
-      "id": 12
+      "id": 12,
+      "pronunciation": "/ɡɹiːn/"
     },
     {
       "word": "pizza",
@@ -115,7 +127,8 @@
       "example": "We ordered a large pepperoni pizza.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/pizza_noun_001_12184.jpg?version=6.0.17",
       "topicId": 5,
-      "id": 13
+      "id": 13,
+      "pronunciation": "/ˈpiːt.sə/"
     },
     {
       "word": "sushi",
@@ -124,7 +137,8 @@
       "example": "She loves to eat sushi with fresh fish.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/sushi_noun_002_36852.jpg?version=6.0.17",
       "topicId": 5,
-      "id": 14
+      "id": 14,
+      "pronunciation": "/ˈsuʃi/"
     },
     {
       "word": "chocolate",
@@ -133,7 +147,8 @@
       "example": "He gave her a box of chocolates for Valentine's Day.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/chocol_noun_001_02715.jpg?version=6.0.17",
       "topicId": 5,
-      "id": 15
+      "id": 15,
+      "pronunciation": "/ˈt͡ʃɔk(ə)lət/"
     },
     {
       "word": "computer",
@@ -142,7 +157,8 @@
       "example": "She works on her computer all day.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/comput_noun_002_07978.jpg?version=6.0.17",
       "topicId": 6,
-      "id": 16
+      "id": 16,
+      "pronunciation": "/kəmˈpjuːtə/"
     },
     {
       "word": "smartphone",
@@ -151,7 +167,8 @@
       "example": "He checked his email on his smartphone.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/smartp_noun_002_34391.jpg?version=6.0.17",
       "topicId": 6,
-      "id": 17
+      "id": 17,
+      "pronunciation": "/ˈsmɑːtfəʊn/"
     },
     {
       "word": "robot",
@@ -160,7 +177,8 @@
       "example": "The robot assembled the car parts quickly.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/robot_noun_002_31351.jpg?version=6.0.17",
       "topicId": 6,
-      "id": 18
+      "id": 18,
+      "pronunciation": "/ˈɹoʊbət/"
     },
     {
       "word": "soccer",
@@ -169,7 +187,8 @@
       "example": "He scored the winning goal in the soccer match.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/footba_noun_002_14596_2.jpg?version=6.0.17",
       "topicId": 7,
-      "id": 19
+      "id": 19,
+      "pronunciation": "/ˈsɒk.ə/"
     },
     {
       "word": "basketball",
@@ -178,7 +197,8 @@
       "example": "She made an impressive three-point shot in basketball.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/basket_noun_002_02720.jpg?version=6.0.17",
       "topicId": 7,
-      "id": 20
+      "id": 20,
+      "pronunciation": "/ˈbɑːs.kɪt.bɔːl/"
     },
     {
       "word": "tennis",
@@ -187,17 +207,18 @@
       "example": "They played a match of tennis at the local courts.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/tennis_noun_002_37658.jpg?version=6.0.17",
       "topicId": 7,
-      "id": 21
+      "id": 21,
+      "pronunciation": "/ˈtɛn.ɪs/"
     },
     {
       "word": "beach",
-      "definition": "an area of sand or small stones near the sea or another area of water such as a lake.",
       "definition": "an area of sand or small stones near the sea or another area of water such as a lake.",
       "usage": "Beaches are popular destinations for vacations.",
       "example": "They spent the day relaxing on the beach.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/beach_noun_002_02852.jpg?version=6.0.17",
       "topicId": 8,
-      "id": 22
+      "id": 22,
+      "pronunciation": "/biːt͡ʃ/"
     },
     {
       "word": "mountain",
@@ -206,7 +227,8 @@
       "example": "The mountain was capped with snow.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/mounta_noun_002_24052.jpg?version=6.0.17",
       "topicId": 8,
-      "id": 23
+      "id": 23,
+      "pronunciation": "/ˈmaʊntɪn/"
     },
     {
       "word": "city",
@@ -215,7 +237,8 @@
       "example": "They explored the historic city center.",
       "image_link": "https://image.itmedia.co.jp/business/articles/2009/04/dk_kyoto_0.jpg",
       "topicId": 8,
-      "id": 24
+      "id": 24,
+      "pronunciation": "/sɪtɪ/"
     },
     {
       "word": "school",
@@ -224,7 +247,8 @@
       "example": "The school has a great science program.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/school_noun_002_32354.jpg?version=6.0.17",
       "topicId": 9,
-      "id": 25
+      "id": 25,
+      "pronunciation": "/skuːl/"
     },
     {
       "word": "university",
@@ -233,7 +257,8 @@
       "example": "She is studying engineering at the university.",
       "image_link": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ph%C3%ADa_Tr%C6%B0%E1%BB%9Bc_to%C3%A0_B1.jpg",
       "topicId": 9,
-      "id": 26
+      "id": 26,
+      "pronunciation": "/juːnɪˈvɜːsətiː/"
     },
     {
       "word": "library",
@@ -242,7 +267,8 @@
       "example": "He spent the afternoon reading in the library.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/librar_noun_002_21111.jpg?version=6.0.17",
       "topicId": 9,
-      "id": 27
+      "id": 27,
+      "pronunciation": "/ˈlaɪbɹi/"
     },
     {
       "word": "triangle",
@@ -251,7 +277,8 @@
       "example": "We cut some triangles of cheese.",
       "image_link": "https://dictionary.cambridge.org/images/full/triang_noun_001_18172.jpg?version=6.0.17",
       "topicId": 10,
-      "id": 28
+      "id": 28,
+      "pronunciation": "/ˈtɹaɪəŋɡəl/"
     },
     {
       "word": "circle",
@@ -260,7 +287,8 @@
       "example": "Aim at the yellow circle in the centre of the board.",
       "image_link": "https://dictionary.cambridge.org/images/full/circle_noun_001_02738.jpg?version=6.0.17",
       "topicId": 10,
-      "id": 29
+      "id": 29,
+      "pronunciation": "/ˈsɜɹkəl/"
     },
     {
       "word": "rectangle",
@@ -269,7 +297,8 @@
       "example": "The area of a rectangle is its height times its width.",
       "image_link": "https://dictionary.cambridge.org/images/full/oblong_noun_002_25303.jpg?version=6.0.17",
       "topicId": 10,
-      "id": 30
+      "id": 30,
+      "pronunciation": "/ˈrɛktæŋɡ(ə)l/"
     },
     {
       "word": "guitar",
@@ -278,7 +307,8 @@
       "example": "He played a song on his acoustic guitar.",
       "image_link": "https://dictionary.cambridge.org/images/full/guitar_noun_002_16792.jpg?version=6.0.17",
       "topicId": 11,
-      "id": 31
+      "id": 31,
+      "pronunciation": "/ɡɪˈtɑː(ɹ)/"
     },
     {
       "word": "piano",
@@ -287,7 +317,8 @@
       "example": "She practiced playing the piano every day.",
       "image_link": "https://dictionary.cambridge.org/images/full/piano_noun_004_2036.jpg?version=6.0.17",
       "topicId": 11,
-      "id": 32
+      "id": 32,
+      "pronunciation": "/piˈænoʊ/"
     },
     {
       "word": "drums",
@@ -296,7 +327,8 @@
       "example": "The drummer kept a steady beat throughout the song.",
       "image_link": "https://dictionary.cambridge.org/images/full/drum_noun_002_11668.jpg?version=6.0.17",
       "topicId": 11,
-      "id": 33
+      "id": 33,
+      "pronunciation": "/dɹʌmz/"
     },
     {
       "word": "painting",
@@ -305,7 +337,8 @@
       "example": "The museum has a beautiful painting collection.",
       "image_link": "https://dictionary.cambridge.org/images/full/painti_noun_002_26235.jpg?version=6.0.17",
       "topicId": 12,
-      "id": 34
+      "id": 34,
+      "pronunciation": "/ˈpeɪn.tɪŋ/"
     },
     {
       "word": "sculpture",
@@ -314,7 +347,8 @@
       "example": "The sculpture in the park was made of bronze.",
       "image_link": "https://example.com/sculpture.jpg",
       "topicId": 12,
-      "id": 35
+      "id": 35,
+      "pronunciation": "/ˈskʌlptj(ʊ)ə/"
     },
     {
       "word": "photography",
@@ -323,7 +357,8 @@
       "example": "She took up photography as a hobby.",
       "image_link": "https://example.com/photography.jpg",
       "topicId": 12,
-      "id": 36
+      "id": 36,
+      "pronunciation": "/fəˈtɒɡɹəfi/"
     },
     {
       "word": "novel",
@@ -332,7 +367,8 @@
       "example": "She is reading a novel by her favorite author.",
       "image_link": "https://example.com/novel.jpg",
       "topicId": 13,
-      "id": 37
+      "id": 37,
+      "pronunciation": "/ˈnɒvl̩/"
     },
     {
       "word": "poem",
@@ -341,7 +377,8 @@
       "example": "He wrote a beautiful poem about love.",
       "image_link": "https://example.com/poem.jpg",
       "topicId": 13,
-      "id": 38
+      "id": 38,
+      "pronunciation": "/ˈpoʊ̯ɪm/"
     },
     {
       "word": "short story",
@@ -350,7 +387,8 @@
       "example": "The magazine published a collection of short stories.",
       "image_link": "https://example.com/short_story.jpg",
       "topicId": 13,
-      "id": 39
+      "id": 39,
+      "pronunciation": "/ˌʃɔːrt ˈstɔːr.i/"
     },
     {
       "word": "world war",
@@ -359,7 +397,8 @@
       "example": "World War II lasted from 1939 to 1945.",
       "image_link": "https://example.com/world_war.jpg",
       "topicId": 14,
-      "id": 40
+      "id": 40,
+      "pronunciation": "/ˌwɝːld ˈwɔːr/"
     },
     {
       "word": "revolution",
@@ -368,7 +407,8 @@
       "example": "The revolution led to the establishment of a republic.",
       "image_link": "https://example.com/revolution.jpg",
       "topicId": 14,
-      "id": 41
+      "id": 41,
+      "pronunciation": "/ˌɹɛvəˈl(j)uːʃən/"
     },
     {
       "word": "empire",
@@ -377,7 +417,8 @@
       "example": "The Roman Empire was one of the greatest in history.",
       "image_link": "https://example.com/empire.jpg",
       "topicId": 14,
-      "id": 42
+      "id": 42,
+      "pronunciation": "/ˈɛmpaɪ.ə/"
     },
     {
       "word": "gravity",
@@ -386,7 +427,8 @@
       "example": "Sir Isaac Newton discovered the laws of gravity.",
       "image_link": "https://example.com/gravity.jpg",
       "topicId": 15,
-      "id": 43
+      "id": 43,
+      "pronunciation": "/ˈɡɹævɪti/"
     },
     {
       "word": "atom",
@@ -395,7 +437,8 @@
       "example": "Everything is made up of atoms.",
       "image_link": "https://example.com/atom.jpg",
       "topicId": 15,
-      "id": 44
+      "id": 44,
+      "pronunciation": "/ˈatəm/"
     },
     {
       "word": "evolution",
@@ -404,7 +447,8 @@
       "example": "Charles Darwin proposed the theory of evolution by natural selection.",
       "image_link": "https://example.com/evolution.jpg",
       "topicId": 15,
-      "id": 45
+      "id": 45,
+      "pronunciation": "/ˈɛvəluːʃ(ə)n/"
     },
     {
       "word": "forest",
@@ -413,7 +457,8 @@
       "example": "We went hiking in a beautiful, dense forest.",
       "image_link": "https://i.pinimg.com/236x/75/96/61/759661a0c2eb97d6784c12fbdb8b0924.jpg",
       "topicId": 1,
-      "id": 46
+      "id": 46,
+      "pronunciation": "/ˈfɒɹɪst/"
     },
     {
       "word": "mountain",
@@ -422,7 +467,8 @@
       "example": "The mountain's peak was covered with snow.",
       "image_link": "https://i.pinimg.com/236x/3f/6c/89/3f6c89b7e2123f425cd28f0d3bfb6703.jpg",
       "topicId": 1,
-      "id": 47
+      "id": 47,
+      "pronunciation": "/ˈmaʊntɪn/"
     },
     {
       "word": "ocean",
@@ -431,7 +477,8 @@
       "example": "The Pacific Ocean is the largest and deepest of the world's ocean basins.",
       "image_link": "https://i.pinimg.com/236x/18/b4/4b/18b44b05223ec048edbfcc3cd567aee1.jpg",
       "topicId": 1,
-      "id": 48
+      "id": 48,
+      "pronunciation": "/ˈəʊ.ʃən/"
     },
     {
       "word": "valley",
@@ -440,7 +487,8 @@
       "example": "We drove through a lush green valley.",
       "image_link": "https://i.pinimg.com/236x/e5/ad/ab/e5adab4ba970a4e5954dd4f25e279df9.jpg",
       "topicId": 1,
-      "id": 49
+      "id": 49,
+      "pronunciation": "/ˈvæli/"
     },
     {
       "word": "island",
@@ -449,7 +497,8 @@
       "example": "Hawaii is an example of a volcanic island.",
       "image_link": "https://i.pinimg.com/236x/d8/84/79/d884790b788d70785b2cb33c0caa0278.jpg",
       "topicId": 1,
-      "id": 50
+      "id": 50,
+      "pronunciation": "/ˈaɪ̯lənd/"
     },
     {
       "word": "desert",
@@ -458,7 +507,8 @@
       "example": "Camels are well adapted to live in the desert.",
       "image_link": "https://i.pinimg.com/236x/e4/90/dd/e490ddb8eb734bff18986abaab754baa.jpg",
       "topicId": 1,
-      "id": 51
+      "id": 51,
+      "pronunciation": "/dɪˈzɜːt/"
     },
     {
       "word": "lake",
@@ -467,7 +517,8 @@
       "example": "We spent the day by the lake, enjoying a picnic and swimming.",
       "image_link": "https://i.pinimg.com/236x/e4/0f/c1/e40fc1f5ba3d5be9e14776747dd3233b.jpg",
       "topicId": 1,
-      "id": 52
+      "id": 52,
+      "pronunciation": "/leɪk/"
     },
     {
       "word": "volcano",
@@ -476,7 +527,8 @@
       "example": "The eruption of the volcano caused many flights to be canceled.",
       "image_link": "https://i.pinimg.com/236x/1c/69/95/1c699537e0de84ee6db92e8bf1db714f.jpg",
       "topicId": 1,
-      "id": 53
+      "id": 53,
+      "pronunciation": "/vɒlˈkeɪnəʊ/"
     },
     {
       "word": "glacier",
@@ -485,7 +537,8 @@
       "example": "The glacier moved slowly down the valley.",
       "image_link": "https://i.pinimg.com/236x/27/6b/58/276b583be1e618131b583a07bce8cad3.jpg",
       "topicId": 1,
-      "id": 54
+      "id": 54,
+      "pronunciation": "/ˈɡleɪ.ʃɚ/"
     },
     {
       "word": "rainforest",
@@ -494,7 +547,8 @@
       "example": "The Amazon rainforest is the largest rainforest on the planet.",
       "image_link": "https://i.pinimg.com/236x/c1/3e/63/c13e63c0d86989d5d1e220e4362b0b0e.jpg",
       "topicId": 1,
-      "id": 55
+      "id": 55,
+      "pronunciation": "/ˈreɪn.fɔːr.ɪst/"
     },
     {
       "word": "prairie",
@@ -503,7 +557,8 @@
       "example": "Buffaloes once roamed the vast prairies of North America.",
       "image_link": "https://i.pinimg.com/236x/dc/c2/21/dcc221851180e8f436133a433be78c40.jpg",
       "topicId": 1,
-      "id": 56
+      "id": 56,
+      "pronunciation": "/ˈpɹɛəɹi/"
     },
     {
       "word": "canyon",
@@ -512,7 +567,8 @@
       "example": "The Grand Canyon is one of the most visited natural attractions in the United States.",
       "image_link": "https://i.pinimg.com/236x/34/1e/dc/341edc9cbdd6315033155cb65fd15bd7.jpg",
       "topicId": 1,
-      "id": 57
+      "id": 57,
+      "pronunciation": "/ˈkænjən/"
     },
     {
       "word": "cliff",
@@ -521,7 +577,8 @@
       "example": "The cliff overlooks the vast ocean below.",
       "image_link": "https://i.pinimg.com/236x/69/0e/c1/690ec110b0974526594010e9d7c98a82.jpg",
       "topicId": 1,
-      "id": 58
+      "id": 58,
+      "pronunciation": "/klɪf/"
     },
     {
       "word": "reef",
@@ -530,7 +587,8 @@
       "example": "The Great Barrier Reef is visible from space.",
       "image_link": "https://i.pinimg.com/236x/54/b3/9c/54b39c725dfb0893bbf0ce9c3b84cdd1.jpg",
       "topicId": 1,
-      "id": 59
+      "id": 59,
+      "pronunciation": "/ɹiːf/"
     },
     {
       "word": "stream",
@@ -539,7 +597,8 @@
       "example": "A clear stream flowed through the forest.",
       "image_link": "https://i.pinimg.com/236x/86/82/4b/86824b9813ca7dd0944f45a128752acd.jpg",
       "topicId": 1,
-      "id": 60
+      "id": 60,
+      "pronunciation": "/stɹiːm/"
     },
     {
       "word": "pond",
@@ -548,7 +607,8 @@
       "example": "Ducks swam in the small pond at the park.",
       "image_link": "https://i.pinimg.com/236x/68/ad/87/68ad873dc8925a07b4a54e85675a52bf.jpg",
       "topicId": 1,
-      "id": 61
+      "id": 61,
+      "pronunciation": "/pɒnd/"
     },
     {
       "word": "tundra",
@@ -557,7 +617,8 @@
       "example": "The tundra is a harsh environment but supports a variety of animal species.",
       "image_link": "https://i.pinimg.com/236x/30/63/99/306399ea90acd2ba08e5a8a8880e5929.jpg",
       "topicId": 1,
-      "id": 62
+      "id": 62,
+      "pronunciation": "/ˈtʌndɹə/"
     },
     {
       "word": "savanna",
@@ -566,7 +627,8 @@
       "example": "Elephants and other wildlife roam freely in the savanna.",
       "image_link": "https://i.pinimg.com/236x/2d/aa/c2/2daac28e3c7e3dc782b928f4fc030b39.jpg",
       "topicId": 1,
-      "id": 63
+      "id": 63,
+      "pronunciation": "/səˈvænə/"
     },
     {
       "word": "archipelago",
@@ -575,7 +637,8 @@
       "example": "Indonesia is one of the world's largest archipelagos.",
       "image_link": "https://i.pinimg.com/236x/cf/bb/9b/cfbb9bda9f01f8cbf2c34dcc8921c9f9.jpg",
       "topicId": 1,
-      "id": 64
+      "id": 64,
+      "pronunciation": "/ɑːkɪˈpɛləɡəʊ/"
     },
     {
       "word": "moor",
@@ -584,7 +647,8 @@
       "example": "The moor was covered in a blanket of purple heather.",
       "image_link": "https://i.pinimg.com/236x/54/55/92/545592b2b35427aa8693d381de36e1c4.jpg",
       "topicId": 1,
-      "id": 65
+      "id": 65,
+      "pronunciation": "/moː/"
     },
     {
       "word": "wetland",
@@ -593,7 +657,8 @@
       "example": "Birds, fish, and other wildlife thrive in wetland areas.",
       "image_link": "https://i.pinimg.com/236x/68/a0/55/68a055ba61288a8cba7b8858d2711f27.jpg",
       "topicId": 1,
-      "id": 66
+      "id": 66,
+      "pronunciation": ""
     },
     {
       "word": "sunshine",
@@ -602,7 +667,8 @@
       "example": "We enjoyed a lovely day filled with warm sunshine.",
       "image_link": "https://i.pinimg.com/236x/43/d3/fd/43d3fda6e52ac7c68cc775cf08c81b36.jpg",
       "topicId": 2,
-      "id": 67
+      "id": 67,
+      "pronunciation": "/ˈsʌnʃaɪn/"
     },
     {
       "word": "cloud",
@@ -611,7 +677,8 @@
       "example": "The sky was covered with dark clouds.",
       "image_link": "https://i.pinimg.com/236x/bd/a2/67/bda2671c3b78f9ba9f0264f59782e1cc.jpg",
       "topicId": 2,
-      "id": 68
+      "id": 68,
+      "pronunciation": "/klaʊd/"
     },
     {
       "word": "wind",
@@ -620,7 +687,8 @@
       "example": "The wind was strong enough to bend trees.",
       "image_link": "https://i.pinimg.com/236x/6c/73/52/6c7352172779dcf2a34b991554af7260.jpg",
       "topicId": 2,
-      "id": 69
+      "id": 69,
+      "pronunciation": "/ˈwaɪnd/"
     },
     {
       "word": "snow",
@@ -629,7 +697,8 @@
       "example": "We woke up to a thick layer of snow.",
       "image_link": "https://i.pinimg.com/236x/47/77/ef/4777effd7383fb2782e845750784b93a.jpg",
       "topicId": 2,
-      "id": 70
+      "id": 70,
+      "pronunciation": "/snəʊ/"
     },
     {
       "word": "thunder",
@@ -638,7 +707,8 @@
       "example": "The sound of thunder could be heard in the distance.",
       "image_link": "https://i.pinimg.com/236x/68/75/c3/6875c383c3ba22d28281c154e959304e.jpg",
       "topicId": 2,
-      "id": 71
+      "id": 71,
+      "pronunciation": "/ˈθʌndə/"
     },
     {
       "word": "lightning",
@@ -647,7 +717,8 @@
       "example": "Lightning lit up the night sky.",
       "image_link": "https://i.pinimg.com/236x/e5/32/b1/e532b13df5bbde01730930d41467c01c.jpg",
       "topicId": 2,
-      "id": 72
+      "id": 72,
+      "pronunciation": "/ˈlaɪt.nɪŋ/"
     },
     {
       "word": "fog",
@@ -656,7 +727,8 @@
       "example": "The bridge was barely visible through the thick fog.",
       "image_link": "https://i.pinimg.com/236x/3d/16/03/3d160329981acf0f68dfa8e0cd4f1c46.jpg",
       "topicId": 2,
-      "id": 73
+      "id": 73,
+      "pronunciation": "/fɒɡ/"
     },
     {
       "word": "hail",
@@ -665,7 +737,8 @@
       "example": "The storm brought strong winds and hail.",
       "image_link": "https://i.pinimg.com/236x/06/a9/e5/06a9e51b256b43381f3607b28d32b09d.jpg",
       "topicId": 2,
-      "id": 74
+      "id": 74,
+      "pronunciation": "/heɪl/"
     },
     {
       "word": "drizzle",
@@ -674,7 +747,8 @@
       "example": "The morning was cool and drizzly.",
       "image_link": "https://i.pinimg.com/236x/f7/52/40/f752404e8036da1263901293e057cce1.jpg",
       "topicId": 2,
-      "id": 75
+      "id": 75,
+      "pronunciation": "/ˈdɹɪz.l/"
     },
     {
       "word": "humidity",
@@ -683,7 +757,8 @@
       "example": "The humidity was so high that it felt like walking through water.",
       "image_link": "https://i.pinimg.com/236x/8c/29/94/8c2994fbdcbcb3928e725d07d28a2de5.jpg",
       "topicId": 2,
-      "id": 76
+      "id": 76,
+      "pronunciation": "/hjuːˈmɪdɪti/"
     },
     {
       "word": "cyclone",
@@ -692,7 +767,8 @@
       "example": "The coast was hit hard by the cyclone last year.",
       "image_link": "https://i.pinimg.com/236x/35/9e/bf/359ebfb07ec847d5d3709370250042f1.jpg",
       "topicId": 2,
-      "id": 77
+      "id": 77,
+      "pronunciation": "/ˈsaɪ.kləʊn/"
     },
     {
       "word": "tornado",
@@ -701,7 +777,8 @@
       "example": "The tornado swept through the town without warning.",
       "image_link": "https://i.pinimg.com/236x/29/a5/2f/29a52f928a85e3e54da258005299a4d8.jpg",
       "topicId": 2,
-      "id": 78
+      "id": 78,
+      "pronunciation": "/tɔː(ɹ)ˈneɪ.dəʊ/"
     },
     {
       "word": "dew",
@@ -710,7 +787,8 @@
       "example": "The grass was wet with morning dew.",
       "image_link": "https://i.pinimg.com/236x/15/9e/9f/159e9f81f8cde45ecc35afb8ac40ca6e.jpg",
       "topicId": 2,
-      "id": 79
+      "id": 79,
+      "pronunciation": "/djuː/"
     },
     {
       "word": "blizzard",
@@ -719,7 +797,8 @@
       "example": "The blizzard shut down the city for days.",
       "image_link": "https://i.pinimg.com/236x/59/1d/1e/591d1e0334a10371f218e4ec5d14c3b3.jpg",
       "topicId": 2,
-      "id": 80
+      "id": 80,
+      "pronunciation": "/ˈblɪ.zəd/"
     },
     {
       "word": "mist",
@@ -728,7 +807,8 @@
       "example": "The mountain was shrouded in a light mist.",
       "image_link": "https://i.pinimg.com/236x/3d/16/03/3d160329981acf0f68dfa8e0cd4f1c46.jpg",
       "topicId": 2,
-      "id": 81
+      "id": 81,
+      "pronunciation": "/mɪst/"
     },
     {
       "word": "gale",
@@ -737,7 +817,8 @@
       "example": "The ship battled against the gale.",
       "image_link": "https://i.pinimg.com/236x/83/cd/3f/83cd3f03963c7508fde8f63bf72f10f9.jpg",
       "topicId": 2,
-      "id": 82
+      "id": 82,
+      "pronunciation": "/ɡeɪl/"
     },
     {
       "word": "overcast",
@@ -746,7 +827,8 @@
       "example": "The day was gray and overcast.",
       "image_link": "https://i.pinimg.com/236x/5c/65/54/5c65549a2ff33e35fd75a5c9cc4c359e.jpg",
       "topicId": 2,
-      "id": 83
+      "id": 83,
+      "pronunciation": "/ˈoʊ.vɚ.kæst/"
     },
     {
       "word": "heatwave",
@@ -755,7 +837,8 @@
       "example": "The city experienced a heatwave with temperatures soaring above 40 degrees Celsius.",
       "image_link": "https://i.pinimg.com/236x/9c/9c/0e/9c9c0ecb1fada362ba849dba136b31fd.jpg",
       "topicId": 2,
-      "id": 84
+      "id": 84,
+      "pronunciation": "/ˈhiːtˌweɪv/"
     },
     {
       "word": "frost",
@@ -764,7 +847,8 @@
       "example": "A heavy frost had settled overnight.",
       "image_link": "https://i.pinimg.com/236x/25/1d/71/251d71a7bff1e78e44418f56d79330e5.jpg",
       "topicId": 2,
-      "id": 85
+      "id": 85,
+      "pronunciation": "/fɹɑst/"
     },
     {
       "word": "monsoon",
@@ -773,7 +857,8 @@
       "example": "The monsoon rains arrived later than usual this year.",
       "image_link": "https://i.pinimg.com/236x/d7/56/c4/d756c4ddcbf7290585e87dfe70a58bf4.jpg",
       "topicId": 2,
-      "id": 86
+      "id": 86,
+      "pronunciation": "/mɒnˈsuːn/"
     },
     {
       "word": "sleet",
@@ -782,7 +867,8 @@
       "example": "The storm brought snow and sleet to the region.",
       "image_link": "https://i.pinimg.com/236x/39/5b/21/395b2196e9c7c0ef3490aae2111df53a.jpg",
       "topicId": 2,
-      "id": 87
+      "id": 87,
+      "pronunciation": "/sliːt/"
     },
     {
       "word": "elephant",
@@ -791,7 +877,8 @@
       "example": "The elephant used its trunk to pick up food.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/elephant_noun_001_11010.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 88
+      "id": 88,
+      "pronunciation": "/ˈɛləfənt/"
     },
     {
       "word": "tiger",
@@ -800,7 +887,8 @@
       "example": "The tiger stalked its prey through the underbrush.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/tiger_noun_001_35805.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 89
+      "id": 89,
+      "pronunciation": "/ˈtaɪɡə/"
     },
     {
       "word": "penguin",
@@ -809,7 +897,8 @@
       "example": "The penguin slid across the ice on its belly.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/penguin_noun_001_26450.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 90
+      "id": 90,
+      "pronunciation": "/ˈpɛŋɡwɪn/"
     },
     {
       "word": "giraffe",
@@ -818,7 +907,8 @@
       "example": "The giraffe reached up high into the trees to eat leaves.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/giraffe_noun_001_15212.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 91
+      "id": 91,
+      "pronunciation": "/dʒɪˈɹɑːf/"
     },
     {
       "word": "zebra",
@@ -827,7 +917,8 @@
       "example": "The zebra grazed on the savannah.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/zebra_noun_001_39858.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 92
+      "id": 92,
+      "pronunciation": "/ˈziːbɹə/"
     },
     {
       "word": "kangaroo",
@@ -836,7 +927,8 @@
       "example": "The kangaroo hopped across the field with ease.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/kangaroo_noun_001_19403.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 93
+      "id": 93,
+      "pronunciation": "/kaŋ.ɡə.ˈɹuː/"
     },
     {
       "word": "rhinoceros",
@@ -845,7 +937,8 @@
       "example": "The rhinoceros charged at the approaching vehicle.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/rhinoceros_noun_001_30658.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 94
+      "id": 94,
+      "pronunciation": "/ɹaɪˈnɒsəɹəs/"
     },
     {
       "word": "lion",
@@ -854,7 +947,8 @@
       "example": "The lion roared loudly, asserting its dominance.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/lion_noun_001_21640.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 95
+      "id": 95,
+      "pronunciation": "/ˈlaɪən/"
     },
     {
       "word": "leopard",
@@ -863,7 +957,8 @@
       "example": "The leopard was spotted resting in a tree.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/leopard_noun_001_21256.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 96
+      "id": 96,
+      "pronunciation": "/ˈlɛpəd/"
     },
     {
       "word": "wolf",
@@ -872,7 +967,8 @@
       "example": "The pack of wolves moved silently through the forest.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/wolf_noun_001_39521.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 97
+      "id": 97,
+      "pronunciation": "/wʊlf/"
     },
     {
       "word": "bear",
@@ -881,7 +977,8 @@
       "example": "The bear caught fish in the river.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/bear_noun_001_01718.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 98
+      "id": 98,
+      "pronunciation": "/bɛə(ɹ)/"
     },
     {
       "word": "fox",
@@ -890,7 +987,8 @@
       "example": "The fox slipped into the henhouse undetected.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/fox_noun_001_13845.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 99
+      "id": 99,
+      "pronunciation": "/fɒks/"
     },
     {
       "word": "owl",
@@ -899,7 +997,8 @@
       "example": "The owl hooted from its perch in the old oak tree.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/owl_noun_001_26018.jpg?version=6.0.17",
       "topicId": 3,
-      "id": 100
+      "id": 100,
+      "pronunciation": "/aʊl/"
     },
     {
       "word": "white",
@@ -908,7 +1007,8 @@
       "example": "She wore a beautiful white dress.",
       "image_link": "https://i.pinimg.com/236x/00/77/80/00778091f156323e85e4506bcc6b2cf2.jpg",
       "topicId": 4,
-      "id": 101
+      "id": 101,
+      "pronunciation": "/waɪt/"
     },
     {
       "word": "red",
@@ -917,7 +1017,8 @@
       "example": "The apple is red.",
       "image_link": "https://i.pinimg.com/236x/b1/73/ea/b173ea07791af67f28f91fbf2a30bf6b.jpg",
       "topicId": 4,
-      "id": 102
+      "id": 102,
+      "pronunciation": "/ɹɛd/"
     },
     {
       "word": "blue",
@@ -926,7 +1027,8 @@
       "example": "The sky is blue.",
       "image_link": "https://i.pinimg.com/236x/b8/61/17/b861178a4659a283675882041931fc30.jpg",
       "topicId": 4,
-      "id": 103
+      "id": 103,
+      "pronunciation": "/bluː/"
     },
     {
       "word": "green",
@@ -935,7 +1037,8 @@
       "example": "The grass is green.",
       "image_link": "https://i.pinimg.com/236x/b8/04/81/b80481838c5608682b14d405d2ab12be.jpg",
       "topicId": 4,
-      "id": 104
+      "id": 104,
+      "pronunciation": "/ɡɹiːn/"
     },
     {
       "word": "yellow",
@@ -944,7 +1047,8 @@
       "example": "The sun is yellow.",
       "image_link": "https://i.pinimg.com/236x/d6/f5/11/d6f5118b769faff48836573139ceaaa4.jpg",
       "topicId": 4,
-      "id": 105
+      "id": 105,
+      "pronunciation": "/jɛlə/"
     },
     {
       "word": "orange",
@@ -953,7 +1057,8 @@
       "example": "The pumpkin is orange.",
       "image_link": "https://i.pinimg.com/236x/3b/4e/7e/3b4e7ef2c9a8a19dc1c55d563ed6b19c.jpg",
       "topicId": 4,
-      "id": 106
+      "id": 106,
+      "pronunciation": "/ˈɔɹɪ̈nd͡ʒ/"
     },
     {
       "word": "purple",
@@ -962,7 +1067,8 @@
       "example": "The flower is purple.",
       "image_link": "https://i.pinimg.com/236x/3f/c7/21/3fc7215a989943d3c5ec2bc7b205ccb1.jpg",
       "topicId": 4,
-      "id": 107
+      "id": 107,
+      "pronunciation": "/ˈpɜː(ɹ).pəl/"
     },
     {
       "word": "pink",
@@ -971,7 +1077,8 @@
       "example": "She wore a pink shirt.",
       "image_link": "https://i.pinimg.com/236x/8e/a1/f7/8ea1f7bf7f4dd7a727c41fdbbc1083c1.jpg",
       "topicId": 4,
-      "id": 108
+      "id": 108,
+      "pronunciation": "/pɪŋk/"
     },
     {
       "word": "black",
@@ -980,7 +1087,8 @@
       "example": "The night is black.",
       "image_link": "https://i.pinimg.com/236x/4f/c3/a4/4fc3a4db6c4f400b49f353e045f3f8c9.jpg",
       "topicId": 4,
-      "id": 109
+      "id": 109,
+      "pronunciation": "/blak/"
     },
     {
       "word": "brown",
@@ -989,7 +1097,8 @@
       "example": "The chocolate is brown.",
       "image_link": "https://i.pinimg.com/236x/5c/dd/b9/5cddb9722ce973583f816c2b76d6cff1.jpg",
       "topicId": 4,
-      "id": 110
+      "id": 110,
+      "pronunciation": "/bɹaʊn/"
     },
     {
       "word": "gray",
@@ -998,7 +1107,8 @@
       "example": "The sky is gray.",
       "image_link": "https://i.pinimg.com/236x/f3/3d/52/f33d52baeb8aae4b8cc7031d42663a0d.jpg",
       "topicId": 4,
-      "id": 111
+      "id": 111,
+      "pronunciation": "/ɡɹeɪ/"
     },
     {
       "word": "magenta",
@@ -1007,7 +1117,8 @@
       "example": "The ink is magenta.",
       "image_link": "https://i.pinimg.com/236x/1f/82/9a/1f829abaf58bdc602b2e3ff1db620941.jpg",
       "topicId": 4,
-      "id": 112
+      "id": 112,
+      "pronunciation": "/məˈdʒɛntə/"
     },
     {
       "word": "cyan",
@@ -1016,7 +1127,8 @@
       "example": "The water is cyan.",
       "image_link": "https://i.pinimg.com/236x/62/77/b8/6277b8a9eea67f8dbb935feea045fec0.jpg",
       "topicId": 4,
-      "id": 113
+      "id": 113,
+      "pronunciation": "/ˈsaɪ.ən/"
     },
     {
       "word": "turquoise",
@@ -1025,7 +1137,8 @@
       "example": "The jewelry is turquoise.",
       "image_link": "https://i.pinimg.com/236x/46/51/9d/46519d4f3b3ba83399cda20540be5bc7.jpg",
       "topicId": 4,
-      "id": 114
+      "id": 114,
+      "pronunciation": "/ˈtɝː.kɔɪz/"
     },
     {
       "word": "indigo",
@@ -1034,7 +1147,8 @@
       "example": "The fabric is indigo.",
       "image_link": "https://i.pinimg.com/236x/81/fc/b9/81fcb9ef06dd4ca13c4c1ab370caed91.jpg",
       "topicId": 4,
-      "id": 115
+      "id": 115,
+      "pronunciation": "/ˈɪn.dɪˌɡəʊ/"
     },
     {
       "word": "violet",
@@ -1043,7 +1157,8 @@
       "example": "The flower is violet.",
       "image_link": "https://i.pinimg.com/236x/b2/b3/80/b2b380cd6fd36a0cdce6afea3460f423.jpg",
       "topicId": 4,
-      "id": 116
+      "id": 116,
+      "pronunciation": "/ˈvaɪlət/"
     },
     {
       "word": "lime",
@@ -1052,7 +1167,8 @@
       "example": "The lollipop is lime green.",
       "image_link": "https://i.pinimg.com/236x/9c/0b/f9/9c0bf91c82bc3b378c39a623b06f32ef.jpg",
       "topicId": 4,
-      "id": 117
+      "id": 117,
+      "pronunciation": "/laɪm/"
     },
     {
       "word": "gold",
@@ -1061,7 +1177,8 @@
       "example": "The ring is gold.",
       "image_link": "https://i.pinimg.com/236x/b0/86/23/b08623ef311fce264ecf8640cbd4164b.jpg",
       "topicId": 4,
-      "id": 118
+      "id": 118,
+      "pronunciation": "/ɡɒʊld/"
     },
     {
       "word": "silver",
@@ -1070,7 +1187,8 @@
       "example": "The necklace is silver.",
       "image_link": "https://i.pinimg.com/236x/38/79/76/38797659d08e52caaef5b8ac697ff5a6.jpg",
       "topicId": 4,
-      "id": 119
+      "id": 119,
+      "pronunciation": "/ˈsɪl.və/"
     },
     {
       "word": "apple",
@@ -1079,7 +1197,8 @@
       "example": "She ate a juicy apple.",
       "image_link": "https://i.pinimg.com/236x/3f/a2/87/3fa287c717ff7a7102e6d872c68b5bda.jpg",
       "topicId": 5,
-      "id": 120
+      "id": 120,
+      "pronunciation": "/ˈæp.əl/"
     },
     {
       "word": "banana",
@@ -1088,7 +1207,8 @@
       "example": "He had a banana for breakfast.",
       "image_link": "https://i.pinimg.com/236x/a3/37/0b/a3370bfbc03bc8de595f417f08f7fa5e.jpg",
       "topicId": 5,
-      "id": 121
+      "id": 121,
+      "pronunciation": "/bəˈnɑːnə/"
     },
     {
       "word": "grape",
@@ -1097,7 +1217,8 @@
       "example": "The grapes were fresh and juicy.",
       "image_link": "https://i.pinimg.com/236x/b8/8b/d7/b88bd72ec9038f6354c12e6462eb1dca.jpg",
       "topicId": 5,
-      "id": 122
+      "id": 122,
+      "pronunciation": "/ɡɹeɪp/"
     },
     {
       "word": "orange",
@@ -1106,7 +1227,8 @@
       "example": "She drank a glass of orange juice.",
       "image_link": "https://i.pinimg.com/236x/3b/4e/7e/3b4e7ef2c9a8a19dc1c55d563ed6b19c.jpg",
       "topicId": 5,
-      "id": 123
+      "id": 123,
+      "pronunciation": "/ˈɔɹɪ̈nd͡ʒ/"
     },
     {
       "word": "strawberry",
@@ -1115,7 +1237,8 @@
       "example": "We picked fresh strawberries.",
       "image_link": "https://i.pinimg.com/236x/1c/ac/37/1cac37c5520085aba52654b18beb225a.jpg",
       "topicId": 5,
-      "id": 124
+      "id": 124,
+      "pronunciation": "/ˈstɹɔːb(ə)ɹi/"
     },
     {
       "word": "watermelon",
@@ -1124,7 +1247,8 @@
       "example": "They enjoyed a slice of watermelon.",
       "image_link": "https://i.pinimg.com/236x/6d/22/80/6d22800bfb9a0012716fcf47b491d1d0.jpg",
       "topicId": 5,
-      "id": 125
+      "id": 125,
+      "pronunciation": "/ˈwɔːtəˌmɛlən/"
     },
     {
       "word": "pear",
@@ -1133,7 +1257,8 @@
       "example": "The pear was ripe and juicy.",
       "image_link": "https://i.pinimg.com/236x/c1/54/93/c154938ec0dd865b3d06a380b11e4ff5.jpg",
       "topicId": 5,
-      "id": 126
+      "id": 126,
+      "pronunciation": "/per/"
     },
     {
       "word": "pineapple",
@@ -1142,7 +1267,8 @@
       "example": "Pineapple is delicious in smoothies.",
       "image_link": "https://i.pinimg.com/236x/a0/77/c8/a077c84037cd1e27b87d81ad8ca88209.jpg",
       "topicId": 5,
-      "id": 127
+      "id": 127,
+      "pronunciation": "/ˈpaɪnəpəl/"
     },
     {
       "word": "cherry",
@@ -1151,7 +1277,8 @@
       "example": "She ate a bowl of cherries.",
       "image_link": "https://i.pinimg.com/236x/20/68/d2/2068d220432a0bf052c713b3587943a6.jpg",
       "topicId": 5,
-      "id": 128
+      "id": 128,
+      "pronunciation": "/ˈtʃer.i/"
     },
     {
       "word": "mango",
@@ -1160,7 +1287,8 @@
       "example": "Mangoes are my favorite fruit.",
       "image_link": "https://i.pinimg.com/236x/c4/41/60/c44160336851753abc03b27896af17b4.jpg",
       "topicId": 5,
-      "id": 129
+      "id": 129,
+      "pronunciation": "/ˈmæŋ.ɡoʊ/"
     },
     {
       "word": "blueberry",
@@ -1169,7 +1297,8 @@
       "example": "Blueberries are good in muffins.",
       "image_link": "https://i.pinimg.com/236x/71/1a/c9/711ac927c461541d4c934fe4ca93357f.jpg",
       "topicId": 5,
-      "id": 130
+      "id": 130,
+      "pronunciation": "/ˈbluːˌber.i/"
     },
     {
       "word": "kiwi",
@@ -1178,7 +1307,8 @@
       "example": "Kiwi is rich in vitamin C.",
       "image_link": "https://i.pinimg.com/236x/d6/6b/25/d66b257fa3fb12c27b3b0e5f9ebf3885.jpg",
       "topicId": 5,
-      "id": 131
+      "id": 131,
+      "pronunciation": "/ˈkiːwi/"
     },
     {
       "word": "avocado",
@@ -1187,7 +1317,8 @@
       "example": "Avocado is great in salads.",
       "image_link": "https://i.pinimg.com/236x/43/ba/16/43ba16af32df1697c77530e84dd56afd.jpg",
       "topicId": 5,
-      "id": 132
+      "id": 132,
+      "pronunciation": "/ævəˈkɑːdəʊ/"
     },
     {
       "word": "coconut",
@@ -1196,7 +1327,8 @@
       "example": "Coconut can be used in cooking.",
       "image_link": "https://i.pinimg.com/236x/2b/35/3f/2b353f1778e3b9d96c00eed15c395ff2.jpg",
       "topicId": 5,
-      "id": 133
+      "id": 133,
+      "pronunciation": "/ˈkoʊ.kə.nʌt/"
     },
     {
       "word": "lemon",
@@ -1205,7 +1337,8 @@
       "example": "Lemon adds a fresh taste to dishes.",
       "image_link": "https://i.pinimg.com/236x/f2/0b/16/f20b16883386bc8ec55f9f751e3ef454.jpg",
       "topicId": 5,
-      "id": 134
+      "id": 134,
+      "pronunciation": "/ˈlɛmən/"
     },
     {
       "word": "lime",
@@ -1214,7 +1347,8 @@
       "example": "Lime is used in many drinks.",
       "image_link": "https://i.pinimg.com/236x/9c/0b/f9/9c0bf91c82bc3b378c39a623b06f32ef.jpg",
       "topicId": 5,
-      "id": 135
+      "id": 135,
+      "pronunciation": "/laɪm/"
     },
     {
       "word": "peach",
@@ -1223,7 +1357,8 @@
       "example": "Peaches are in season in summer.",
       "image_link": "https://i.pinimg.com/236x/bb/be/92/bbbe92420d0c882d1bdb801dc1011f5e.jpg",
       "topicId": 5,
-      "id": 136
+      "id": 136,
+      "pronunciation": "/piːt͡ʃ/"
     },
     {
       "word": "plum",
@@ -1232,7 +1367,8 @@
       "example": "She made a plum pie.",
       "image_link": "https://i.pinimg.com/236x/8c/64/b7/8c64b7147e20822115f5583d2c77a566.jpg",
       "topicId": 5,
-      "id": 137
+      "id": 137,
+      "pronunciation": "/plʌm/"
     },
     {
       "word": "raspberry",
@@ -1241,7 +1377,8 @@
       "example": "Raspberries are great in desserts.",
       "image_link": "https://i.pinimg.com/236x/91/fa/2a/91fa2a87736740be6b6e5c6bf280f0b7.jpg",
       "topicId": 5,
-      "id": 138
+      "id": 138,
+      "pronunciation": "/ˈɹɑːzbɹi/"
     },
     {
       "word": "smartphone",
@@ -1250,7 +1387,8 @@
       "example": "He bought a new smartphone.",
       "image_link": "https://i.pinimg.com/236x/3a/8a/6c/3a8a6cc532e966db07c76f0041fe7a7b.jpg",
       "topicId": 6,
-      "id": 139
+      "id": 139,
+      "pronunciation": "/ˈsmɑːtfəʊn/"
     },
     {
       "word": "laptop",
@@ -1259,7 +1397,8 @@
       "example": "She uses her laptop for work.",
       "image_link": "https://dictionary.cambridge.org/vi/images/full/laptop_noun_001_19234.jpg?version=6.0.21",
       "topicId": 6,
-      "id": 140
+      "id": 140,
+      "pronunciation": "/ˈlæp.tɒp/"
     },
     {
       "word": "tablet",
@@ -1268,7 +1407,8 @@
       "example": "Tablets are great for reading.",
       "image_link": "https://i.pinimg.com/236x/b0/69/e6/b069e6c613ce32a462e570bf76326130.jpg",
       "topicId": 6,
-      "id": 141
+      "id": 141,
+      "pronunciation": "/ˈtæblət/"
     },
     {
       "word": "desktop",
@@ -1277,7 +1417,8 @@
       "example": "The office is equipped with desktop computers.",
       "image_link": "https://i.pinimg.com/236x/8c/0a/b1/8c0ab142b57cc14476c9f2cf987de4e0.jpg",
       "topicId": 6,
-      "id": 142
+      "id": 142,
+      "pronunciation": "[ˈdɛsk.ˌtɔp]"
     },
     {
       "word": "printer",
@@ -1286,7 +1427,8 @@
       "example": "The printer is out of ink.",
       "image_link": "https://i.pinimg.com/236x/91/c3/82/91c382be2031c07666296ed9e5db4eeb.jpg",
       "topicId": 6,
-      "id": 143
+      "id": 143,
+      "pronunciation": "/ˈprɪn.tər/"
     },
     {
       "word": "router",
@@ -1295,7 +1437,8 @@
       "example": "The router needs to be reset.",
       "image_link": "https://i.pinimg.com/236x/8e/ee/cc/8eeecc164cf45e741b74409f0cab1eda.jpg",
       "topicId": 6,
-      "id": 144
+      "id": 144,
+      "pronunciation": "/ˈɹuːtə(ɹ)/"
     },
     {
       "word": "monitor",
@@ -1304,7 +1447,8 @@
       "example": "She bought a new monitor for her computer.",
       "image_link": "https://i.pinimg.com/236x/32/53/b6/3253b657b173887057d956a73846b71e.jpg",
       "topicId": 6,
-      "id": 145
+      "id": 145,
+      "pronunciation": "/ˈmɒnɨtə/"
     },
     {
       "word": "keyboard",
@@ -1313,7 +1457,8 @@
       "example": "He spilled coffee on the keyboard.",
       "image_link": "https://i.pinimg.com/236x/4a/77/2f/4a772f7b4df1435642192c33cb8c9cc9.jpg",
       "topicId": 6,
-      "id": 146
+      "id": 146,
+      "pronunciation": "/ˈkiːbɔːd/"
     },
     {
       "word": "mouse",
@@ -1322,7 +1467,8 @@
       "example": "The mouse is not working properly.",
       "image_link": "https://i.pinimg.com/236x/f7/9f/8a/f79f8a888bfb7b7bd1d2383f0ad3c1c0.jpg",
       "topicId": 6,
-      "id": 147
+      "id": 147,
+      "pronunciation": "/maʊs/"
     },
     {
       "word": "camera",
@@ -1331,7 +1477,8 @@
       "example": "She bought a new digital camera.",
       "image_link": "https://i.pinimg.com/236x/53/29/35/532935f03007bff37cf6c232827ccb2c.jpg",
       "topicId": 6,
-      "id": 148
+      "id": 148,
+      "pronunciation": "/ˈkæməɹə/"
     },
     {
       "word": "scanner",
@@ -1340,7 +1487,8 @@
       "example": "The scanner is used to digitize documents.",
       "image_link": "https://i.pinimg.com/236x/2a/ce/62/2ace62f519d9dc1306e8ecad1023a07d.jpg",
       "topicId": 6,
-      "id": 149
+      "id": 149,
+      "pronunciation": "/ˈskænə/"
     },
     {
       "word": "headphones",
@@ -1349,7 +1497,8 @@
       "example": "He listened to music using his headphones.",
       "image_link": "https://i.pinimg.com/236x/85/bc/9f/85bc9fe18d4faa6f76538485caad784b.jpg",
       "topicId": 6,
-      "id": 150
+      "id": 150,
+      "pronunciation": "/ˈhed.foʊnz/"
     },
     {
       "word": "microphone",
@@ -1358,7 +1507,8 @@
       "example": "The singer used a microphone during the concert.",
       "image_link": "https://i.pinimg.com/236x/0d/01/2b/0d012b4469ed89df29ac9953ba4cf06b.jpg",
       "topicId": 6,
-      "id": 151
+      "id": 151,
+      "pronunciation": "/ˈmaɪ.kɹəˌfəʊn/"
     },
     {
       "word": "speaker",
@@ -1367,7 +1517,8 @@
       "example": "The speaker delivers clear sound.",
       "image_link": "https://i.pinimg.com/236x/27/b1/67/27b167733854144881ace1c42b4ee4a7.jpg",
       "topicId": 6,
-      "id": 152
+      "id": 152,
+      "pronunciation": "/ˈspiːkə/"
     },
     {
       "word": "USB drive",
@@ -1376,7 +1527,8 @@
       "example": "She stored her files on a USB drive.",
       "image_link": "https://i.pinimg.com/236x/f4/b1/c1/f4b1c13de37c59c6aa8b622c0865110e.jpg",
       "topicId": 6,
-      "id": 153
+      "id": 153,
+      "pronunciation": ""
     },
     {
       "word": "external hard drive",
@@ -1385,7 +1537,8 @@
       "example": "He backed up his data on an external hard drive.",
       "image_link": "https://i.pinimg.com/236x/78/2d/4d/782d4d9cea6b1dd588d3f504c7e93cf3.jpg",
       "topicId": 6,
-      "id": 154
+      "id": 154,
+      "pronunciation": ""
     },
     {
       "word": "drone",
@@ -1394,7 +1547,8 @@
       "example": "The drone captured aerial footage.",
       "image_link": "https://i.pinimg.com/236x/9f/86/ea/9f86eaa291893d81bbb29affa533f64d.jpg",
       "topicId": 6,
-      "id": 155
+      "id": 155,
+      "pronunciation": "/dɹəʊn/"
     },
     {
       "word": "ball",
@@ -1403,7 +1557,8 @@
       "example": "They enjoy kicking a ball around the park.",
       "image_link": "https://i.pinimg.com/236x/1b/ca/e2/1bcae2230d784d878127366dc9cee332.jpg",
       "topicId": 7,
-      "id": 156
+      "id": 156,
+      "pronunciation": "/bɔːl/"
     },
     {
       "word": "baseball",
@@ -1412,7 +1567,8 @@
       "example": "He hit a home run during the baseball game.",
       "image_link": "https://i.pinimg.com/236x/82/ae/6d/82ae6d1c305822e7f37499661dc42f22.jpg",
       "topicId": 7,
-      "id": 157
+      "id": 157,
+      "pronunciation": "/ˈbeɪs.bɔːl/"
     },
     {
       "word": "golf",
@@ -1421,7 +1577,8 @@
       "example": "She enjoys playing golf on weekends.",
       "image_link": "https://i.pinimg.com/236x/55/ac/0e/55ac0ef959078df310388ccbcfbdc4ba.jpg",
       "topicId": 7,
-      "id": 158
+      "id": 158,
+      "pronunciation": "/ɡɒlf/"
     },
     {
       "word": "swimming",
@@ -1430,7 +1587,8 @@
       "example": "He goes swimming every morning.",
       "image_link": "https://dictionary.cambridge.org/images/thumb/swim_noun_002_36983.jpg?version=6.0.21",
       "topicId": 7,
-      "id": 159
+      "id": 159,
+      "pronunciation": "/ˈswɪmɪŋ/"
     },
     {
       "word": "cricket",
@@ -1439,7 +1597,8 @@
       "example": "They watched a cricket match on TV.",
       "image_link": "https://i.pinimg.com/236x/f3/3c/40/f33c40bc2645d97343b917a18ef6cd23.jpg",
       "topicId": 7,
-      "id": 160
+      "id": 160,
+      "pronunciation": "/ˈkrɪk.ɪt/"
     },
     {
       "word": "rugby",
@@ -1448,7 +1607,8 @@
       "example": "He plays rugby every weekend.",
       "image_link": "https://i.pinimg.com/236x/64/7d/6b/647d6b5da36a71e68d022c1f1a367b03.jpg",
       "topicId": 7,
-      "id": 161
+      "id": 161,
+      "pronunciation": "/ˈɹʌɡbi/"
     },
     {
       "word": "volleyball",
@@ -1457,7 +1617,8 @@
       "example": "She joined the school's volleyball team.",
       "image_link": "https://dictionary.cambridge.org/images/thumb/volley_noun_002_40333.jpg?version=6.0.21",
       "topicId": 7,
-      "id": 162
+      "id": 162,
+      "pronunciation": "/ˈvɒlibɔ(ː)l/"
     },
     {
       "word": "badminton",
@@ -1466,7 +1627,8 @@
       "example": "They play badminton in the backyard.",
       "image_link": "https://i.pinimg.com/236x/e6/ee/1e/e6ee1e5a56e5f5dc7dd32fef9a9eb1c1.jpg",
       "topicId": 7,
-      "id": 163
+      "id": 163,
+      "pronunciation": "/ˈbæd.mɪn.tən/"
     },
     {
       "word": "cycling",
@@ -1475,7 +1637,8 @@
       "example": "He enjoys cycling through the countryside.",
       "image_link": "https://i.pinimg.com/236x/26/7a/27/267a278885008cf24c9f3e6f4cdd38cc.jpg",
       "topicId": 7,
-      "id": 164
+      "id": 164,
+      "pronunciation": "/ˈsaɪk(ə)lɪŋ/"
     },
     {
       "word": "hockey",
@@ -1484,7 +1647,8 @@
       "example": "They went to watch a hockey match.",
       "image_link": "https://i.pinimg.com/236x/28/c1/44/28c1447c83b6ee8c8d15a55ab2893aab.jpg",
       "topicId": 7,
-      "id": 165
+      "id": 165,
+      "pronunciation": "/ˈhɒki/"
     },
     {
       "word": "surfing",
@@ -1493,7 +1657,8 @@
       "example": "She loves surfing in the ocean.",
       "image_link": "https://i.pinimg.com/236x/e1/26/84/e1268429511a4bb5b2c0567e8fe1a002.jpg",
       "topicId": 7,
-      "id": 166
+      "id": 166,
+      "pronunciation": "/ˈsɝfɪŋ/"
     },
     {
       "word": "skating",
@@ -1502,7 +1667,8 @@
       "example": "He enjoys ice skating in the winter.",
       "image_link": "https://dictionary.cambridge.org/images/thumb/skatin_noun_004_2365.jpg?version=6.0.21",
       "topicId": 7,
-      "id": 167
+      "id": 167,
+      "pronunciation": "/ˈskeɪtɪŋ/"
     },
     {
       "word": "skiing",
@@ -1511,7 +1677,8 @@
       "example": "They went skiing in the mountains.",
       "image_link": "https://i.pinimg.com/236x/eb/ef/27/ebef274e527bab0274b9cb03058ea9b8.jpg",
       "topicId": 7,
-      "id": 168
+      "id": 168,
+      "pronunciation": "/ˈskiɪŋ/"
     },
     {
       "word": "table tennis",
@@ -1520,7 +1687,8 @@
       "example": "They enjoy playing table tennis.",
       "image_link": "https://i.pinimg.com/236x/07/cf/7b/07cf7b58d6034ea69503fdee952faff0.jpg",
       "topicId": 7,
-      "id": 169
+      "id": 169,
+      "pronunciation": "/ˈteɪ.bəl ˌten.ɪs/"
     },
     {
       "word": "gymnastics",
@@ -1529,7 +1697,8 @@
       "example": "She practices gymnastics every day.",
       "image_link": "https://i.pinimg.com/236x/39/00/e0/3900e040f2bb2718391567ed048c66d6.jpg",
       "topicId": 7,
-      "id": 170
+      "id": 170,
+      "pronunciation": "/dʒɪmˈnæs.tɪks/"
     },
     {
       "word": "fencing",
@@ -1538,7 +1707,8 @@
       "example": "He joined the fencing club at school.",
       "image_link": "https://i.pinimg.com/236x/f3/66/78/f36678a75ccddae385e7b563ceb7a774.jpg",
       "topicId": 7,
-      "id": 171
+      "id": 171,
+      "pronunciation": "/ˈfɛnsɪŋ/"
     },
     {
       "word": "rowing",
@@ -1547,7 +1717,8 @@
       "example": "She enjoys rowing on the lake.",
       "image_link": "https://i.pinimg.com/236x/b5/5a/58/b55a58f032fc4b2c0c0c61dcb3161b33.jpg",
       "topicId": 7,
-      "id": 172
+      "id": 172,
+      "pronunciation": "/ˈɹoʊɪŋ/"
     },
     {
       "word": "archery",
@@ -1556,7 +1727,8 @@
       "example": "He practices archery in the backyard.",
       "image_link": "https://i.pinimg.com/236x/a6/75/ff/a675fff46b722ff49532529bebd9ecd0.jpg",
       "topicId": 7,
-      "id": 173
+      "id": 173,
+      "pronunciation": "/ɑɹtʃəɹiː/"
     },
     {
       "word": "boxing",
@@ -1565,7 +1737,8 @@
       "example": "He won his first boxing match.",
       "image_link": "https://i.pinimg.com/236x/67/27/8f/67278f16933ba1e7260f740e123c47db.jpg",
       "topicId": 7,
-      "id": 174
+      "id": 174,
+      "pronunciation": "/ˈbɒksɪŋ/"
     },
     {
       "word": "adventure",
@@ -1574,7 +1747,8 @@
       "example": "They embarked on an adventure in the Amazon rainforest.",
       "image_link": "https://i.pinimg.com/236x/34/9d/45/349d45d4bb3e76c72a4475b9163de5cc.jpg",
       "topicId": 8,
-      "id": 175
+      "id": 175,
+      "pronunciation": "/ædˈvɛnt͡ʃɚ/"
     },
     {
       "word": "exploration",
@@ -1583,7 +1757,8 @@
       "example": "They set out on an exploration of the Arctic region.",
       "image_link": "https://i.pinimg.com/236x/9a/94/c6/9a94c6c0285e8a92b70ccdbb4d2766d9.jpg",
       "topicId": 8,
-      "id": 176
+      "id": 176,
+      "pronunciation": "/ˌɛkspləˈɹeɪʃən/"
     },
     {
       "word": "journey",
@@ -1592,7 +1767,8 @@
       "example": "She embarked on a spiritual journey to India.",
       "image_link": "https://i.pinimg.com/236x/ed/65/02/ed65027a80e9751a36aa504460ba7694.jpg",
       "topicId": 8,
-      "id": 177
+      "id": 177,
+      "pronunciation": "/ˈd͡ʒɜːni/"
     },
     {
       "word": "tour",
@@ -1601,7 +1777,8 @@
       "example": "She organized a tour of famous landmarks in Paris.",
       "image_link": "https://i.pinimg.com/236x/55/07/da/5507dac495713459405a1dd6dc891d61.jpg",
       "topicId": 8,
-      "id": 178
+      "id": 178,
+      "pronunciation": "/tɔː(ɹ)/"
     },
     {
       "word": "excursion",
@@ -1610,7 +1787,8 @@
       "example": "She planned an excursion to explore local markets.",
       "image_link": "https://i.pinimg.com/236x/11/17/8c/11178c53c672dbba0d2481bf84bdb3ec.jpg",
       "topicId": 8,
-      "id": 179
+      "id": 179,
+      "pronunciation": "/ɛks.kɜː(ɹ).ʃən/"
     },
     {
       "word": "voyage",
@@ -1619,7 +1797,8 @@
       "example": "He dreamed of embarking on a voyage to distant galaxies.",
       "image_link": "https://static.toiimg.com/photo/64079575.cms",
       "topicId": 8,
-      "id": 180
+      "id": 180,
+      "pronunciation": "/ˈvɔɪ.ɪdʒ/"
     },
     {
       "word": "picturesque",
@@ -1628,7 +1807,8 @@
       "example": "She captured the picturesque landscape with her camera.",
       "image_link": "https://i.pinimg.com/236x/4c/0c/17/4c0c173491302e0683821f672007fd49.jpg",
       "topicId": 8,
-      "id": 181
+      "id": 181,
+      "pronunciation": "/pɪktʃəˈɹɛsk/"
     },
     {
       "word": "exotic",
@@ -1637,7 +1817,8 @@
       "example": "She purchased exotic souvenirs from the local market.",
       "image_link": "https://i.pinimg.com/236x/21/0e/88/210e883eb29a4d611722807bbdbc1775.jpg",
       "topicId": 8,
-      "id": 182
+      "id": 182,
+      "pronunciation": "/ɪɡˈzɒtɪk/"
     },
     {
       "word": "scenic",
@@ -1646,7 +1827,8 @@
       "example": "She admired the scenic views from the mountaintop.",
       "image_link": "https://i.pinimg.com/236x/74/57/cc/7457cc81683f06cc139551fdb8330305.jpg",
       "topicId": 8,
-      "id": 183
+      "id": 183,
+      "pronunciation": "/ˈsiːnɪk/"
     },
     {
       "word": "cultural",
@@ -1655,7 +1837,8 @@
       "example": "She attended cultural festivals during her visit to Japan.",
       "image_link": "https://i.pinimg.com/236x/18/c9/f6/18c9f60817c8cb3fb2fec6b3ecf93d92.jpg",
       "topicId": 8,
-      "id": 184
+      "id": 184,
+      "pronunciation": "/ˈkʌlt͡ʃəɹəl/"
     },
     {
       "word": "authentic",
@@ -1664,7 +1847,8 @@
       "example": "She purchased authentic handmade crafts from local artisans.",
       "image_link": "https://ambe.vn/wp-content/uploads/2020/08/authentic-la-gi-phan-biet-hang-authentic-real-fake-nhu-the-nao-1.jpg",
       "topicId": 8,
-      "id": 185
+      "id": 185,
+      "pronunciation": "/ɒ.ˈθɛn.tɪk/"
     },
     {
       "word": "historic",
@@ -1673,7 +1857,8 @@
       "example": "She learned about historic events during the guided tour.",
       "image_link": "https://i.pinimg.com/236x/6f/de/df/6fdedfdca55dba605220ea3b49735ac5.jpg",
       "topicId": 8,
-      "id": 186
+      "id": 186,
+      "pronunciation": "/(h)ɪˈstɒɹɪk/"
     },
     {
       "word": "explore",
@@ -1682,7 +1867,8 @@
       "example": "She loves to explore new cultures and traditions.",
       "image_link": "https://i.pinimg.com/236x/bd/7b/1d/bd7b1d5a5e7720a7a78db5872f0aaae0.jpg",
       "topicId": 8,
-      "id": 187
+      "id": 187,
+      "pronunciation": "/ɪkˈsplɔː/"
     },
     {
       "word": "discover",
@@ -1691,7 +1877,8 @@
       "example": "She discovered a quaint cafe tucked away in the alley.",
       "image_link": "https://miro.medium.com/v2/resize:fit:2000/1*_psdK9gihnaXzMg3KbVMwg.jpeg",
       "topicId": 8,
-      "id": 188
+      "id": 188,
+      "pronunciation": "/dɪsˈkʊvə/"
     },
     {
       "word": "experience",
@@ -1700,7 +1887,8 @@
       "example": "She experienced a sense of awe when she saw the ancient ruins.",
       "image_link": "https://www.clockwork.com/wp-content/uploads/2022/07/human-centered-experience-design-1024x1021-1.png",
       "topicId": 8,
-      "id": 189
+      "id": 189,
+      "pronunciation": "/ɪkˈspɪə.ɹɪəns/"
     },
     {
       "word": "wander",
@@ -1709,7 +1897,8 @@
       "example": "She enjoyed wandering along the riverbank at sunset.",
       "image_link": "https://assets.biola.edu/4396738754672012438/article/70175becdfdbae0bb1fb691daad11a8c/large_sam-mouat-vH8mcFXN5tM-unsplash_(1)_(1).jpg",
       "topicId": 8,
-      "id": 190
+      "id": 190,
+      "pronunciation": "/ˈwɒndə/"
     },
     {
       "word": "immerse",
@@ -1718,7 +1907,8 @@
       "example": "She immersed herself in the study of ancient architecture.",
       "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyuGgXZ4GhmLzJ1t2ZlF9NVSDa48U_z94eFQ&s",
       "topicId": 8,
-      "id": 191
+      "id": 191,
+      "pronunciation": "/ɪˈmɜː(ɹ)s/"
     },
     {
       "word": "explorer",
@@ -1727,7 +1917,8 @@
       "example": "Magellan was a famous 16th-century explorer.",
       "image_link": "https://i.pinimg.com/236x/bd/7b/1d/bd7b1d5a5e7720a7a78db5872f0aaae0.jpg",
       "topicId": 8,
-      "id": 192
+      "id": 192,
+      "pronunciation": "/ɛkˈsplɔːɹə(ɹ)/"
     },
     {
       "word": "knowledge",
@@ -1736,7 +1927,8 @@
       "example": "She gained valuable knowledge from her research.",
       "image_link": "https://i.pinimg.com/236x/86/de/25/86de25bf5b2b497bb8be816e43e60bc0.jpg",
       "topicId": 9,
-      "id": 193
+      "id": 193,
+      "pronunciation": "/ˈnɒlɪdʒ/"
     },
     {
       "word": "learning",
@@ -1745,7 +1937,8 @@
       "example": "She has a passion for learning languages.",
       "image_link": "https://i.pinimg.com/236x/d6/9a/a5/d69aa5765e7469ababad53960ba5dc38.jpg",
       "topicId": 9,
-      "id": 194
+      "id": 194,
+      "pronunciation": "/ˈlɜːnɪŋ/"
     },
     {
       "word": "study",
@@ -1754,7 +1947,8 @@
       "example": "He conducted a detailed study of ancient civilizations.",
       "image_link": "https://www.brainscape.com/academy/content/images/2022/02/Ultimate-study-guide-header.png",
       "topicId": 9,
-      "id": 195
+      "id": 195,
+      "pronunciation": "/ˈstʌdi/"
     },
     {
       "word": "research",
@@ -1763,7 +1957,8 @@
       "example": "He presented his research findings at the conference.",
       "image_link": "https://i.pinimg.com/236x/4f/25/8d/4f258d6928bf02a872e5e78f18309667.jpg",
       "topicId": 9,
-      "id": 196
+      "id": 196,
+      "pronunciation": "/ɹɪˈsɜːtʃ/"
     },
     {
       "word": "curiosity",
@@ -1772,7 +1967,8 @@
       "example": "His curiosity prompted him to explore the origins of the universe.",
       "image_link": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/Curiosity.jpg?itok=JdS6RS8L",
       "topicId": 9,
-      "id": 197
+      "id": 197,
+      "pronunciation": "/ˌkjʊəɹɪˈɒsɪti/"
     },
     {
       "word": "intellectual",
@@ -1781,7 +1977,8 @@
       "example": "He enjoys engaging in intellectual discussions with his peers.",
       "image_link": "https://minutehack.com/public/images/articles/2018/04/man-followed-by-ideas-picture-id519190164.jpg",
       "topicId": 9,
-      "id": 198
+      "id": 198,
+      "pronunciation": "/ˌɪntəˈlɛk(t)ʃʊəl/"
     },
     {
       "word": "scholarship",
@@ -1790,7 +1987,8 @@
       "example": "He has a deep passion for literature and literary scholarship.",
       "image_link": "https://i.pinimg.com/236x/1b/80/f2/1b80f2d5745bca5f4bc619c4d2a5084f.jpg",
       "topicId": 9,
-      "id": 199
+      "id": 199,
+      "pronunciation": "/ˈskɑː.lɚ.ʃɪp/"
     },
     {
       "word": "academic",
@@ -1799,7 +1997,8 @@
       "example": "She received recognition for her academic achievements.",
       "image_link": "https://abroadin.com/blog/wp-content/uploads/2022/12/front-view-stacked-books-graduation-cap-open-book-education-day.jpg",
       "topicId": 9,
-      "id": 200
+      "id": 200,
+      "pronunciation": "/ˌækəˈdɛmɪk/"
     },
     {
       "word": "knowledgeable",
@@ -1808,7 +2007,8 @@
       "example": "He is considered a knowledgeable expert in his field.",
       "image_link": "https://i.pinimg.com/236x/af/8e/2e/af8e2e86a18396ca1f19cd292e85dd9a.jpg",
       "topicId": 9,
-      "id": 201
+      "id": 201,
+      "pronunciation": "/ˈnɑl.ɪd͡ʒ.ə.bəl/"
     },
     {
       "word": "educational",
@@ -1817,7 +2017,8 @@
       "example": "She found the museum's educational programs informative.",
       "image_link": "https://i.pinimg.com/236x/d1/88/da/d188da345a1aa258f410cae6f82d4818.jpg",
       "topicId": 9,
-      "id": 202
+      "id": 202,
+      "pronunciation": "/ˌɛdʒʊˈkeɪʃənəl/"
     },
     {
       "word": "learn",
@@ -1826,7 +2027,8 @@
       "example": "He learned how to play the piano at a young age.",
       "image_link": "https://i.pinimg.com/236x/90/9b/6b/909b6b53276598fe06ac2fc0605c0824.jpg",
       "topicId": 9,
-      "id": 203
+      "id": 203,
+      "pronunciation": "/lɜːn/"
     },
     {
       "word": "teacher",
@@ -1835,7 +2037,8 @@
       "example": "She became a teacher after finishing her studies.",
       "image_link": "https://varthana.com/school/wp-content/uploads/2022/12/B103.jpg",
       "topicId": 9,
-      "id": 204
+      "id": 204,
+      "pronunciation": "/ˈtiːt͡ʃə/"
     },
     {
       "word": "degree",
@@ -1844,7 +2047,8 @@
       "example": "He pursued a master's degree in engineering.",
       "image_link": "https://upload.wikimedia.org/wikipedia/commons/5/50/NU_Diploma_%28redacted%29.jpg",
       "topicId": 9,
-      "id": 205
+      "id": 205,
+      "pronunciation": "/dɪˈɡɹiː/"
     },
     {
       "word": "graduation",
@@ -1853,7 +2057,8 @@
       "example": "His family attended his graduation ceremony.",
       "image_link": "https://www.southernliving.com/thmb/osQ0-qCdyJmTELa8n7OnCE1cwz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/graduates-throwing-caps-1066324992-2000-c66181da679b46dab1f62f4b2fbe3e84.jpg",
       "topicId": 9,
-      "id": 206
+      "id": 206,
+      "pronunciation": "/ˌɡɹædʒuˈeɪʃən/"
     },
     {
       "word": "intelligent",
@@ -1862,7 +2067,8 @@
       "example": "He is known for his intelligent solutions to problems.",
       "image_link": "https://cdn.punchng.com/wp-content/uploads/2017/05/17155745/Intelligence.jpg",
       "topicId": 9,
-      "id": 207
+      "id": 207,
+      "pronunciation": "/ɪnˈtɛlɪd͡ʒənt/"
     },
     {
       "word": "student",
@@ -1871,7 +2077,8 @@
       "example": "She is a top student in her class.",
       "image_link": "https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/blog-20-student-engagement-strategies-captivating-classroom.png",
       "topicId": 9,
-      "id": 208
+      "id": 208,
+      "pronunciation": "/ˈstjuː.dənt/"
     },
     {
       "word": "instructive",
@@ -1880,7 +2087,8 @@
       "example": "She found the training session highly instructive.",
       "image_link": "https://images.ctfassets.net/p0qf7j048i0q/7pZl7toukBxwCeofgmpIVW/ea021237ddcbc552b6c4e8dc86c9cb47/G667458312.png?w=3840&q=75&h=3840&fm=webp",
       "topicId": 9,
-      "id": 209
+      "id": 209,
+      "pronunciation": "/ɪnˈstɹʌktɪv/"
     },
     {
       "word": "educate",
@@ -1889,691 +2097,806 @@
       "example": "He was educated at a prestigious university.",
       "image_link": "https://www.ldatschool.ca/wp-content/uploads/2014/12/explicit-instruction-math.jpg",
       "topicId": 9,
-      "id": 210
+      "id": 210,
+      "pronunciation": "/ˈedʒɘkæet/"
     },
     {
       "word": "circle",
       "definition": "A round plane figure whose boundary consists of points equidistant from the center.",
       "topicId": 10,
-      "id": 211
+      "id": 211,
+      "pronunciation": "/ˈsɜɹkəl/"
     },
     {
       "word": "square",
       "definition": "A plane figure with four equal straight sides and four right angles.",
       "topicId": 10,
-      "id": 212
+      "id": 212,
+      "pronunciation": "/skwer/"
     },
     {
       "word": "triangle",
       "definition": "A plane figure with three straight sides and three angles.",
       "topicId": 10,
-      "id": 213
+      "id": 213,
+      "pronunciation": "/ˈtɹaɪəŋɡəl/"
     },
     {
       "word": "rectangle",
       "definition": "A plane figure with four straight sides and four right angles, especially one with unequal adjacent sides, in contrast to a square.",
       "topicId": 10,
-      "id": 214
+      "id": 214,
+      "pronunciation": "/ˈrɛktæŋɡ(ə)l/"
     },
     {
       "word": "oval",
       "definition": "A shape like a flattened circle or an egg.",
       "topicId": 10,
-      "id": 215
+      "id": 215,
+      "pronunciation": "/ˈəʊvəl/"
     },
     {
       "word": "hexagon",
       "definition": "A plane figure with six straight sides and angles.",
       "topicId": 10,
-      "id": 216
+      "id": 216,
+      "pronunciation": "/ˈhek.sə.ɡɑːn/"
     },
     {
       "word": "pentagon",
       "definition": "A plane figure with five straight sides and five angles.",
       "topicId": 10,
-      "id": 217
+      "id": 217,
+      "pronunciation": "/ˈpɛn.tə.ɡɑn/"
     },
     {
       "word": "octagon",
       "definition": "A plane figure with eight straight sides and eight angles.",
       "topicId": 10,
-      "id": 218
+      "id": 218,
+      "pronunciation": "/ˈɑːk.tə.ɡɑːn/"
     },
     {
       "word": "sphere",
       "definition": "A round solid figure, or its surface, with every point on its surface equidistant from its center.",
       "topicId": 10,
-      "id": 219
+      "id": 219,
+      "pronunciation": "/sfɪə/"
     },
     {
       "word": "cube",
       "definition": "A symmetrical three-dimensional shape, either solid or hollow, contained by six equal squares.",
       "topicId": 10,
-      "id": 220
+      "id": 220,
+      "pronunciation": "/kjuːb/"
     },
     {
       "word": "cylinder",
       "definition": "A solid geometric figure with straight parallel sides and a circular or oval cross section.",
       "topicId": 10,
-      "id": 221
+      "id": 221,
+      "pronunciation": "/ˈsɪlɪndə(ɹ)/"
     },
     {
       "word": "cone",
       "definition": "A solid or hollow object that tapers from a circular or roughly circular base to a point.",
       "topicId": 10,
-      "id": 222
+      "id": 222,
+      "pronunciation": "/kəʊn/"
     },
     {
       "word": "pyramid",
       "definition": "A monumental structure with a square or triangular base and sloping sides that meet in a point at the top.",
       "topicId": 10,
-      "id": 223
+      "id": 223,
+      "pronunciation": "/ˈpɪɹəmɪd/"
     },
     {
       "word": "parallelogram",
       "definition": "A four-sided plane rectilinear figure with opposite sides parallel.",
       "topicId": 10,
-      "id": 224
+      "id": 224,
+      "pronunciation": "/ˌpæ.ɹə.ˈlɛl.ə.ˌɡɹæm/"
     },
     {
       "word": "rhombus",
       "definition": "A quadrilateral whose four sides all have the same length.",
       "topicId": 10,
-      "id": 225
+      "id": 225,
+      "pronunciation": "/ˈrɑːm.bəs/"
     },
     {
       "word": "trapezoid",
       "definition": "A quadrilateral with only one pair of parallel sides.",
       "topicId": 10,
-      "id": 226
+      "id": 226,
+      "pronunciation": "/ˈtɹæpəzɔɪd/"
     },
     {
       "word": "ellipse",
       "definition": "A regular oval shape, traced by a point moving in a plane so that the sum of its distances from two other points (the foci) is constant.",
       "topicId": 10,
-      "id": 227
+      "id": 227,
+      "pronunciation": "/iˈlɪps/"
     },
     {
       "word": "torus",
       "definition": "A surface generated by a circle rotating about an axis in its plane that does not intersect the circle.",
       "topicId": 10,
-      "id": 228
+      "id": 228,
+      "pronunciation": "/ˈtɔːɹəs/"
     },
     {
       "word": "prism",
       "definition": "A solid geometric figure whose two ends are similar, equal, and parallel rectilinear figures, and whose sides are parallelograms.",
       "topicId": 10,
-      "id": 229
+      "id": 229,
+      "pronunciation": "/ˈpɹɪzəm/"
     },
     {
       "word": "melody",
       "definition": "A sequence of single notes that is musically satisfying.",
       "topicId": 11,
-      "id": 230
+      "id": 230,
+      "pronunciation": "/ˈmel.ə.di/"
     },
     {
       "word": "harmony",
       "definition": "The combination of simultaneously sounded musical notes to produce chords.",
       "topicId": 11,
-      "id": 231
+      "id": 231,
+      "pronunciation": "/ˈhɑːməni/"
     },
     {
       "word": "rhythm",
       "definition": "A strong, regular, repeated pattern of movement or sound.",
       "topicId": 11,
-      "id": 232
+      "id": 232,
+      "pronunciation": "/ˈɹɪ.ð(ə)m/"
     },
     {
       "word": "tempo",
       "definition": "The speed at which a passage of music is or should be played.",
       "topicId": 11,
-      "id": 233
+      "id": 233,
+      "pronunciation": "/ˈtɛm.pəʊ/"
     },
     {
       "word": "pitch",
       "definition": "The degree of highness or lowness of a tone.",
       "topicId": 11,
-      "id": 234
+      "id": 234,
+      "pronunciation": "/pɪtʃ/"
     },
     {
       "word": "scale",
       "definition": "A series of musical notes ordered by fundamental frequency or pitch.",
       "topicId": 11,
-      "id": 235
+      "id": 235,
+      "pronunciation": "/skeɪl/"
     },
     {
       "word": "chord",
       "definition": "A group of (typically three or more) notes sounded together, as a basis of harmony.",
       "topicId": 11,
-      "id": 236
+      "id": 236,
+      "pronunciation": "/kɔː(ɹ)d/"
     },
     {
       "word": "genre",
       "definition": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
       "topicId": 11,
-      "id": 237
+      "id": 237,
+      "pronunciation": "/(d)ʒɒn.ɹə/"
     },
     {
       "word": "lyrics",
       "definition": "The words of a song.",
       "topicId": 11,
-      "id": 238
+      "id": 238,
+      "pronunciation": "/ˈlɪɹ.ɪks/"
     },
     {
       "word": "beat",
       "definition": "The basic unit of time in a piece of music.",
       "topicId": 11,
-      "id": 239
+      "id": 239,
+      "pronunciation": "/biːt/"
     },
     {
       "word": "orchestra",
       "definition": "A group of instrumentalists, especially one combining string, woodwind, brass, and percussion sections and playing classical music.",
       "topicId": 11,
-      "id": 240
+      "id": 240,
+      "pronunciation": "/ˈɔːkəstɹə/"
     },
     {
       "word": "conductor",
       "definition": "A person who directs the performance of an orchestra or choir.",
       "topicId": 11,
-      "id": 241
+      "id": 241,
+      "pronunciation": "/kənˈdʌktɚ/"
     },
     {
       "word": "symphony",
       "definition": "An elaborate musical composition for full orchestra, typically in four movements.",
       "topicId": 11,
-      "id": 242
+      "id": 242,
+      "pronunciation": "/ˈsɪm.fə.ni/"
     },
     {
       "word": "concerto",
       "definition": "A musical composition for a solo instrument or instruments accompanied by an orchestra.",
       "topicId": 11,
-      "id": 243
+      "id": 243,
+      "pronunciation": "/kənˈtʃɛɹtoʊ/"
     },
     {
       "word": "sonata",
       "definition": "A composition for one or more solo instruments, one of which is usually a keyboard instrument, usually consisting of three or four independent movements varying in key, mood, and tempo.",
       "topicId": 11,
-      "id": 244
+      "id": 244,
+      "pronunciation": "/səˈnɑːtə/"
     },
     {
       "word": "opera",
       "definition": "A dramatic work in one or more acts, set to music for singers and instrumentalists.",
       "topicId": 11,
-      "id": 245
+      "id": 245,
+      "pronunciation": "/ˈɒp.əɹ.ə/"
     },
     {
       "word": "a cappella",
       "definition": "Without instrumental accompaniment.",
       "topicId": 11,
-      "id": 246
+      "id": 246,
+      "pronunciation": "/ˌæ.kæˈpɛl.ə/"
     },
     {
       "word": "composer",
       "definition": "A person who writes music, especially as a professional occupation.",
       "topicId": 11,
-      "id": 247
+      "id": 247,
+      "pronunciation": ""
     },
     {
       "word": "melody",
       "definition": "A sequence of single notes that is musically satisfying.",
       "topicId": 1,
-      "id": 248
+      "id": 248,
+      "pronunciation": "/ˈmel.ə.di/"
     },
     {
       "word": "harmony",
       "definition": "The combination of simultaneously sounded musical notes to produce chords and chord progressions having a pleasing effect.",
       "topicId": 1,
-      "id": 249
+      "id": 249,
+      "pronunciation": "/ˈhɑːməni/"
     },
     {
       "word": "rhythm",
       "definition": "A strong, regular, repeated pattern of movement or sound.",
       "topicId": 1,
-      "id": 250
+      "id": 250,
+      "pronunciation": "/ˈɹɪ.ð(ə)m/"
     },
     {
       "word": "tempo",
       "definition": "The speed at which a passage of music is or should be played.",
       "topicId": 1,
-      "id": 251
+      "id": 251,
+      "pronunciation": "/ˈtɛm.pəʊ/"
     },
     {
       "word": "genre",
       "definition": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
       "topicId": 1,
-      "id": 252
+      "id": 252,
+      "pronunciation": "/(d)ʒɒn.ɹə/"
     },
     {
       "word": "symphony",
       "definition": "An elaborate musical composition for full orchestra, typically in four movements.",
       "topicId": 1,
-      "id": 253
+      "id": 253,
+      "pronunciation": "/ˈsɪm.fə.ni/"
     },
     {
       "word": "concerto",
       "definition": "A musical composition for a solo instrument or instruments accompanied by an orchestra.",
       "topicId": 1,
-      "id": 254
+      "id": 254,
+      "pronunciation": "/kənˈtʃɛɹtoʊ/"
     },
     {
       "word": "opera",
       "definition": "A dramatic work in one or more acts, set to music for singers and instrumentalists.",
       "topicId": 1,
-      "id": 255
+      "id": 255,
+      "pronunciation": "/ˈɒp.əɹ.ə/"
     },
     {
       "word": "overture",
       "definition": "An orchestral piece at the beginning of an opera, suite, play, oratorio, or other extended composition.",
       "topicId": 1,
-      "id": 256
+      "id": 256,
+      "pronunciation": "/ˈəʊvətjʊə/"
     },
     {
       "word": "sonata",
       "definition": "A composition for an instrumental soloist, often with a piano accompaniment, typically in several movements with one or more in sonata form.",
       "topicId": 1,
-      "id": 257
+      "id": 257,
+      "pronunciation": "/səˈnɑːtə/"
     },
     {
       "word": "chord",
       "definition": "A group of (typically three or more) notes sounded together, as a basis of harmony.",
       "topicId": 1,
-      "id": 258
+      "id": 258,
+      "pronunciation": "/kɔː(ɹ)d/"
     },
     {
       "word": "scale",
       "definition": "An ascending or descending series of notes in a particular key.",
       "topicId": 1,
-      "id": 259
+      "id": 259,
+      "pronunciation": "/skeɪl/"
     },
     {
       "word": "octave",
       "definition": "A series of eight notes occupying the interval between (and including) two notes, one having twice or half the frequency of vibration of the other.",
       "topicId": 1,
-      "id": 260
+      "id": 260,
+      "pronunciation": "/ˈɒkteɪv/"
     },
     {
       "word": "clef",
       "definition": "A symbol placed at the beginning of a staff to indicate the pitch of the notes written on it.",
       "topicId": 1,
-      "id": 261
+      "id": 261,
+      "pronunciation": "/klef/"
     },
     {
       "word": "pitch",
       "definition": "The quality of a sound governed by the rate of vibrations producing it; the degree of highness or lowness of a tone.",
       "topicId": 1,
-      "id": 262
+      "id": 262,
+      "pronunciation": "/pɪtʃ/"
     },
     {
       "word": "tune",
       "definition": "A melody, especially one that characterizes a certain piece of music.",
       "topicId": 1,
-      "id": 263
+      "id": 263,
+      "pronunciation": "/tjuːn/"
     },
     {
       "word": "lyric",
       "definition": "The words of a song.",
       "topicId": 1,
-      "id": 264
+      "id": 264,
+      "pronunciation": "/ˈlɪɹ.ɪk/"
     },
     {
       "word": "ensemble",
       "definition": "A group of musicians, actors, or dancers who perform together.",
       "topicId": 1,
-      "id": 265
+      "id": 265,
+      "pronunciation": "/ˌɒnˈsɒm.bəl/"
     },
     {
       "word": "conductor",
       "definition": "A person who directs the performance of an orchestra or choir.",
       "topicId": 1,
-      "id": 266
+      "id": 266,
+      "pronunciation": "/kənˈdʌktɚ/"
     },
     {
       "word": "protagonist",
       "definition": "The main character in a literary work, often considered the hero or central figure.",
       "topicId": 13,
-      "id": 267
+      "id": 267,
+      "pronunciation": "/pɹəˈtæ.ɡə.nɪst/"
     },
     {
       "word": "antagonist",
       "definition": "A character or force in conflict with the main character, often considered the villain.",
       "topicId": 13,
-      "id": 268
+      "id": 268,
+      "pronunciation": "/ænˈtæɡənɪst/"
     },
     {
       "word": "metaphor",
       "definition": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
       "topicId": 13,
-      "id": 269
+      "id": 269,
+      "pronunciation": "/ˈmɛt.ə.fɔː(ɹ)/"
     },
     {
       "word": "symbolism",
       "definition": "The use of symbols to represent ideas or qualities in literature.",
       "topicId": 13,
-      "id": 270
+      "id": 270,
+      "pronunciation": "/ˈsɪmbəˌlɪzəm/"
     },
     {
       "word": "allegory",
       "definition": "A story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one.",
       "topicId": 13,
-      "id": 271
+      "id": 271,
+      "pronunciation": "/ˈæl.ɘˌɡoʊɹ.i/"
     },
     {
       "word": "genre",
       "definition": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
       "topicId": 13,
-      "id": 272
+      "id": 272,
+      "pronunciation": "/(d)ʒɒn.ɹə/"
     },
     {
       "word": "foreshadowing",
       "definition": "A literary device in which a writer gives an advance hint of what is to come later in the story.",
       "topicId": 13,
-      "id": 273
+      "id": 273,
+      "pronunciation": "/fɔrˈʃæd·oʊ·ɪŋ/"
     },
     {
       "word": "climax",
       "definition": "The most intense, exciting, or important point of a story; a culmination or apex.",
       "topicId": 13,
-      "id": 274
+      "id": 274,
+      "pronunciation": "/ˈklaɪmæks/"
     },
     {
       "word": "irony",
       "definition": "The expression of one's meaning by using language that normally signifies the opposite, typically for humorous or emphatic effect.",
       "topicId": 13,
-      "id": 275
+      "id": 275,
+      "pronunciation": " /ˈaɪ.rə.ni/"
     },
     {
       "word": "narrative",
       "definition": "A spoken or written account of connected events; a story.",
       "topicId": 13,
-      "id": 276
+      "id": 276,
+      "pronunciation": "/ˈnæɹətɪv/"
     },
     {
       "word": "epilogue",
       "definition": "A section or speech at the end of a book or play that serves as a comment on or a conclusion to what has happened.",
       "topicId": 13,
-      "id": 277
+      "id": 277,
+      "pronunciation": "/ˈɛpɪlɑɡ/"
     },
     {
       "word": "prologue",
       "definition": "A separate introductory section of a literary or musical work.",
       "topicId": 13,
-      "id": 278
+      "id": 278,
+      "pronunciation": "/ˈpɹəʊlɒɡ/"
     },
     {
       "word": "dialogue",
       "definition": "Conversation between two or more characters in a book, play, or movie.",
       "topicId": 13,
-      "id": 279
+      "id": 279,
+      "pronunciation": "/ˈdaɪəlɑɡ/"
     },
     {
       "word": "theme",
       "definition": "The central topic, subject, or message within a narrative.",
       "topicId": 13,
-      "id": 280
+      "id": 280,
+      "pronunciation": "/θiːm/"
     },
     {
       "word": "plot",
       "definition": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.",
       "topicId": 13,
-      "id": 281
+      "id": 281,
+      "pronunciation": "/plɒt/"
     },
     {
       "word": "setting",
       "definition": "The time and place in which the story takes place.",
       "topicId": 13,
-      "id": 282
+      "id": 282,
+      "pronunciation": "/ˈsɛtɪŋ/"
     },
     {
       "word": "imagery",
       "definition": "Visually descriptive or figurative language, especially in a literary work.",
       "topicId": 13,
-      "id": 283
+      "id": 283,
+      "pronunciation": "/ˈɪm.ə.dʒər.i/"
     },
     {
       "word": "characterization",
       "definition": "The creation or construction of a fictional character.",
       "topicId": 13,
-      "id": 284
+      "id": 284,
+      "pronunciation": "/ˌker.ək.tə.rəˈzeɪ.ʃən/"
     },
     {
       "word": "dynasty",
       "definition": "A line of hereditary rulers of a country.",
       "topicId": 14,
-      "id": 284
+      "id": 284,
+      "pronunciation": "/ˈdɪnəsti/"
     },
     {
       "word": "colonization",
       "definition": "The action or process of settling among and establishing control over the indigenous people of an area.",
       "topicId": 14,
-      "id": 285
+      "id": 285,
+      "pronunciation": "/ˌkɑː.lə.nəˈzeɪ.ʃən/"
     },
     {
       "word": "artifact",
       "definition": "An object made by a human being, typically one of cultural or historical interest.",
       "topicId": 14,
-      "id": 286
+      "id": 286,
+      "pronunciation": "/ˈɑːtɪfækt/"
     },
     {
       "word": "medieval",
       "definition": "Relating to the Middle Ages.",
       "topicId": 14,
-      "id": 287
+      "id": 287,
+      "pronunciation": "/mɪd.ˈiː.vəl/"
     },
     {
       "word": "renaissance",
       "definition": "The revival of art and literature under the influence of classical models in the 14th–16th centuries.",
       "topicId": 14,
-      "id": 288
+      "id": 288,
+      "pronunciation": "/ˈɹɛnəˌsɑns/"
     },
     {
       "word": "ancient",
       "definition": "Belonging to the very distant past and no longer in existence.",
       "topicId": 14,
-      "id": 289
+      "id": 289,
+      "pronunciation": "/ˈeɪn.ʃənt/"
     },
     {
       "word": "crusade",
       "definition": "Any of the medieval military expeditions made by Europeans to recover the Holy Land from the Muslims in the 11th, 12th, and 13th centuries.",
       "topicId": 14,
-      "id": 290
+      "id": 290,
+      "pronunciation": "/kɹuːˈseɪd/"
     },
     {
       "word": "civilization",
       "definition": "The stage of human social and cultural development and organization that is considered most advanced.",
       "topicId": 14,
-      "id": 291
+      "id": 291,
+      "pronunciation": "[ˌsɪv.ə.lɑeˈzæɪ.ʃən]"
     },
     {
       "word": "historian",
       "definition": "An expert in or student of history, especially that of a particular period, geographical region, or social phenomenon.",
       "topicId": 14,
-      "id": 292
+      "id": 292,
+      "pronunciation": "/hɪˈstɔəɹɪən/"
     },
     {
       "word": "industrialization",
       "definition": "The development of industries in a country or region on a wide scale.",
       "topicId": 14,
-      "id": 293
+      "id": 293,
+      "pronunciation": "/ɪnˌdʌs.tri.ə.ləˈzeɪ.ʃən/"
     },
     {
       "word": "archaeology",
       "definition": "The study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.",
       "topicId": 14,
-      "id": 294
+      "id": 294,
+      "pronunciation": "/ˌɑː.kiˈɒ.lə.dʒi/"
     },
     {
       "word": "feudalism",
       "definition": "The dominant social system in medieval Europe, in which the nobility held lands from the Crown in exchange for military service, and vassals were in turn tenants of the nobles.",
       "topicId": 14,
-      "id": 295
+      "id": 295,
+      "pronunciation": "/ˈfju.dəlɪzəm/"
     },
     {
       "word": "colonial",
       "definition": "Relating to or characteristic of a colony or colonies.",
       "topicId": 14,
-      "id": 296
+      "id": 296,
+      "pronunciation": "/kəˈləʊ.ni.əl/"
     },
     {
       "word": "renaissance",
       "definition": "The revival of art and literature under the influence of classical models in the 14th–16th centuries.",
       "topicId": 14,
-      "id": 297
+      "id": 297,
+      "pronunciation": "/ˈɹɛnəˌsɑns/"
     },
     {
       "word": "antiquity",
       "definition": "The ancient past, especially the period before the Middle Ages.",
       "topicId": 14,
-      "id": 298
+      "id": 298,
+      "pronunciation": "/ænˈtɪk.wɪ.ti/"
     },
     {
       "word": "treaty",
       "definition": "A formally concluded and ratified agreement between countries.",
       "topicId": 14,
-      "id": 299
+      "id": 299,
+      "pronunciation": "/ˈtɹiːti/"
     },
     {
       "word": "medieval",
       "definition": "Relating to the Middle Ages.",
       "topicId": 14,
-      "id": 300
+      "id": 300,
+      "pronunciation": "/mɪd.ˈiː.vəl/"
     },
     {
       "word": "chronology",
       "definition": "The arrangement of events or dates in the order of their occurrence.",
       "topicId": 14,
-      "id": 301
+      "id": 301,
+      "pronunciation": "/kɹəˈnɒl.ə.dʒi/"
     },
     {
       "word": "relic",
       "definition": "An object surviving from an earlier time, especially one of historical or sentimental interest.",
       "topicId": 14,
-      "id": 302
+      "id": 302,
+      "pronunciation": "/ˈɹɛlɪk/"
     },
     {
       "word": "renaissance",
       "definition": "The revival of art and literature under the influence of classical models in the 14th–16th centuries.",
       "topicId": 14,
-      "id": 303
+      "id": 303,
+      "pronunciation": "/ˈɹɛnəˌsɑns/"
     },
     {
       "word": "photosynthesis",
       "definition": "The process by which green plants and some other organisms use sunlight to synthesize foods with the aid of chlorophyll.",
       "topicId": 15,
-      "id": 304
+      "id": 304,
+      "pronunciation": "/ˌfəʊ.təʊ.ˈsɪn.θə.sɪs/"
     },
     {
       "word": "molecule",
       "definition": "A group of atoms bonded together, representing the smallest fundamental unit of a chemical compound.",
       "topicId": 15,
-      "id": 305
+      "id": 305,
+      "pronunciation": "/ˈmɒləkjuːl/"
     },
     {
       "word": "cell",
       "definition": "The smallest structural and functional unit of an organism, typically microscopic.",
       "topicId": 15,
-      "id": 306
+      "id": 306,
+      "pronunciation": "/sɛl/"
     },
     {
       "word": "theory",
       "definition": "A supposition or a system of ideas intended to explain something, based on general principles independent of the thing to be explained.",
       "topicId": 15,
-      "id": 307
+      "id": 307,
+      "pronunciation": "/ˈθiːəɹi/"
     },
     {
       "word": "quantum",
       "definition": "The minimum amount of any physical entity involved in an interaction, fundamental in the field of quantum mechanics.",
       "topicId": 15,
-      "id": 308
+      "id": 308,
+      "pronunciation": "[ˈkwɑɾ̃əm]"
     },
     {
       "word": "ecosystem",
       "definition": "A biological community of interacting organisms and their physical environment.",
       "topicId": 15,
-      "id": 309
+      "id": 309,
+      "pronunciation": "/ˈiːkəʊˌsɪstəm/"
     },
     {
       "word": "bacteria",
       "definition": "Microscopic single-celled organisms that have a cell wall but lack a nucleus, some of which can cause disease.",
       "topicId": 15,
-      "id": 310
+      "id": 310,
+      "pronunciation": "/bækˈtɪəɹ.ɪ.ə/"
     },
     {
       "word": "virus",
       "definition": "A small infectious agent that replicates only inside the living cells of an organism.",
       "topicId": 15,
-      "id": 311
+      "id": 311,
+      "pronunciation": "/ˈvaɪɹəs/"
     },
     {
       "word": "enzyme",
       "definition": "A substance produced by a living organism that acts as a catalyst to bring about a specific biochemical reaction.",
       "topicId": 15,
-      "id": 312
+      "id": 312,
+      "pronunciation": "/ˈɛn.zaɪm/"
     },
     {
       "word": "genome",
       "definition": "The complete set of genes or genetic material present in a cell or organism.",
       "topicId": 15,
-      "id": 313
+      "id": 313,
+      "pronunciation": "/ˈdʒiː.nəʊm/"
     },
     {
       "word": "neuron",
       "definition": "A specialized cell transmitting nerve impulses; a nerve cell.",
       "topicId": 15,
-      "id": 314
+      "id": 314,
+      "pronunciation": "/ˈnjəɹɑn/"
     },
     {
       "word": "telescope",
       "definition": "An optical instrument designed to make distant objects appear nearer, containing an arrangement of lenses or mirrors or both.",
       "topicId": 15,
-      "id": 315
+      "id": 315,
+      "pronunciation": "/ˈtɛlɪskəʊp/"
     },
     {
       "word": "hypothesis",
       "definition": "A proposed explanation for a phenomenon, to be tested through scientific research.",
       "topicId": 15,
-      "id": 316
+      "id": 316,
+      "pronunciation": "/haɪˈpɑː.θə.siːz/"
     },
     {
       "word": "biodiversity",
       "definition": "The variety of life in the world or in a particular habitat or ecosystem.",
       "topicId": 15,
-      "id": 317
+      "id": 317,
+      "pronunciation": "/ˌbaɪoʊdɑɪˈvɚsəti/"
     },
     {
       "word": "photosynthetic",
       "definition": "Relating to or using photosynthesis.",
       "topicId": 15,
-      "id": 318
+      "id": 318,
+      "pronunciation": ""
     },
     {
       "word": "acidic",
       "definition": "Having the properties of an acid, or containing acid; having a pH of less than 7.",
       "topicId": 15,
-      "id": 319
+      "id": 319,
+      "pronunciation": "/əˈsɪdɪk/"
     },
     {
       "word": "subatomic",
       "definition": "Smaller than or occurring within an atom.",
       "topicId": 15,
-      "id": 320
+      "id": 320,
+      "pronunciation": "/ˌsʌb.əˈtɑː.mɪk/"
     },
     {
       "word": "biological",
       "definition": "Relating to biology or living organisms.",
       "topicId": 15,
-      "id": 321
+      "id": 321,
+      "pronunciation": "/ˌbaɪə(ʊ)ˈlɒdʒɪkəl/"
     },
     {
       "word": "experimental",
       "definition": "Relating to scientific experiments.",
       "topicId": 15,
-      "id": 322
+      "id": 322,
+      "pronunciation": "/ɨkspɛɹəˈmɛntəl/"
     },
     {
       "word": "conduct",
       "definition": "To organize and carry out an activity or process, especially a scientific experiment.",
       "topicId": 15,
-      "id": 323
+      "id": 323,
+      "pronunciation": "/ˈkɒndʌkt/"
     }
   ],
   "topic": [
