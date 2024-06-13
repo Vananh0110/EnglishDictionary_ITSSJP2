@@ -25,16 +25,16 @@ const ListTopics = () => {
 
   return (
     <Layout page={"2"}>
-      <div className='container mx-auto'>
+      <div className='container mx-auto h-full flex flex-col'>
         <div className='w-full text-center text-5xl font-bold'>List Topics</div>
-        <Row gutter={[16, 16]} className='min-h-80'>
+        <Row gutter={[16, 16]} className='flex-1 mt-16'>
           {data &&
             data?.map(
               (topic, index) =>
                 index >= 9 * currentPage - 9 &&
                 index < 9 * currentPage && (
                   <Col span={8} key={topic.id}>
-                    <div className='flex items-center justify-center p-2 mt-20'>
+                    <div className='flex items-center justify-center p-2'>
                       <Topic topic={topic} />
                     </div>
                   </Col>
@@ -42,7 +42,7 @@ const ListTopics = () => {
             )}
         </Row>
         <Pagination
-          className='w-full text-end mt-4'
+          className='w-full text-end mt-4 justify-self-end'
           defaultPageSize={9}
           total={data?.length || 1}
           current={currentPage}
@@ -52,5 +52,5 @@ const ListTopics = () => {
     </Layout>
   );
 };
-// #1677ff
+
 export default ListTopics;
