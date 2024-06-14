@@ -7,7 +7,12 @@ const path = require("path");
 const filePath = path.join("db.json");
 const data = fs.readFileSync(filePath, "utf-8");
 const db = JSON.parse(data);
-const router = jsonServer.router(db);
+
+const tmpDir = '/tmp';
+const tmpFilePath = path.join(tmpDir, 'db.json');
+fs.writeFileSync(tmpFilePath, JSON.stringify(db));
+
+const router = jsonServer.router(tmpFilePath);
 
 server.use(middlewares);
 server.use(router);
