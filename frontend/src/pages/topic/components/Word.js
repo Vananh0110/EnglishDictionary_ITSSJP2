@@ -16,7 +16,7 @@ function Word({ word }) {
       onClick={() => navigate(`/words/${word.id}/detail`)}
     >
       <img
-        src={word.image_link}
+        src={word.image_link[0]}
         alt=''
         className='w-full h-64 overflow-hidden'
       />
