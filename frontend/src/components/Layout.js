@@ -28,8 +28,8 @@ const AppLayout = ({ children, page = '1' }) => {
     }
   };
   return (
-    <Layout className='h-[100vh] text-[#2E4051]'>
-      <Header className='flex items-center bg-white border-b-2'>
+    <Layout className='h-[100vh] text-[#2E4051] relative'>
+      <Header className='flex items-center bg-white border-b-2 fixed top-0 left-0 right-0 z-10'>
         <div className='container max-w-4xl mx-auto flex items-center'>
           <Menu
             mode='horizontal'
@@ -43,7 +43,7 @@ const AppLayout = ({ children, page = '1' }) => {
           </div>
         </div>
       </Header>
-      <Content className='p-12 bg-white'>{children}</Content>
+      <Content className='p-12 bg-white pt-20'>{children}</Content>
     </Layout>
   );
 };
