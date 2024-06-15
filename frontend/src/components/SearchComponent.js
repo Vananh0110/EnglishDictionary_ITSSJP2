@@ -43,6 +43,7 @@ const SearchComponent = ({
   const handleResultClick = (id) => {
     navigate(`/words/${id}/detail`);
     setSearchTerm("");
+    setOpen(false);
   };
 
   return (
@@ -61,7 +62,7 @@ const SearchComponent = ({
         className='shadow-sm rounded-3xl bg-[#F1F4F7] p-4 text-xl border-[#CED9E3] border-[3px]'
       />
       {searchResults?.length > 0 && open && (
-        <div className='w-full mx-auto bg-white border-2 mt-2 rounded-3xl overflow-x-hidden max-h-80 overflow-y-auto absolute top-full'>
+        <div className='w-full bg-white border-2 mt-2 rounded-3xl overflow-x-hidden max-h-80 overflow-y-auto absolute top-full z-50'>
           {searchResults.map((item) => (
             <div
               key={item.id}

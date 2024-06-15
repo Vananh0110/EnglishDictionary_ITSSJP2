@@ -162,14 +162,14 @@ const Detail = () => {
                   ))}
                 </ul>
               </div>
-              <div className="w-1/3 ">
+              <div className="w-1/3 mt-10">
                 <Carousel autoplay arrows>
                   {wordDetail.image_link.map((link, index) => (
-                    <div key={index}>
+                    <div key={index} className="relative h-80 flex items-center justify-center">
                       <img
                         src={link}
                         alt={wordDetail.word}
-                        className="w-full h-auto"
+                        className="w-full h-full object-cover"
                       />
                     </div>
                   ))}
