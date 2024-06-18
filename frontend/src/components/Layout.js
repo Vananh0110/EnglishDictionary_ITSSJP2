@@ -29,7 +29,7 @@ const AppLayout = ({ children, page = '1' }) => {
   };
   return (
     <Layout className='h-[100vh] text-[#2E4051] relative'>
-      <Header className='flex items-center bg-white border-b-2 fixed top-0 left-0 right-0 z-10'>
+      <Header className='flex items-center bg-white border-b-2 fixed top-0 left-0 right-0 z-20'>
         <div className='container max-w-4xl mx-auto flex items-center'>
           <Menu
             mode='horizontal'
