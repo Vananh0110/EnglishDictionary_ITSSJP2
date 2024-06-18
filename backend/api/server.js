@@ -12523,6 +12523,53 @@ const router = jsonServer.router(
             "definition": "To cease or stop the progress or development of something."
           }
         ]
+      },
+      {
+        "word": "cool",
+        "definition": "Refers to a lower temperature that is comfortably refreshing, neither warm nor cold.",
+        "topicId": 2,
+        "id": 324,
+        "pronunciation": "/kuːl/",
+        "image_link": [
+          "https://www.shutterstock.com/image-vector/girl-cute-cat-feel-hot-600nw-1382209688.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPL7zyQacNXuhpn5yIBqGEA6_MWlqvL60e1g&s",
+          "https://m.media-amazon.com/images/I/71Y3llgWZVL._AC_UF1000,1000_QL80_.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQEjQBZd3gG-Nhnwntvzx8jvlvlAiuWXCi5w&s"
+        ],
+        "examples": [
+          "It was a lovely cool evening.",
+          "Our new car is really cool.",
+          "The bedroom was painted a lovely cool blue.",
+          "He took off his shoes to cool his sweaty feet."
+        ],
+        "tdn": [
+          {
+            "word": "Chill",
+            "definition": "Relaxed, calm, or cool in terms of temperature. When referring to a person, it implies a state of being easygoing and not stressed."
+          },
+          {
+            "word": "Trendy",
+            "definition": "Means fashionable, up-to-date with the latest styles or trends. It is used to describe things that are popular and in vogue."
+          },
+          {
+            "word": "Calm",
+            "definition": "Means free from excitement or disturbance; peaceful and untroubled. It describes a state of tranquility and composure."
+          }
+        ],
+        "ttn": [
+          {
+            "word": "Hot",
+            "definition": "Refers to a high temperature or something that is very warm. It can also describe something that is exciting or passionate."
+          },
+          {
+            "word": "Anxious",
+            "definition": "Describes a state of being worried, nervous, or uneasy. It is the opposite of being calm and composed."
+          },
+          {
+            "word": "Unfashionable",
+            "definition": "Means not in accordance with current styles or trends. It describes something that is out of date or not stylish."
+          }
+        ]
       }
     ],
     "topic": [
