@@ -49,7 +49,10 @@ const Detail = () => {
           />
         </div>
         <div className="min-h-full flex">
-          <div className="border-[#CED9E3] border-[3px] rounded-3xl hover:shadow-md bg-white p-4 me-10 w-1/4 overflow-y-auto" style={{height: '600px'}}>
+          <div
+            className="border-[#CED9E3] border-[3px] rounded-3xl hover:shadow-md bg-white p-4 me-10 w-1/4 overflow-y-auto"
+            style={{ height: '700px' }}
+          >
             <h3 className="text-xl font-semibold mb-2 mt-3">Synonyms</h3>
             <List
               dataSource={wordDetail?.tdn}
@@ -99,7 +102,13 @@ const Detail = () => {
               <div className="flex p-4">
                 <div className="w-2/3 p-4">
                   <p className="text-lg mt-4">
-                    <strong>Definition:</strong> {wordDetail.definition}
+                    <strong>Definition:</strong>{' '}
+                    {wordDetail.definition.split('\n').map((item, index) => (
+                      <React.Fragment key={index}>
+                        {item}
+                        <br />
+                      </React.Fragment>
+                    ))}
                   </p>
                   <p className="text-lg mt-6">
                     <strong>Examples:</strong>
@@ -111,6 +120,7 @@ const Detail = () => {
                       </li>
                     ))}
                   </ul>
+                  
                 </div>
                 <div className="w-1/3 mt-10">
                   <Carousel autoplay arrows>
